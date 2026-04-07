@@ -1,105 +1,15 @@
 {
-  "updated": "2026-04-08T05:00:00+08:00",
+  "updated": "2026-04-08T07:00:00+08:00",
   "files": [
     {
-      "id": "2026-04-08T05",
-      "file": "2026-04-08T05.md",
-      "date": "2026-04-08T05:00:00+08:00",
+      "id": "2026-04-08T07",
+      "file": "2026-04-08T07.md",
+      "date": "2026-04-08T07:00:00+08:00",
       "title": {
-        "zh": "特朗普威胁摧毁文明与伊朗扩大反制",
-        "en": "Trump Threatens Civilization Destruction, Iran Escalates Countermeasures"
+        "zh": "特朗普宣布两周停火协议，避免文明威胁实现",
+        "en": "Trump Announces Two-Week Cease-Fire, Avoids Civilization Threat"
       },
-      "tags": ["military", "diplomacy"]
-    },
-    {
-      "id": "2026-04-08T04",
-      "file": "2026-04-08T04.md",
-      "date": "2026-04-08T04:00:00+08:00",
-      "title": {
-        "zh": "特朗普再发'文明死亡威胁' 多国紧急应对联合国表决受阻",
-        "en": "Trump Issues Another 'Civilization Death Threat' Multiple Countries Respond Urgently as UN Vote Blocked"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-08T03",
-      "file": "2026-04-08T03.md",
-      "date": "2026-04-08T03:00:00+08:00",
-      "title": {
-        "zh": "特朗普'文明毁灭'威胁引爆国际谴责 伊朗导弹第7次袭击以色列",
-        "en": "Trump's 'Civilization Destruction' Threat Sparks International Condemnation, Iran Fires 7th Missile Barrage at Israel"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-08T02",
-      "file": "2026-04-08T02.md",
-      "date": "2026-04-08T02:00:00+08:00",
-      "title": {
-        "zh": "特朗普威胁摧毁伊朗能源设施 伊朗拒绝停火谈判陷入僵局",
-        "en": "Trump threatens Iran energy destruction as Tehran rejects ceasefire talks deadlock"
-      },
-      "tags": ["military", "diplomacy", "economy"]
-    },
-    {
-      "id": "2026-04-08T00",
-      "file": "2026-04-08T00.md",
-      "date": "2026-04-08T00:00:00+08:00",
-      "title": {
-        "zh": "特朗普'文明死亡警告'升温，美以再度打击伊朗基础设施",
-        "en": "Trump 'Civilization Death Warning' Escalates, US-Israel Strike Iranian Infrastructure Again"
-      },
-      "tags": ["military", "diplomacy"]
-    },
-    {
-      "id": "2026-04-07T23",
-      "file": "2026-04-07T23.md",
-      "date": "2026-04-07T23:00:00+08:00",
-      "title": {
-        "zh": "Deadline前夜：以色列确认打击8座桥梁，特朗普遭两党抨击，伊朗关闭对美外交渠道，英国拒绝美军使用基地",
-        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges, Trump Criticized by Both Parties, Iran Closes Diplomatic Channels with US, UK Refuses US Base Access"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-07T22",
-      "file": "2026-04-07T22.md",
-      "date": "2026-04-07T22:00:00+08:00",
-      "title": {
-        "zh": "哈尔克岛遭多次打击，特朗普发出'文明消亡'威胁，伊朗誓言跨区域报复",
-        "en": "Kharg Island Hit Multiple Times, Trump Issues 'Civilization Will Die' Threat, Iran Vows Cross-Regional Retaliation"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-07T21",
-      "file": "2026-04-07T21.md",
-      "date": "2026-04-07T21:00:00+08:00",
-      "title": {
-        "zh": "Deadline倒计时：空袭伊朗桥梁火车站，特朗普称'整个文明今晚将消亡'，美军再次打击哈尔克岛",
-        "en": "Countdown to Deadline: Airstrikes Hit Iranian Bridges and Train Station, Trump Warns 'Whole Civilization Will Die Tonight', US Strikes Kharg Island Again"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-07T19",
-      "file": "2026-04-07T19.md",
-      "date": "2026-04-07T19:00:00+08:00",
-      "title": {
-        "zh": "特朗普警告期限到临：以色列警告伊朗人停用火车，沙特关闭与巴林通道",
-        "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
-      },
-      "tags": ["military", "diplomacy", "politics"]
-    },
-    {
-      "id": "2026-04-07T18",
-      "file": "2026-04-07T18.md",
-      "date": "2026-04-07T18:00:00+08:00",
-      "title": {
-        "zh": "Deadline到期前夕：伊朗拒绝临时停火，特朗普威胁4小时摧毁基础设施",
-        "en": "Eve of Deadline: Iran Rejects Ceasefire, Trump Threatens to Destroy Infrastructure in 4 Hours"
-      },
-      "tags": ["military", "diplomacy", "politics"]
+      "tags": ["diplomacy", "military"]
     }
   ]
 }
