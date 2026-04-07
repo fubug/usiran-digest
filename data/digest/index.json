@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-07T19:00:00+08:00",
+  "updated": "2026-04-07T20:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-07T20",
+      "file": "2026-04-07T20.md",
+      "date": "2026-04-07T20:00:00+08:00",
+      "title": {
+        "zh": "伊朗向以色列多地发射导弹，以军展开拦截行动",
+        "en": "Iran Launches Missiles at Multiple Israeli Targets, Israeli Military Conducts Interception Operations"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-07T19",
       "file": "2026-04-07T19.md",
