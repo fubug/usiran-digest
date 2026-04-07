@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-07T19:00:00+08:00",
+  "updated": "2026-04-07T21:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-07T21",
+      "file": "2026-04-07T21.md",
+      "date": "2026-04-07T21:00:00+08:00",
+      "title": {
+        "zh": "Deadline倒计时：空袭伊朗桥梁火车站，特朗普称'整个文明今晚将消亡'，美军再次打击哈尔克岛",
+        "en": "Countdown to Deadline: Airstrikes Hit Iranian Bridges and Train Station, Trump Warns 'Whole Civilization Will Die Tonight', US Strikes Kharg Island Again"
+      },
+      "tags": ["military", "diplomacy", "politics"]
+    },
     {
       "id": "2026-04-07T19",
       "file": "2026-04-07T19.md",
