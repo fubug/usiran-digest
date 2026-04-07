@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-07T10:00:00Z",
+  "updated": "2026-04-07T11:00:00Z",
   "files": [
+    {
+      "id": "2026-04-07T11",
+      "file": "2026-04-07T11.md",
+      "date": "2026-04-07T11:00:00Z",
+      "title": {
+        "zh": "特朗普警告期限到临：以色列警告伊朗人停用火车，沙特关闭与巴林通道",
+        "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
+      },
+      "tags": ["military", "diplomacy", "politics"]
+    },
     {
       "id": "2026-04-07T10",
       "file": "2026-04-07T10.md",
