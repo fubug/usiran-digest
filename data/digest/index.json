@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T00:00:00+08:00",
+  "updated": "2026-04-08T02:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T02",
+      "file": "2026-04-08T02.md",
+      "date": "2026-04-08T02:00:00+08:00",
+      "title": {
+        "zh": "特朗普威胁摧毁伊朗能源设施 伊朗拒绝停火谈判陷入僵局",
+        "en": "Trump threatens Iran energy destruction as Tehran rejects ceasefire talks deadlock"
+      },
+      "tags": ["military", "diplomacy", "economy"]
+    },
     {
       "id": "2026-04-08T00",
       "file": "2026-04-08T00.md",
