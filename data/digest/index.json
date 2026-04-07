@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T04:00:00+08:00",
+  "updated": "2026-04-08T05:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T05",
+      "file": "2026-04-08T05.md",
+      "date": "2026-04-08T05:00:00+08:00",
+      "title": {
+        "zh": "特朗普威胁摧毁文明与伊朗扩大反制",
+        "en": "Trump Threatens Civilization Destruction, Iran Escalates Countermeasures"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T04",
       "file": "2026-04-08T04.md",
