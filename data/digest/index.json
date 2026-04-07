@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T02:00:00+08:00",
+  "updated": "2026-04-08T03:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T03",
+      "file": "2026-04-08T03.md",
+      "date": "2026-04-08T03:00:00+08:00",
+      "title": {
+        "zh": "特朗普'文明毁灭'威胁引爆国际谴责 伊朗导弹第7次袭击以色列",
+        "en": "Trump's 'Civilization Destruction' Threat Sparks International Condemnation, Iran Fires 7th Missile Barrage at Israel"
+      },
+      "tags": ["military", "diplomacy", "politics"]
+    },
     {
       "id": "2026-04-08T02",
       "file": "2026-04-08T02.md",
