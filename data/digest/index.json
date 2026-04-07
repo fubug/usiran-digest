@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-07T23:00:00Z",
+  "updated": "2026-04-08T07:00:00+08:00",
   "files": [
     {
-      "id": "2026-04-07T23",
-      "file": "2026-04-07T23.md",
-      "date": "2026-04-07T23:00:00Z",
+      "id": "2026-04-08T07",
+      "file": "2026-04-08T07.md",
+      "date": "2026-04-08T07:00:00+08:00",
       "title": {
         "zh": "美伊战争：特朗普最后期限逼近，德黑兰拒绝45天停火",
         "en": "Iran War: Trump's Final Deadline Looms, Tehran Rejects 45-Day Ceasefire"
@@ -12,9 +12,9 @@
       "tags": ["military", "diplomacy"]
     },
     {
-      "id": "2026-04-07T11",
-      "file": "2026-04-07T11.md",
-      "date": "2026-04-07T11:00:00Z",
+      "id": "2026-04-07T19",
+      "file": "2026-04-07T19.md",
+      "date": "2026-04-07T19:00:00+08:00",
       "title": {
         "zh": "特朗普警告期限到临：以色列警告伊朗人停用火车，沙特关闭与巴林通道",
         "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
@@ -22,9 +22,9 @@
       "tags": ["military", "diplomacy", "politics"]
     },
     {
-      "id": "2026-04-07T10",
-      "file": "2026-04-07T10.md",
-      "date": "2026-04-07T10:00:00Z",
+      "id": "2026-04-07T18",
+      "file": "2026-04-07T18.md",
+      "date": "2026-04-07T18:00:00+08:00",
       "title": {
         "zh": "Deadline到期前夕：伊朗拒绝临时停火，特朗普威胁4小时摧毁基础设施",
         "en": "Eve of Deadline: Iran Rejects Ceasefire, Trump Threatens to Destroy Infrastructure in 4 Hours"
