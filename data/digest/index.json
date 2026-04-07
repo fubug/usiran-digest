@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-07T23:00:00+08:00",
+  "updated": "2026-04-08T00:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T00",
+      "file": "2026-04-08T00.md",
+      "date": "2026-04-08T00:00:00+08:00",
+      "title": {
+        "zh": "特朗普'文明死亡警告'升温，美以再度打击伊朗基础设施",
+        "en": "Trump 'Civilization Death Warning' Escalates, US-Israel Strike Iranian Infrastructure Again"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-07T23",
       "file": "2026-04-07T23.md",
