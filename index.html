@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US-Iran Digest | 美伊局势追踪</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <h1 class="site-title">
+          <span class="lang-zh">美伊局势追踪</span>
+          <span class="lang-en">US-Iran Situation Tracker</span>
+        </h1>
+        <div class="header-actions">
+          <div class="lang-toggle" id="langToggle">
+            <button class="lang-btn active" data-lang="zh">中文</button>
+            <button class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </div>
+      </div>
+      <p class="site-desc">
+        <span class="lang-zh">基于全网信源的实时局势汇总，每小时更新</span>
+        <span class="lang-en">Real-time situation digest from global sources, updated hourly</span>
+      </p>
+    </div>
+  </header>
+
+  <nav class="filter-bar">
+    <div class="container">
+      <div class="filter-tags" id="filterTags">
+        <button class="filter-tag active" data-tag="all">
+          <span class="lang-zh">全部</span>
+          <span class="lang-en">All</span>
+        </button>
+      </div>
+      <div class="filter-status">
+        <span class="lang-zh">共 <strong id="digestCount">0</strong> 条汇总</span>
+        <span class="lang-en"><strong id="digestCountEn">0</strong> digests</span>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div id="timeline" class="timeline">
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <span class="lang-zh">加载中...</span>
+        <span class="lang-en">Loading...</span>
+      </div>
+    </div>
+
+    <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+      <button class="load-more-btn" id="loadMoreBtn">
+        <span class="lang-zh">加载更多</span>
+        <span class="lang-en">Load More</span>
+      </button>
+    </div>
+
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <span class="lang-zh">暂无数据</span>
+      <span class="lang-en">No data yet</span>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        <span class="lang-zh">数据由 <a href="https://github.com" target="_blank">OpenClaw</a> 自动采集生成</span>
+        <span class="lang-en">Data auto-collected by <a href="https://github.com" target="_blank">OpenClaw</a></span>
+      </p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

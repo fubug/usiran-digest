@@ -1,0 +1,223 @@
+/* === Reset & Base === */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f1117;
+  --bg-card: #1a1d27;
+  --bg-header: #141620;
+  --text: #e2e4e9;
+  --text-dim: #8b8fa3;
+  --accent: #4a90d9;
+  --accent-light: #5ea3ec;
+  --tag-bg: #252836;
+  --tag-active: #4a90d9;
+  --border: #2a2d3a;
+  --timeline-line: #2a2d3a;
+  --danger: #e05555;
+  --warning: #e0a830;
+  --success: #4caf50;
+  --radius: 8px;
+  --max-width: 800px;
+}
+
+html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", "Noto Sans", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; }
+
+a { color: var(--accent-light); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* === Language Toggle === */
+.lang-toggle { display: flex; gap: 0; border-radius: 6px; overflow: hidden; border: 1px solid var(--border); }
+.lang-btn {
+  padding: 6px 14px;
+  background: transparent;
+  color: var(--text-dim);
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+.lang-btn.active { background: var(--accent); color: #fff; }
+
+/* === Header === */
+.site-header {
+  background: var(--bg-header);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 0 20px;
+}
+.header-top { display: flex; justify-content: space-between; align-items: center; }
+.site-title { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; }
+.site-desc { color: var(--text-dim); font-size: 0.9rem; margin-top: 8px; }
+
+/* === Filter Bar === */
+.filter-bar {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.filter-bar .container { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.filter-tags { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; }
+.filter-tag {
+  padding: 4px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--tag-bg);
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.filter-tag:hover { border-color: var(--accent); color: var(--text); }
+.filter-tag.active { background: var(--tag-active); color: #fff; border-color: var(--tag-active); }
+.filter-status { color: var(--text-dim); font-size: 0.85rem; white-space: nowrap; }
+
+/* === Timeline === */
+.timeline { position: relative; padding: 32px 0; }
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--timeline-line);
+}
+
+/* === Digest Card === */
+.digest-card {
+  position: relative;
+  margin-left: 44px;
+  margin-bottom: 28px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  transition: border-color 0.2s;
+}
+.digest-card:hover { border-color: var(--accent); }
+
+.digest-card::before {
+  content: '';
+  position: absolute;
+  left: -32px;
+  top: 24px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--bg);
+}
+
+.digest-date {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+  font-family: "SF Mono", "Fira Code", monospace;
+}
+.digest-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+.digest-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+.digest-tag {
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.digest-tag.military { background: rgba(224, 85, 85, 0.15); color: var(--danger); }
+.digest-tag.diplomacy { background: rgba(74, 144, 217, 0.15); color: var(--accent); }
+.digest-tag.economy { background: rgba(224, 168, 48, 0.15); color: var(--warning); }
+.digest-tag.politics { background: rgba(76, 175, 80, 0.15); color: var(--success); }
+.digest-tag.default { background: var(--tag-bg); color: var(--text-dim); }
+
+.digest-content { line-height: 1.7; }
+.digest-content h2 { font-size: 1rem; margin: 16px 0 8px; color: var(--accent-light); }
+.digest-content ul, .digest-content ol { padding-left: 20px; margin: 8px 0; }
+.digest-content li { margin-bottom: 4px; }
+.digest-content p { margin-bottom: 8px; }
+
+.digest-sources {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.digest-sources-title {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.digest-sources a {
+  font-size: 0.82rem;
+  margin-right: 12px;
+}
+
+/* === Loading / Empty === */
+.loading, .empty-state {
+  text-align: center;
+  padding: 60px 0;
+  color: var(--text-dim);
+}
+.spinner {
+  width: 28px;
+  height: 28px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* === Load More === */
+.load-more-wrap { text-align: center; padding: 20px 0 40px; }
+.load-more-btn {
+  padding: 10px 32px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+.load-more-btn:hover { border-color: var(--accent); background: var(--tag-bg); }
+
+/* === Footer === */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 0;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.85rem;
+}
+
+/* === i18n visibility === */
+[data-lang="zh"] .lang-en { display: none; }
+[data-lang="en"] .lang-zh { display: none; }
+
+/* === Responsive === */
+@media (max-width: 600px) {
+  .site-title { font-size: 1.2rem; }
+  .digest-card { margin-left: 36px; padding: 16px; }
+  .timeline::before { left: 14px; }
+  .digest-card::before { left: -28px; }
+  .filter-bar .container { flex-direction: column; align-items: flex-start; }
+}
