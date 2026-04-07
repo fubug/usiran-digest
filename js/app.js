@@ -45,7 +45,7 @@
   // --- Load Data ---
   async function loadIndex() {
     try {
-      const resp = await fetch(DATA_DIR + 'index.json');
+      const resp = await fetch(DATA_DIR + 'index.json?_=' + Date.now());
       if (!resp.ok) throw new Error('index.json not found');
       const index = await resp.json();
       // Sort by date descending
@@ -162,7 +162,7 @@
 
   async function loadDigestContent(entry, card) {
     try {
-      const resp = await fetch(DATA_DIR + entry.file);
+      const resp = await fetch(DATA_DIR + entry.file + '?_=' + Date.now());
       if (!resp.ok) throw new Error('file not found');
       const raw = await resp.text();
       const { frontmatter, body } = parseFrontmatter(raw);
