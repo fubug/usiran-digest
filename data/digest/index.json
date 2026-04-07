@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-07T22:00:00+08:00",
+  "updated": "2026-04-07T23:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-07T23",
+      "file": "2026-04-07T23.md",
+      "date": "2026-04-07T23:00:00+08:00",
+      "title": {
+        "zh": "Deadline前夜：以色列确认打击8座桥梁，特朗普遭两党抨击，伊朗关闭对美外交渠道，英国拒绝美军使用基地",
+        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges, Trump Criticized by Both Parties, Iran Closes Diplomatic Channels with US, UK Refuses US Base Access"
+      },
+      "tags": ["military", "diplomacy", "politics"]
+    },
     {
       "id": "2026-04-07T22",
       "file": "2026-04-07T22.md",
@@ -9,7 +19,7 @@
         "zh": "哈尔克岛遭多次打击，特朗普发出'文明消亡'威胁，伊朗誓言跨区域报复",
         "en": "Kharg Island Hit Multiple Times, Trump Issues 'Civilization Will Die' Threat, Iran Vows Cross-Regional Retaliation"
       },
-      "tags": ["military", "diplomacy"]
+      "tags": ["military", "diplomacy", "politics"]
     },
     {
       "id": "2026-04-07T21",
