@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T18:00:00+08:00",
+  "updated": "2026-04-08T19:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T19",
+      "file": "2026-04-08T19.md",
+      "date": "2026-04-08T19:00:00+08:00",
+      "title": {
+        "zh": "停火后石油暴跌，美伊冲突持续升级",
+        "en": "Oil Prices Plunge After Ceasefire, US-Iran Tensions Persist"
+      },
+      "tags": ["economy", "military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T18",
       "file": "2026-04-08T18.md",
