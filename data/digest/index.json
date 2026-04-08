@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-09T03:00:00+08:00",
+  "updated": "2026-04-09T06:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T06",
+      "file": "2026-04-09T06.md",
+      "date": "2026-04-09T06:00:00+08:00",
+      "title": {
+        "zh": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
+        "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-09T03",
       "file": "2026-04-09T03.md",
