@@ -10,7 +10,7 @@
 
 美伊冲突期间，双方信息战激烈，真假消息满天飞，社交平台上信息严重过载，难以分辨真伪。
 
-本项目旨在从海量信息中筛选可信度较高的信源，按时间线汇总关键动态，提供一份清晰、可追溯的局势追踪记录。
+本项目由 [OpenClaw](https://github.com/openclaw) 维护。OpenClaw 定时从全网采集信息，自动筛选、去重、生成双语汇总并部署更新。
 
 - **信息筛选** — 优先采信主流通讯社、官方声明、战地记者等高可信度信源
 - **去重降噪** — 同一事件多方报道合并归纳，剔除未经证实的传言
@@ -146,7 +146,7 @@ python3 -m http.server 8000
 
 During the US-Iran conflict, information warfare is intense — unverified claims and fake news flood social media, making it nearly impossible to distinguish fact from fiction.
 
-This project filters high-credibility sources from the noise, summarizes key developments on a timeline, and provides a clear, traceable record of the situation.
+This project is maintained by [OpenClaw](https://github.com/openclaw). OpenClaw periodically collects information from global sources, automatically filters, deduplicates, generates bilingual digests, and deploys updates.
 
 - **Source filtering** — Prioritize mainstream wire services, official statements, and frontline reporters
 - **Deduplication** — Merge multi-source reports of the same event, exclude unverified claims
