@@ -1,6 +1,26 @@
 {
-  "updated": "2026-04-08T11:00:00+08:00",
+  "updated": "2026-04-08T15:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T15",
+      "file": "2026-04-08T15.md",
+      "date": "2026-04-08T15:00:00+08:00",
+      "title": {
+        "zh": "特朗普宣布与伊朗达成双重停火协议",
+        "en": "Trump Announces 'Double Sided Ceasefire' with Iran"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-08T14",
+      "file": "2026-04-08T14.md",
+      "date": "2026-04-08T14:00:00+08:00",
+      "title": {
+        "zh": "巴林遭遇爆炸袭击，停火协议排除黎巴嫩",
+        "en": "Bahrain Blast Despite Ceasefire, Deal Excludes Lebanon"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T11",
       "file": "2026-04-08T11.md",
