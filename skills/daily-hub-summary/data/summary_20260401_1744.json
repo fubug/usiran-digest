@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 172,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698208"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 133,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698226"
+    },
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 131,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698229"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 102,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698233"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 94,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698235"
+    },
+    {
+      "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+      "author": "HOmo00",
+      "replies": 84,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202793",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698238"
+    },
+    {
+      "title": "新手开车前准备",
+      "author": "he123",
+      "replies": 78,
+      "node": "杭州",
+      "url": "https://www.v2ex.com/t/1202688",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698241"
+    },
+    {
+      "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+      "author": "laikicka",
+      "replies": 71,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202762",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698243"
+    },
+    {
+      "title": "最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？",
+      "author": "linky6565",
+      "replies": 61,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202686",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T17:44:49.698245"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 100,
+      "descendants": 16,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:50.641671"
+    },
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "score": 375,
+      "descendants": 98,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:51.138710"
+    },
+    {
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 64,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:51.582764"
+    },
+    {
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "score": 143,
+      "descendants": 97,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:52.071086"
+    },
+    {
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "score": 59,
+      "descendants": 10,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:52.557373"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 173,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:53.037477"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "score": 248,
+      "descendants": 109,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:53.484192"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 314,
+      "descendants": 87,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:54.050099"
+    },
+    {
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 127,
+      "descendants": 11,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:54.524455"
+    },
+    {
+      "title": "Chess in SQL",
+      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "score": 54,
+      "descendants": 15,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T17:44:55.009204"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 17:44:55\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 172 回复\n2. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 133 回复\n3. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 131 回复\n4. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 102 回复\n5. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 94 回复\n6. 【生活】同事想和你打扑克的话，你们会和同事打扑克吗\n   👤 HOmo00 | 💬 84 回复\n7. 【杭州】新手开车前准备\n   👤 he123 | 💬 78 回复\n8. 【生活】这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行\n   👤 laikicka | 💬 71 回复\n9. 【汽车】最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？\n   👤 linky6565 | 💬 61 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. CERN levels up with new superconducting karts\n   ⭐ 100 | 💬 16\n2. Claude Code Unpacked : A visual guide\n   ⭐ 375 | 💬 98\n3. Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)\n   ⭐ 64 | 💬 12\n4. Neanderthals survived on a knife's edge for 350k years\n   ⭐ 143 | 💬 97\n5. Bring Back MiniDV with This Raspberry Pi FireWire Hat\n   ⭐ 59 | 💬 10\n6. TinyLoRA – Learning to Reason in 13 Parameters\n   ⭐ 173 | 💬 19\n7. Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs\n   ⭐ 248 | 💬 109\n8. A dot a day keeps the clutter away\n   ⭐ 314 | 💬 87\n9. TruffleRuby\n   ⭐ 127 | 💬 11\n10. Chess in SQL\n   ⭐ 54 | 💬 15\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 17:44\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T17:44:55.009315"
+}

@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "你用 AI 赚到过钱吗 怎么赚的？",
+      "author": "ShawnShi",
+      "replies": 59,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201942",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647426"
+    },
+    {
+      "title": "分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）",
+      "author": "skelton",
+      "replies": 59,
+      "node": "分享创造",
+      "url": "https://www.v2ex.com/t/1201945",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647444"
+    },
+    {
+      "title": "请问 m 芯片真的很强吗?",
+      "author": "badboy200600",
+      "replies": 52,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202001",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647447"
+    },
+    {
+      "title": "大家一人来一句 AI 味很浓的语句，纯属娱乐",
+      "author": "monosolo1on1",
+      "replies": 50,
+      "node": "每日一笑",
+      "url": "https://www.v2ex.com/t/1202017",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647450"
+    },
+    {
+      "title": "apple watch 你们都用来干什么？",
+      "author": "linzhai",
+      "replies": 48,
+      "node": " WATCH",
+      "url": "https://www.v2ex.com/t/1201936",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647453"
+    },
+    {
+      "title": "弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗",
+      "author": "jimmer1993",
+      "replies": 39,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202052",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647456"
+    },
+    {
+      "title": "入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。",
+      "author": "qkunchanzi",
+      "replies": 38,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201958",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647458"
+    },
+    {
+      "title": "有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案",
+      "author": "timespy",
+      "replies": 31,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201922",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647461"
+    },
+    {
+      "title": "大资金",
+      "author": "cmdOptionKana",
+      "replies": 29,
+      "node": "投资",
+      "url": "https://www.v2ex.com/t/1201938",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T00:45:33.647463"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Say No to Palantir in Europe",
+      "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+      "score": 319,
+      "descendants": 69,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:34.569501"
+    },
+    {
+      "title": "The bot situation on the internet is worse than you could imagine",
+      "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
+      "score": 19,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:35.002788"
+    },
+    {
+      "title": "App that shows real-time lightning on Earth is showing bombings in Middle East",
+      "url": "https://maps.blitzortung.org/",
+      "score": 42,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:35.433857"
+    },
+    {
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 368,
+      "descendants": 161,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:35.917071"
+    },
+    {
+      "title": "Stop Publishing Garbage Data, It's Embarrassing",
+      "url": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/",
+      "score": 26,
+      "descendants": 21,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:36.401285"
+    },
+    {
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "score": 21,
+      "descendants": 8,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:36.884420"
+    },
+    {
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "score": 183,
+      "descendants": 127,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:37.316942"
+    },
+    {
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "score": 100,
+      "descendants": 45,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:37.798528"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "score": 1265,
+      "descendants": 244,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:38.283431"
+    },
+    {
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+      "score": 6,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T00:45:38.715563"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-30 00:45:38\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】你用 AI 赚到过钱吗 怎么赚的？\n   👤 ShawnShi | 💬 59 回复\n2. 【分享创造】分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）\n   👤 skelton | 💬 59 回复\n3. 【Apple】请问 m 芯片真的很强吗?\n   👤 badboy200600 | 💬 52 回复\n4. 【每日一笑】大家一人来一句 AI 味很浓的语句，纯属娱乐\n   👤 monosolo1on1 | 💬 50 回复\n5. 【 WATCH】apple watch 你们都用来干什么？\n   👤 linzhai | 💬 48 回复\n6. 【问与答】弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗\n   👤 jimmer1993 | 💬 39 回复\n7. 【职场话题】入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。\n   👤 qkunchanzi | 💬 38 回复\n8. 【问与答】有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案\n   👤 timespy | 💬 31 回复\n9. 【投资】大资金\n   👤 cmdOptionKana | 💬 29 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Say No to Palantir in Europe\n   ⭐ 319 | 💬 69\n2. The bot situation on the internet is worse than you could imagine\n   ⭐ 19 | 💬 2\n3. App that shows real-time lightning on Earth is showing bombings in Middle East\n   ⭐ 42 | 💬 4\n4. Overestimation of microplastics potentially caused by scientists' gloves\n   ⭐ 368 | 💬 161\n5. Stop Publishing Garbage Data, It's Embarrassing\n   ⭐ 26 | 💬 21\n6. Voyager 1 runs on 69 KB of memory and an 8-track tape recorder\n   ⭐ 21 | 💬 8\n7. Miasma: A tool to trap AI web scrapers in an endless poison pit\n   ⭐ 183 | 💬 127\n8. Police used AI facial recognition to wrongly arrest TN woman for crimes in ND\n   ⭐ 100 | 💬 45\n9. Founder of GitLab battles cancer by founding companies\n   ⭐ 1265 | 💬 244\n10. The RISE RISC-V Runners: free, native RISC-V CI on GitHub\n   ⭐ 6 | 💬 0\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 00:45\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-30T00:45:38.715670"
+}

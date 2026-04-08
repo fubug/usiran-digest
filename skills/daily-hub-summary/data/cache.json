@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-04-07T10:00:08.797324",
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "[送 5 张 Giffgaff 卡] 阿里云大客户折扣账户， ECS 轻松 5 折！",
+      "author": "Yserver",
+      "replies": 124,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1203796",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381747"
+    },
+    {
+      "title": "为什么抖音的思路跟正常人不一样？",
+      "author": "RichardLuo0",
+      "replies": 107,
+      "node": "Android",
+      "url": "https://www.v2ex.com/t/1203769",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381764"
+    },
+    {
+      "title": "什么时候老人身份是插队者的挡箭牌？？",
+      "author": "Stupid22",
+      "replies": 50,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1203803",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381768"
+    },
+    {
+      "title": "[专属福利/AI 中转站] OneXModel 限时回馈 V 站用户，诚邀体验~",
+      "author": "Robot2012",
+      "replies": 49,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1203876",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381771"
+    },
+    {
+      "title": "微信输入法为什么这么消耗系统资源？",
+      "author": "SonicKang",
+      "replies": 42,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203815",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381774"
+    },
+    {
+      "title": "我做了个 apple tv 看日本小姐姐的服务",
+      "author": "dutmeepo",
+      "replies": 35,
+      "node": "Apple TV",
+      "url": "https://www.v2ex.com/t/1203833",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381776"
+    },
+    {
+      "title": "京东洗衣这么离谱吗",
+      "author": "Vesc",
+      "replies": 31,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1203878",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381779"
+    },
+    {
+      "title": "奶昔机场怎么了？",
+      "author": "aozrobot",
+      "replies": 30,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1203818",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381781"
+    },
+    {
+      "title": "新买的 mbp m5 本有必要买 apple care 吗？",
+      "author": "badboy200600",
+      "replies": 28,
+      "node": "MacBook Pro",
+      "url": "https://www.v2ex.com/t/1203781",
+      "source": "V2EX",
+      "timestamp": "2026-04-07T10:00:02.381783"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
+      "score": 228,
+      "descendants": 103,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:03.444821"
+    },
+    {
+      "title": "Netflix Void Model: Video Object and Interaction Deletion",
+      "url": "https://github.com/Netflix/void-model",
+      "score": 26,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:04.020795"
+    },
+    {
+      "title": "Solod – A Subset of Go That Translates to C",
+      "url": "https://github.com/solod-dev/solod",
+      "score": 14,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:04.646500"
+    },
+    {
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
+      "score": 206,
+      "descendants": 114,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:05.229974"
+    },
+    {
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "score": 331,
+      "descendants": 142,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:05.873052"
+    },
+    {
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "score": 133,
+      "descendants": 63,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:06.479767"
+    },
+    {
+      "title": "Porting Go's strings package to C",
+      "url": "https://antonz.org/porting-go-strings/",
+      "score": 34,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:07.156178"
+    },
+    {
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "score": 261,
+      "descendants": 132,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:07.690659"
+    },
+    {
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "score": 217,
+      "descendants": 66,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:08.301817"
+    },
+    {
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "score": 861,
+      "descendants": 318,
+      "source": "Hacker News",
+      "timestamp": "2026-04-07T10:00:08.797015"
+    }
+  ]
+}

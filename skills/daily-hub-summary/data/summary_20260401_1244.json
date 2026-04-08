@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 105,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357851"
+    },
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 80,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357865"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 79,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357869"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 74,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357871"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 62,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357874"
+    },
+    {
+      "title": "这种三省六部的 agent 架构有没有用？有用过的麻？",
+      "author": "lynn1su",
+      "replies": 59,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202502",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357876"
+    },
+    {
+      "title": "新手开车前准备",
+      "author": "he123",
+      "replies": 53,
+      "node": "杭州",
+      "url": "https://www.v2ex.com/t/1202688",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357879"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 52,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T12:44:01.357881"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+      "url": "https://neuberg.ai/",
+      "score": 22,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:02.377433"
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 976,
+      "descendants": 383,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:02.877991"
+    },
+    {
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "score": 55,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:03.334269"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 116,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:03.776580"
+    },
+    {
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 75,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:04.262492"
+    },
+    {
+      "title": "Analyzing Geekbench 6 under Intel's BOT",
+      "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+      "score": 12,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:04.748804"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "score": 164,
+      "descendants": 69,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:05.242192"
+    },
+    {
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "score": 8,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:05.684977"
+    },
+    {
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 170,
+      "descendants": 34,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:06.167780"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 215,
+      "descendants": 68,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T12:44:06.614087"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 12:44:06\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 105 回复\n2. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 80 回复\n3. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 79 回复\n4. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 74 回复\n5. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 62 回复\n6. 【程序员】这种三省六部的 agent 架构有没有用？有用过的麻？\n   👤 lynn1su | 💬 59 回复\n7. 【杭州】新手开车前准备\n   👤 he123 | 💬 53 回复\n8. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 52 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. I built a 516-panel financial terminal in 3 weeks using AI\n   ⭐ 22 | 💬 14\n2. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 976 | 💬 383\n3. Neanderthals survived on a knife's edge for 350k years\n   ⭐ 55 | 💬 12\n4. TinyLoRA – Learning to Reason in 13 Parameters\n   ⭐ 116 | 💬 12\n5. TruffleRuby\n   ⭐ 75 | 💬 4\n6. Analyzing Geekbench 6 under Intel's BOT\n   ⭐ 12 | 💬 3\n7. Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs\n   ⭐ 164 | 💬 69\n8. Bring Back MiniDV with This Raspberry Pi FireWire Hat\n   ⭐ 8 | 💬 0\n9. Ministack (Replacement for LocalStack)\n   ⭐ 170 | 💬 34\n10. A dot a day keeps the clutter away\n   ⭐ 215 | 💬 68\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 12:44\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T12:44:06.614201"
+}

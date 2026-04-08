@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 141,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985535"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 90,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985558"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 73,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985563"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 61,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985568"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 61,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985572"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 58,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985577"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 57,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T04:30:22.985581"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "score": 200,
+      "descendants": 47,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:23.955560"
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 286,
+      "descendants": 126,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:24.406311"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1693,
+      "descendants": 853,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:24.860954"
+    },
+    {
+      "title": "Cohere Transcribe: Speech Recognition",
+      "url": "https://cohere.com/blog/transcribe",
+      "score": 112,
+      "descendants": 41,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:25.311990"
+    },
+    {
+      "title": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 99,
+      "descendants": 179,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:26.592083"
+    },
+    {
+      "title": "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
+      "url": "https://github.com/timescale/pg_textsearch",
+      "score": 34,
+      "descendants": 5,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:27.043105"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 229,
+      "descendants": 71,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:27.516314"
+    },
+    {
+      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+      "url": "https://github.com/ericlewis/libpo32",
+      "score": 27,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:27.970543"
+    },
+    {
+      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+      "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+      "score": 138,
+      "descendants": 32,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:28.418010"
+    },
+    {
+      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "url": "https://github.com/jkool702/forkrun",
+      "score": 65,
+      "descendants": 10,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T04:30:28.900533"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 04:30:28\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 141 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 90 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 73 回复\n4. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 61 回复\n5. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 61 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 58 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 57 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. GitHub's Historic Uptime\n   ⭐ 200 | 💬 47\n2. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 286 | 💬 126\n3. Claude Code's source code has been leaked via a map file in their NPM registry\n   ⭐ 1693 | 💬 853\n4. Cohere Transcribe: Speech Recognition\n   ⭐ 112 | 💬 41\n5. Slop is not necessarily the future\n   ⭐ 99 | 💬 179\n6. Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search\n   ⭐ 34 | 💬 5\n7. Open source CAD in the browser (Solvespace)\n   ⭐ 229 | 💬 71\n8. Teenage Engineering's PO-32 acoustic modem and synth implementation\n   ⭐ 27 | 💬 4\n9. OkCupid gave 3M dating-app photos to facial recognition firm, FTC says\n   ⭐ 138 | 💬 32\n10. Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)\n   ⭐ 65 | 💬 10\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 04:30\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T04:30:28.900699"
+}

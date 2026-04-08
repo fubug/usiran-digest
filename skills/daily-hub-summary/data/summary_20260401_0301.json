@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 141,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717607"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 89,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717626"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 73,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717629"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 61,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717632"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 61,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717635"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 58,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717638"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 57,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T03:01:05.717641"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1517,
+      "descendants": 765,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:06.635068"
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 82,
+      "descendants": 31,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:07.225378"
+    },
+    {
+      "title": "Cohere Transcribe: Speech Recognition",
+      "url": "https://cohere.com/blog/transcribe",
+      "score": 94,
+      "descendants": 30,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:07.712779"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 198,
+      "descendants": 61,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:08.240335"
+    },
+    {
+      "title": "Good code will still win",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 50,
+      "descendants": 90,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:08.782549"
+    },
+    {
+      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "url": "https://github.com/jkool702/forkrun",
+      "score": 44,
+      "descendants": 9,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:09.387566"
+    },
+    {
+      "title": "Accidentally created my first fork bomb with Claude Code",
+      "url": "https://www.droppedasbaby.com/posts/2602-01/",
+      "score": 24,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:10.136045"
+    },
+    {
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "score": 25,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:10.621020"
+    },
+    {
+      "title": "A Primer on Long-Duration Life Support",
+      "url": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+      "score": 12,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:11.130780"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 578,
+      "descendants": 298,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T03:01:11.576462"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 03:01:11\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 141 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 89 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 73 回复\n4. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 61 回复\n5. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 61 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 58 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 57 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Claude Code's source code has been leaked via a map file in their NPM registry\n   ⭐ 1517 | 💬 765\n2. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 82 | 💬 31\n3. Cohere Transcribe: Speech Recognition\n   ⭐ 94 | 💬 30\n4. Open source CAD in the browser (Solvespace)\n   ⭐ 198 | 💬 61\n5. Good code will still win\n   ⭐ 50 | 💬 90\n6. Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)\n   ⭐ 44 | 💬 9\n7. Accidentally created my first fork bomb with Claude Code\n   ⭐ 24 | 💬 2\n8. From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem\n   ⭐ 25 | 💬 1\n9. A Primer on Long-Duration Life Support\n   ⭐ 12 | 💬 0\n10. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 578 | 💬 298\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 03:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T03:01:11.576569"
+}

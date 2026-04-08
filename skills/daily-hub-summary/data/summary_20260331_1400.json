@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 113,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400231"
+    },
+    {
+      "title": "经济要崩溃了吗？大萧条叠加 AI 危机",
+      "author": "iloveyou",
+      "replies": 92,
+      "node": "经济",
+      "url": "https://www.v2ex.com/t/1202405",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400253"
+    },
+    {
+      "title": "蜕变日记 5(2 约女大学生)",
+      "author": "yyll",
+      "replies": 87,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202265",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400258"
+    },
+    {
+      "title": "对于吸血的另一半家庭，陷入了迷茫",
+      "author": "diligentCoding",
+      "replies": 77,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202295",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400262"
+    },
+    {
+      "title": "antigravity 额度几乎是乞丐版了， ultra 订阅也不行",
+      "author": "keyu1103",
+      "replies": 72,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202215",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400266"
+    },
+    {
+      "title": "刚才发现小米应用商店半夜 3 点偷偷给我装应用",
+      "author": "ztjal",
+      "replies": 68,
+      "node": "Android",
+      "url": "https://www.v2ex.com/t/1202332",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400271"
+    },
+    {
+      "title": "想统计一下频率， 2 天或者 3 天一次频率算高吗",
+      "author": "myTrip",
+      "replies": 66,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202440",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400275"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 53,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400279"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 48,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T14:00:56.400283"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 377,
+      "descendants": 104,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:57.330047"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 97,
+      "descendants": 29,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:57.815112"
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 24,
+      "descendants": 8,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:58.297864"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 231,
+      "descendants": 88,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:58.787661"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 160,
+      "descendants": 86,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:59.271663"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 510,
+      "descendants": 162,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:00:59.717489"
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 459,
+      "descendants": 166,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:01:00.243102"
+    },
+    {
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "score": 199,
+      "descendants": 185,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:01:00.710211"
+    },
+    {
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "score": 114,
+      "descendants": 5,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:01:01.576430"
+    },
+    {
+      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
+      "url": "https://github.com/tihiera/raincast",
+      "score": 3,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T14:01:02.064260"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 14:01:02\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 113 回复\n2. 【经济】经济要崩溃了吗？大萧条叠加 AI 危机\n   👤 iloveyou | 💬 92 回复\n3. 【生活】蜕变日记 5(2 约女大学生)\n   👤 yyll | 💬 87 回复\n4. 【生活】对于吸血的另一半家庭，陷入了迷茫\n   👤 diligentCoding | 💬 77 回复\n5. 【程序员】antigravity 额度几乎是乞丐版了， ultra 订阅也不行\n   👤 keyu1103 | 💬 72 回复\n6. 【Android】刚才发现小米应用商店半夜 3 点偷偷给我装应用\n   👤 ztjal | 💬 68 回复\n7. 【问与答】想统计一下频率， 2 天或者 3 天一次频率算高吗\n   👤 myTrip | 💬 66 回复\n8. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 53 回复\n9. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 48 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Axios compromised on NPM – Malicious versions drop remote access trojan\n   ⭐ 377 | 💬 104\n2. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 97 | 💬 29\n3. Google's 200M-parameter time-series foundation model with 16k context\n   ⭐ 24 | 💬 8\n4. Universal Claude.md – cut Claude output tokens\n   ⭐ 231 | 💬 88\n5. Artemis II is not safe to fly\n   ⭐ 160 | 💬 86\n6. Fedware: Government apps that spy harder than the apps they ban\n   ⭐ 510 | 💬 162\n7. Do your own writing\n   ⭐ 459 | 💬 166\n8. Android Developer Verification\n   ⭐ 199 | 💬 185\n9. Clojure: The Documentary, official trailer [video]\n   ⭐ 114 | 💬 5\n10. Show HN: Raincast – Describe an app, get a native desktop app (open source)\n   ⭐ 3 | 💬 0\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 14:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T14:01:02.064476"
+}

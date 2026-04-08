@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）",
+      "author": "skelton",
+      "replies": 60,
+      "node": "分享创造",
+      "url": "https://www.v2ex.com/t/1201945",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316708"
+    },
+    {
+      "title": "你用 AI 赚到过钱吗 怎么赚的？",
+      "author": "ShawnShi",
+      "replies": 59,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201942",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316726"
+    },
+    {
+      "title": "请问 m 芯片真的很强吗?",
+      "author": "badboy200600",
+      "replies": 53,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202001",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316730"
+    },
+    {
+      "title": "大家一人来一句 AI 味很浓的语句，纯属娱乐",
+      "author": "monosolo1on1",
+      "replies": 52,
+      "node": "每日一笑",
+      "url": "https://www.v2ex.com/t/1202017",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316732"
+    },
+    {
+      "title": "apple watch 你们都用来干什么？",
+      "author": "linzhai",
+      "replies": 50,
+      "node": " WATCH",
+      "url": "https://www.v2ex.com/t/1201936",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316735"
+    },
+    {
+      "title": "弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗",
+      "author": "jimmer1993",
+      "replies": 47,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202052",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316738"
+    },
+    {
+      "title": "入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。",
+      "author": "qkunchanzi",
+      "replies": 39,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201958",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316741"
+    },
+    {
+      "title": "有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案",
+      "author": "timespy",
+      "replies": 31,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201922",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316743"
+    },
+    {
+      "title": "大资金",
+      "author": "cmdOptionKana",
+      "replies": 30,
+      "node": "投资",
+      "url": "https://www.v2ex.com/t/1201938",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316746"
+    },
+    {
+      "title": "请问大家写代码 用 5.4 还是 5.3-codex",
+      "author": "admirez",
+      "replies": 25,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201927",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T03:45:35.316748"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "score": 211,
+      "descendants": 90,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:36.234687"
+    },
+    {
+      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "score": 71,
+      "descendants": 26,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:36.717180"
+    },
+    {
+      "title": "Typing and Keyboards",
+      "url": "https://lzon.ca/posts/series/grateful/typing-and-keyboards/",
+      "score": 20,
+      "descendants": 21,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:37.200369"
+    },
+    {
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "url": "https://github.com/chenglou/pretext",
+      "score": 99,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:37.634819"
+    },
+    {
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+      "score": 73,
+      "descendants": 18,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:38.070945"
+    },
+    {
+      "title": "More on Version Control",
+      "url": "https://bramcohen.com/p/more-on-version-control",
+      "score": 4,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:38.557608"
+    },
+    {
+      "title": "Neovim 0.12.0",
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "score": 126,
+      "descendants": 59,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:39.045254"
+    },
+    {
+      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "url": "https://github.com/DavidHavoc/ayaFlow",
+      "score": 51,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:39.544423"
+    },
+    {
+      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "score": 38,
+      "descendants": 7,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:40.038657"
+    },
+    {
+      "title": "A Message from the Ruby Central Board",
+      "url": "https://rubycentral.org/news/a-message-from-the-ruby-central-board/",
+      "score": 3,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T03:45:40.518255"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-30 03:45:40\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【分享创造】分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）\n   👤 skelton | 💬 60 回复\n2. 【问与答】你用 AI 赚到过钱吗 怎么赚的？\n   👤 ShawnShi | 💬 59 回复\n3. 【Apple】请问 m 芯片真的很强吗?\n   👤 badboy200600 | 💬 53 回复\n4. 【每日一笑】大家一人来一句 AI 味很浓的语句，纯属娱乐\n   👤 monosolo1on1 | 💬 52 回复\n5. 【 WATCH】apple watch 你们都用来干什么？\n   👤 linzhai | 💬 50 回复\n6. 【问与答】弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗\n   👤 jimmer1993 | 💬 47 回复\n7. 【职场话题】入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。\n   👤 qkunchanzi | 💬 39 回复\n8. 【问与答】有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案\n   👤 timespy | 💬 31 回复\n9. 【投资】大资金\n   👤 cmdOptionKana | 💬 30 回复\n10. 【问与答】请问大家写代码 用 5.4 还是 5.3-codex\n   👤 admirez | 💬 25 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Voyager 1 runs on 69 KB of memory and an 8-track tape recorder\n   ⭐ 211 | 💬 90\n2. C++26 is done ISO C++ standards meeting, Trip Report\n   ⭐ 71 | 💬 26\n3. Typing and Keyboards\n   ⭐ 20 | 💬 21\n4. Pretext: TypeScript library for multiline text measurement and layout\n   ⭐ 99 | 💬 14\n5. The RISE RISC-V Runners: free, native RISC-V CI on GitHub\n   ⭐ 73 | 💬 18\n6. More on Version Control\n   ⭐ 4 | 💬 0\n7. Neovim 0.12.0\n   ⭐ 126 | 💬 59\n8. AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust\n   ⭐ 51 | 💬 3\n9. The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n   ⭐ 38 | 💬 7\n10. A Message from the Ruby Central Board\n   ⭐ 3 | 💬 0\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 03:45\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-30T03:45:40.518391"
+}

@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]",
+      "author": "blackboxo",
+      "replies": 267,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202184",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604386"
+    },
+    {
+      "title": "张雪摩托车连续获得两个 WSBK 分站冠军， 是不是意味着国产摩托车已经达到世界先进水平？",
+      "author": "williamherry",
+      "replies": 100,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202185",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604402"
+    },
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 97,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604406"
+    },
+    {
+      "title": "蜕变日记 5(2 约女大学生)",
+      "author": "yyll",
+      "replies": 81,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202265",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604409"
+    },
+    {
+      "title": "对于吸血的另一半家庭，陷入了迷茫",
+      "author": "diligentCoding",
+      "replies": 72,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202295",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604412"
+    },
+    {
+      "title": "经济要崩溃了吗？大萧条叠加 AI 危机",
+      "author": "iloveyou",
+      "replies": 71,
+      "node": "经济",
+      "url": "https://www.v2ex.com/t/1202405",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604415"
+    },
+    {
+      "title": "antigravity 额度几乎是乞丐版了， ultra 订阅也不行",
+      "author": "keyu1103",
+      "replies": 67,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202215",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604417"
+    },
+    {
+      "title": "刚才发现小米应用商店半夜 3 点偷偷给我装应用",
+      "author": "ztjal",
+      "replies": 62,
+      "node": "Android",
+      "url": "https://www.v2ex.com/t/1202332",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604420"
+    },
+    {
+      "title": "记录一次京东以旧换新 iPhone 17 Pro Max",
+      "author": "zhuyao",
+      "replies": 59,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202198",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T12:00:36.604422"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 101,
+      "descendants": 18,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:37.544709"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 158,
+      "descendants": 66,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:37.994099"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 54,
+      "descendants": 18,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:38.436427"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 477,
+      "descendants": 150,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:38.918287"
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 415,
+      "descendants": 148,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:39.458268"
+    },
+    {
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "score": 173,
+      "descendants": 159,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:39.916285"
+    },
+    {
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "score": 32,
+      "descendants": 8,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:40.825875"
+    },
+    {
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "score": 232,
+      "descendants": 101,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:41.309095"
+    },
+    {
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "score": 623,
+      "descendants": 215,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:41.802626"
+    },
+    {
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "score": 195,
+      "descendants": 93,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T12:00:42.246530"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 12:00:42\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]\n   👤 blackboxo | 💬 267 回复\n2. 【问与答】张雪摩托车连续获得两个 WSBK 分站冠军， 是不是意味着国产摩托车已经达到世界先进水平？\n   👤 williamherry | 💬 100 回复\n3. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 97 回复\n4. 【生活】蜕变日记 5(2 约女大学生)\n   👤 yyll | 💬 81 回复\n5. 【生活】对于吸血的另一半家庭，陷入了迷茫\n   👤 diligentCoding | 💬 72 回复\n6. 【经济】经济要崩溃了吗？大萧条叠加 AI 危机\n   👤 iloveyou | 💬 71 回复\n7. 【程序员】antigravity 额度几乎是乞丐版了， ultra 订阅也不行\n   👤 keyu1103 | 💬 67 回复\n8. 【Android】刚才发现小米应用商店半夜 3 点偷偷给我装应用\n   👤 ztjal | 💬 62 回复\n9. 【Apple】记录一次京东以旧换新 iPhone 17 Pro Max\n   👤 zhuyao | 💬 59 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan\n   ⭐ 101 | 💬 18\n2. Universal Claude.md – cut Claude output tokens by 63%\n   ⭐ 158 | 💬 66\n3. Artemis II is not safe to fly\n   ⭐ 54 | 💬 18\n4. Fedware: Government apps that spy harder than the apps they ban\n   ⭐ 477 | 💬 150\n5. Do your own writing\n   ⭐ 415 | 💬 148\n6. Android Developer Verification\n   ⭐ 173 | 💬 159\n7. Incident March 30th, 2026 – Accidental CDN Caching\n   ⭐ 32 | 💬 8\n8. Turning a MacBook into a touchscreen with $1 of hardware (2018)\n   ⭐ 232 | 💬 101\n9. How to turn anything into a router\n   ⭐ 623 | 💬 215\n10. Learn Claude Code by doing, not reading\n   ⭐ 195 | 💬 93\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 12:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T12:00:42.246670"
+}

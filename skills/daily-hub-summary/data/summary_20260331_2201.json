@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 138,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636677"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 85,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636694"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 68,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636698"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 59,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636701"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 53,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636703"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 52,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636706"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 52,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T22:01:39.636708"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 1231,
+      "descendants": 448,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:40.575085"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 426,
+      "descendants": 199,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:41.069510"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 691,
+      "descendants": 374,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:41.556990"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 521,
+      "descendants": 334,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:42.019741"
+    },
+    {
+      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+      "score": 75,
+      "descendants": 40,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:42.479451"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 20,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:42.927263"
+    },
+    {
+      "title": "Combinators",
+      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+      "score": 20,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:43.423787"
+    },
+    {
+      "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "score": 71,
+      "descendants": 39,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:43.911023"
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 202,
+      "descendants": 83,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:44.387728"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 373,
+      "descendants": 132,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T22:01:44.861308"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 22:01:44\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 138 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 85 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 68 回复\n4. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 59 回复\n5. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 53 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 52 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 52 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Axios compromised on NPM – Malicious versions drop remote access trojan\n   ⭐ 1231 | 💬 448\n2. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 426 | 💬 199\n3. Claude Code's source code has been leaked via a map file in their NPM registry\n   ⭐ 691 | 💬 374\n4. Artemis II is not safe to fly\n   ⭐ 521 | 💬 334\n5. Audio tapes reveal mass rule-breaking in Milgram's obedience experiments\n   ⭐ 75 | 💬 40\n6. Open source CAD in the browser (Solvespace)\n   ⭐ 20 | 💬 0\n7. Combinators\n   ⭐ 20 | 💬 4\n8. Anthropic: Claude Code users hitting usage limits 'way faster than expected'\n   ⭐ 71 | 💬 39\n9. Google's 200M-parameter time-series foundation model with 16k context\n   ⭐ 202 | 💬 83\n10. Universal Claude.md – cut Claude output tokens\n   ⭐ 373 | 💬 132\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 22:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T22:01:44.861482"
+}

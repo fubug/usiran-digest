@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 140,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398730"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 88,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398747"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 73,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398751"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 61,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398754"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 61,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398757"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 57,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398760"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 55,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T00:01:00.398762"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Oracle slashes 30k jobs with a cold 6 a.m. email",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "score": 294,
+      "descendants": 195,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:01.340457"
+    },
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 1445,
+      "descendants": 563,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:01.797298"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 105,
+      "descendants": 31,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:02.314710"
+    },
+    {
+      "title": "Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp",
+      "url": "",
+      "score": 50,
+      "descendants": 18,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:02.764943"
+    },
+    {
+      "title": "GitHub Monaspace Case Study",
+      "url": "https://lettermatic.com/custom/monaspace-case-study",
+      "score": 27,
+      "descendants": 5,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:03.256293"
+    },
+    {
+      "title": "Combinators",
+      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+      "score": 74,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:03.920725"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 498,
+      "descendants": 250,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:04.871823"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 646,
+      "descendants": 402,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:05.378434"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1018,
+      "descendants": 557,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:05.890169"
+    },
+    {
+      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+      "score": 119,
+      "descendants": 66,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T00:01:06.361238"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 00:01:06\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 140 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 88 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 73 回复\n4. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 61 回复\n5. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 61 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 57 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 55 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Oracle slashes 30k jobs with a cold 6 a.m. email\n   ⭐ 294 | 💬 195\n2. Axios compromised on NPM – Malicious versions drop remote access trojan\n   ⭐ 1445 | 💬 563\n3. Open source CAD in the browser (Solvespace)\n   ⭐ 105 | 💬 31\n4. Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp\n   ⭐ 50 | 💬 18\n5. GitHub Monaspace Case Study\n   ⭐ 27 | 💬 5\n6. Combinators\n   ⭐ 74 | 💬 19\n7. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 498 | 💬 250\n8. Artemis II is not safe to fly\n   ⭐ 646 | 💬 402\n9. Claude Code's source code has been leaked via a map file in their NPM registry\n   ⭐ 1018 | 💬 557\n10. Audio tapes reveal mass rule-breaking in Milgram's obedience experiments\n   ⭐ 119 | 💬 66\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 00:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T00:01:06.361347"
+}

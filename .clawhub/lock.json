@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1775226078967
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1775226081438
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1775226088736
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1775226106223
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1775226111942
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1775226116146
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1775226119436
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1775226124741
+    },
+    "tencent-docs": {
+      "version": "1.0.11",
+      "installedAt": 1775226131324
+    },
+    "tencent-cos-skill": {
+      "version": "1.0.6",
+      "installedAt": 1775226140984
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1773553729558
+    },
+    "china-stock-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1773553847266
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1773554254658
+    },
+    "video-cog": {
+      "version": "1.0.3",
+      "installedAt": 1774060556700
+    },
+    "video-generator": {
+      "version": "1.0.24",
+      "installedAt": 1774060563627
+    },
+    "cellcog": {
+      "version": "1.0.21",
+      "installedAt": 1774060700508
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1774354587440
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1774354711360
+    },
+    "browser-use": {
+      "version": "1.0.2",
+      "installedAt": 1774354740645
+    },
+    "cron-scheduling": {
+      "version": "1.0.0",
+      "installedAt": 1774484188601
+    },
+    "glm-web-search": {
+      "version": "1.0.6",
+      "installedAt": 1774505610528
+    },
+    "news-aggregator-skill": {
+      "version": "0.1.0",
+      "installedAt": 1774527204071
+    },
+    "tencent-news": {
+      "version": "1.0.1",
+      "installedAt": 1774527243249
+    },
+    "web-tools-guide": {
+      "version": "1.0.0",
+      "installedAt": 1775227103888
+    }
+  }
+}

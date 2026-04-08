@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "AI 写代码真香喷；以后只要产品经理就可以了",
+      "author": "stevenrao",
+      "replies": 67,
+      "node": "编程",
+      "url": "https://www.v2ex.com/t/1203613",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542296"
+    },
+    {
+      "title": "专门为程序员设计的聊天软件： KongChat，即将发布。现抽奖，免费送 5 个 ChatGPT Plus 使用权（1 个月）",
+      "author": "daqing",
+      "replies": 62,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1203658",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542314"
+    },
+    {
+      "title": "免费发 codex 10000 刀",
+      "author": "hardto",
+      "replies": 54,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1203746",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542318"
+    },
+    {
+      "title": "没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？",
+      "author": "TheEricZhou",
+      "replies": 42,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203702",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542321"
+    },
+    {
+      "title": "吸了 opus 后 gpt 5.4 都没味了这可怎么办！",
+      "author": "rizon",
+      "replies": 40,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203638",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542324"
+    },
+    {
+      "title": "上海女性交友贴",
+      "author": "kachibear",
+      "replies": 38,
+      "node": "她她",
+      "url": "https://www.v2ex.com/t/1203665",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542327"
+    },
+    {
+      "title": "公司可以报销一半 ai 使用费用了 有啥推荐吗？",
+      "author": "decade0q",
+      "replies": 35,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203674",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542329"
+    },
+    {
+      "title": "新入职了一家公司，犹豫要不要跑路",
+      "author": "aviator",
+      "replies": 32,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1203611",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542332"
+    },
+    {
+      "title": "Claude Pro 存活快大半个月啦！支付方式/使用情况分享",
+      "author": "TonyStark1984",
+      "replies": 31,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203633",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542334"
+    },
+    {
+      "title": "国企苟了三年多，各位爷觉得未来就业形势乐观吗？",
+      "author": "mohulai",
+      "replies": 31,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1203642",
+      "source": "V2EX",
+      "timestamp": "2026-04-06T10:00:02.542337"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+      "url": "https://playlists.at/youtube/search/",
+      "score": 41,
+      "descendants": 20,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:03.480955"
+    },
+    {
+      "title": "Gemma 4 on iPhone",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "score": 420,
+      "descendants": 114,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:04.304472"
+    },
+    {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "score": 22,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:04.789968"
+    },
+    {
+      "title": "LÖVE: 2D Game Framework for Lua",
+      "url": "https://github.com/love2d/love",
+      "score": 204,
+      "descendants": 89,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:05.313801"
+    },
+    {
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "score": 413,
+      "descendants": 318,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:05.840412"
+    },
+    {
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 618,
+      "descendants": 200,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:06.319222"
+    },
+    {
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "score": 206,
+      "descendants": 116,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:06.769413"
+    },
+    {
+      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "score": 114,
+      "descendants": 123,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:07.265974"
+    },
+    {
+      "title": "Endian wars and anti-portability: this again?",
+      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+      "score": 8,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:07.746268"
+    },
+    {
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "score": 193,
+      "descendants": 53,
+      "source": "Hacker News",
+      "timestamp": "2026-04-06T10:00:08.238643"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-06 10:00:08\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【编程】AI 写代码真香喷；以后只要产品经理就可以了\n   👤 stevenrao | 💬 67 回复\n2. 【推广】专门为程序员设计的聊天软件： KongChat，即将发布。现抽奖，免费送 5 个 ChatGPT Plus 使用权（1 个月）\n   👤 daqing | 💬 62 回复\n3. 【推广】免费发 codex 10000 刀\n   👤 hardto | 💬 54 回复\n4. 【程序员】没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？\n   👤 TheEricZhou | 💬 42 回复\n5. 【程序员】吸了 opus 后 gpt 5.4 都没味了这可怎么办！\n   👤 rizon | 💬 40 回复\n6. 【她她】上海女性交友贴\n   👤 kachibear | 💬 38 回复\n7. 【程序员】公司可以报销一半 ai 使用费用了 有啥推荐吗？\n   👤 decade0q | 💬 35 回复\n8. 【职场话题】新入职了一家公司，犹豫要不要跑路\n   👤 aviator | 💬 32 回复\n9. 【程序员】Claude Pro 存活快大半个月啦！支付方式/使用情况分享\n   👤 TonyStark1984 | 💬 31 回复\n10. 【职场话题】国企苟了三年多，各位爷觉得未来就业形势乐观吗？\n   👤 mohulai | 💬 31 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Show HN: YouTube search barely works, I made a search form with advanced filters\n   ⭐ 41 | 💬 20\n2. Gemma 4 on iPhone\n   ⭐ 420 | 💬 114\n3. Show HN: I built a tiny LLM to demystify how language models work\n   ⭐ 22 | 💬 1\n4. LÖVE: 2D Game Framework for Lua\n   ⭐ 204 | 💬 89\n5. Artemis II crew see first glimpse of far side of Moon [video]\n   ⭐ 413 | 💬 318\n6. Eight years of wanting, three months of building with AI\n   ⭐ 618 | 💬 200\n7. Microsoft hasn't had a coherent GUI strategy since Petzold\n   ⭐ 206 | 💬 116\n8. In Japan, the robot isn't coming for your job; it's filling the one nobody wants\n   ⭐ 114 | 💬 123\n9. Endian wars and anti-portability: this again?\n   ⭐ 8 | 💬 1\n10. Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code\n   ⭐ 193 | 💬 53\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-06T10:00:08.238752"
+}

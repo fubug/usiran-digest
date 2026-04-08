@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 218,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946834"
+    },
+    {
+      "title": "大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！",
+      "author": "Unity2Ai",
+      "replies": 122,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202897",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946852"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 121,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946855"
+    },
+    {
+      "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+      "author": "HOmo00",
+      "replies": 120,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202793",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946858"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 107,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946861"
+    },
+    {
+      "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+      "author": "laikicka",
+      "replies": 101,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202762",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946864"
+    },
+    {
+      "title": "假如喜欢孩子，但不敢结婚有什么办法呢？",
+      "author": "kcerty",
+      "replies": 78,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202792",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946867"
+    },
+    {
+      "title": "现在这个时间点，花一万块钱报 AI 培训班值得不？",
+      "author": "yuwancumian27149",
+      "replies": 68,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202986",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946869"
+    },
+    {
+      "title": "梯子出问题了，联系不上咋整",
+      "author": "stringer",
+      "replies": 56,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202714",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T10:00:01.946872"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Live: Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "score": 638,
+      "descendants": 607,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:02.939596"
+    },
+    {
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "score": 87,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:03.421035"
+    },
+    {
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "score": 303,
+      "descendants": 235,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:03.912305"
+    },
+    {
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 464,
+      "descendants": 333,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:04.398028"
+    },
+    {
+      "title": "Fast and Gorgeous Erosion Filter",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "score": 65,
+      "descendants": 11,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:04.877919"
+    },
+    {
+      "title": "IPv6 address, as a sentence you can remember",
+      "url": "https://sentence2ipv6.tib3rius.com/",
+      "score": 30,
+      "descendants": 24,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:05.344926"
+    },
+    {
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "score": 202,
+      "descendants": 26,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:05.828252"
+    },
+    {
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "score": 12,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:06.275278"
+    },
+    {
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 149,
+      "descendants": 107,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:06.718927"
+    },
+    {
+      "title": "Signing data structures the wrong way",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 74,
+      "descendants": 42,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T10:00:07.234743"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-02 10:00:07\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 218 回复\n2. 【推广】大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！\n   👤 Unity2Ai | 💬 122 回复\n3. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 121 回复\n4. 【生活】同事想和你打扑克的话，你们会和同事打扑克吗\n   👤 HOmo00 | 💬 120 回复\n5. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 107 回复\n6. 【生活】这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行\n   👤 laikicka | 💬 101 回复\n7. 【生活】假如喜欢孩子，但不敢结婚有什么办法呢？\n   👤 kcerty | 💬 78 回复\n8. 【问与答】现在这个时间点，花一万块钱报 AI 培训班值得不？\n   👤 yuwancumian27149 | 💬 68 回复\n9. 【问与答】梯子出问题了，联系不上咋整\n   👤 stringer | 💬 56 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Live: Artemis II Launch Day Updates\n   ⭐ 638 | 💬 607\n2. A new C++ back end for ocamlc\n   ⭐ 87 | 💬 4\n3. DRAM pricing is killing the hobbyist SBC market\n   ⭐ 303 | 💬 235\n4. EmDash – A spiritual successor to WordPress that solves plugin security\n   ⭐ 464 | 💬 333\n5. Fast and Gorgeous Erosion Filter\n   ⭐ 65 | 💬 11\n6. IPv6 address, as a sentence you can remember\n   ⭐ 30 | 💬 24\n7. Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs\n   ⭐ 202 | 💬 26\n8. Quantum computing bombshells that are not April Fools\n   ⭐ 12 | 💬 0\n9. AI for American-produced cement and concrete\n   ⭐ 149 | 💬 107\n10. Signing data structures the wrong way\n   ⭐ 74 | 💬 42\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-02T10:00:07.234848"
+}

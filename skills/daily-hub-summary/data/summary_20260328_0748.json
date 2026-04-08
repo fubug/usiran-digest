@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "昨晚买了人生中的第一套房",
+      "author": "Exxfire",
+      "replies": 279,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1201611",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278779"
+    },
+    {
+      "title": "一场家庭矛盾，到底该听谁的？",
+      "author": "myadmin",
+      "replies": 242,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1201490",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278796"
+    },
+    {
+      "title": "智驾撞孩子的视频大家看了吗？",
+      "author": "DeYiAo",
+      "replies": 217,
+      "node": "电动汽车",
+      "url": "https://www.v2ex.com/t/1201475",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278800"
+    },
+    {
+      "title": "怎么看待罗技广告语引众怒，把消费者看做狗",
+      "author": "P1ath",
+      "replies": 141,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201474",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278802"
+    },
+    {
+      "title": "周五下午了，说下最近遇到的情感问题，让大家取笑一下",
+      "author": "sowhen",
+      "replies": 97,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201608",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278805"
+    },
+    {
+      "title": "2026 年， node 写后端你用的 nestjs, fastify, honojs 还是其他？",
+      "author": "BeijingBaby",
+      "replies": 90,
+      "node": "Node.js",
+      "url": "https://www.v2ex.com/t/1201488",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278808"
+    },
+    {
+      "title": "十年“幸运废物”自白：贵人风口全接住，为何还是普通人？",
+      "author": "ljz329",
+      "replies": 73,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201519",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278810"
+    },
+    {
+      "title": "一份真实家庭财务情况分享",
+      "author": "easyVer",
+      "replies": 73,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1201532",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278813"
+    },
+    {
+      "title": "部门在搞 AI 提效培训会，不知道为什么我很反感",
+      "author": "YanSeven",
+      "replies": 70,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201511",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278815"
+    },
+    {
+      "title": "Kimi 2.5 说自己是 Claude，一个由 Anthropic 开发的 AI 助手",
+      "author": "xaxb",
+      "replies": 66,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1201468",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T07:48:32.278818"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Why are executives enamored with AI, but ICs aren't?",
+      "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+      "score": 30,
+      "descendants": 36,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:33.214392"
+    },
+    {
+      "title": "Make macOS consistently bad (unironically)",
+      "url": "https://lr0.org/blog/p/macos/",
+      "score": 242,
+      "descendants": 160,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:33.647266"
+    },
+    {
+      "title": "Improving Composer through real-time RL",
+      "url": "https://cursor.com/blog/real-time-rl-for-composer",
+      "score": 11,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:34.186042"
+    },
+    {
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 343,
+      "descendants": 178,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:34.685284"
+    },
+    {
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "score": 56,
+      "descendants": 15,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:35.114166"
+    },
+    {
+      "title": "ISBN Visualization",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "score": 68,
+      "descendants": 10,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:35.598937"
+    },
+    {
+      "title": "Nashville library launches Memory Lab for digitizing home movies",
+      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+      "score": 84,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:36.036409"
+    },
+    {
+      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "url": "https://twitchroulette.net/",
+      "score": 13,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:36.516984"
+    },
+    {
+      "title": "Telnyx package compromised on PyPI",
+      "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+      "score": 74,
+      "descendants": 83,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:36.999956"
+    },
+    {
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "score": 98,
+      "descendants": 47,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T07:48:37.554733"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-28 07:48:37\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】昨晚买了人生中的第一套房\n   👤 Exxfire | 💬 279 回复\n2. 【汽车】一场家庭矛盾，到底该听谁的？\n   👤 myadmin | 💬 242 回复\n3. 【电动汽车】智驾撞孩子的视频大家看了吗？\n   👤 DeYiAo | 💬 217 回复\n4. 【问与答】怎么看待罗技广告语引众怒，把消费者看做狗\n   👤 P1ath | 💬 141 回复\n5. 【问与答】周五下午了，说下最近遇到的情感问题，让大家取笑一下\n   👤 sowhen | 💬 97 回复\n6. 【Node.js】2026 年， node 写后端你用的 nestjs, fastify, honojs 还是其他？\n   👤 BeijingBaby | 💬 90 回复\n7. 【职场话题】十年“幸运废物”自白：贵人风口全接住，为何还是普通人？\n   👤 ljz329 | 💬 73 回复\n8. 【生活】一份真实家庭财务情况分享\n   👤 easyVer | 💬 73 回复\n9. 【职场话题】部门在搞 AI 提效培训会，不知道为什么我很反感\n   👤 YanSeven | 💬 70 回复\n10. 【程序员】Kimi 2.5 说自己是 Claude，一个由 Anthropic 开发的 AI 助手\n   👤 xaxb | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Why are executives enamored with AI, but ICs aren't?\n   ⭐ 30 | 💬 36\n2. Make macOS consistently bad (unironically)\n   ⭐ 242 | 💬 160\n3. Improving Composer through real-time RL\n   ⭐ 11 | 💬 0\n4. Anatomy of the .claude/ folder\n   ⭐ 343 | 💬 178\n5. Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser\n   ⭐ 56 | 💬 15\n6. ISBN Visualization\n   ⭐ 68 | 💬 10\n7. Nashville library launches Memory Lab for digitizing home movies\n   ⭐ 84 | 💬 19\n8. Show HN: Twitch Roulette – Find live streamers who need views the most\n   ⭐ 13 | 💬 2\n9. Telnyx package compromised on PyPI\n   ⭐ 74 | 💬 83\n10. DOJ confirms FBI Director Kash Patel's personal email was hacked\n   ⭐ 98 | 💬 47\n\n──────────────────────────────────────────────────\n📈 数据来源: Polymarket Gamma API + V2EX + Hacker News",
+  "generated_at": "2026-03-28T07:48:37.554837"
+}

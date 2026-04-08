@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 206,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083532"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 157,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083550"
+    },
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 137,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083553"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 112,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083556"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 103,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083559"
+    },
+    {
+      "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+      "author": "HOmo00",
+      "replies": 95,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202793",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083561"
+    },
+    {
+      "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+      "author": "laikicka",
+      "replies": 85,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202762",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083564"
+    },
+    {
+      "title": "新手开车前准备",
+      "author": "he123",
+      "replies": 81,
+      "node": "杭州",
+      "url": "https://www.v2ex.com/t/1202688",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083566"
+    },
+    {
+      "title": "最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？",
+      "author": "linky6565",
+      "replies": 66,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202686",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T22:14:24.083568"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Is BGP Safe Yet? No. Test Your ISP",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 54,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:25.112555"
+    },
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "score": 727,
+      "descendants": 242,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:25.598185"
+    },
+    {
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "score": 38,
+      "descendants": 26,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:26.047199"
+    },
+    {
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 240,
+      "descendants": 51,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:26.543324"
+    },
+    {
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "url": "https://getbaton.dev/",
+      "score": 20,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:26.998366"
+    },
+    {
+      "title": "Intuiting Pratt Parsing",
+      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "score": 72,
+      "descendants": 16,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:27.449715"
+    },
+    {
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 138,
+      "descendants": 51,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:27.900484"
+    },
+    {
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 118,
+      "descendants": 40,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:28.391119"
+    },
+    {
+      "title": "Consider the Greenland Shark (2020)",
+      "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
+      "score": 15,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:28.841380"
+    },
+    {
+      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
+      "url": "https://www.workatastartup.com/companies/wasmer",
+      "score": 1,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T22:14:29.348730"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 22:14:29\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 206 回复\n2. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 157 回复\n3. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 137 回复\n4. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 112 回复\n5. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 103 回复\n6. 【生活】同事想和你打扑克的话，你们会和同事打扑克吗\n   👤 HOmo00 | 💬 95 回复\n7. 【生活】这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行\n   👤 laikicka | 💬 85 回复\n8. 【杭州】新手开车前准备\n   👤 he123 | 💬 81 回复\n9. 【汽车】最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？\n   👤 linky6565 | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Is BGP Safe Yet? No. Test Your ISP\n   ⭐ 54 | 💬 19\n2. Claude Code Unpacked : A visual guide\n   ⭐ 727 | 💬 242\n3. Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity\n   ⭐ 38 | 💬 26\n4. CERN levels up with new superconducting karts\n   ⭐ 240 | 💬 51\n5. Show HN: Baton – A desktop app for developing with AI agents\n   ⭐ 20 | 💬 19\n6. Intuiting Pratt Parsing\n   ⭐ 72 | 💬 16\n7. Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)\n   ⭐ 138 | 💬 51\n8. Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)\n   ⭐ 118 | 💬 40\n9. Consider the Greenland Shark (2020)\n   ⭐ 15 | 💬 1\n10. Wasmer (YC S19) Is Hiring – Rust and DevRel Positions\n   ⭐ 1 | 💬 0\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 22:14\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T22:14:29.348857"
+}

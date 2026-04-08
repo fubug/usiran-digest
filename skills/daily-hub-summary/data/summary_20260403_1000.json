@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "不到两个月就要离开北京了，聊聊我的故事，以及为什么…",
+      "author": "techdai",
+      "replies": 197,
+      "node": "北京",
+      "url": "https://www.v2ex.com/t/1203134",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.356978"
+    },
+    {
+      "title": "感觉 ai agent 时代， windows 越来越不行了",
+      "author": "clacf",
+      "replies": 123,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203016",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.356995"
+    },
+    {
+      "title": "很苦恼,对已婚有娃的同学可能有些喜欢怎么办",
+      "author": "unco020511",
+      "replies": 96,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1203165",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.356999"
+    },
+    {
+      "title": "亲测中转确实坑。。说好的江湖呢？",
+      "author": "afkool",
+      "replies": 79,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203033",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.357002"
+    },
+    {
+      "title": "怀念那个美好的时代",
+      "author": "dsd2077",
+      "replies": 78,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1203053",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.357005"
+    },
+    {
+      "title": "问一个问题，如何增肥？",
+      "author": "mode171",
+      "replies": 78,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1203109",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.357008"
+    },
+    {
+      "title": "避雷 小米 Type-C 充电器快充版 20W 白色",
+      "author": "EyebrowsWhite",
+      "replies": 55,
+      "node": "分享发现",
+      "url": "https://www.v2ex.com/t/1203019",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.357010"
+    },
+    {
+      "title": "尴尬了，可能招聘了一个不会手写代码的 AI 工程师",
+      "author": "hoky",
+      "replies": 51,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1203210",
+      "source": "V2EX",
+      "timestamp": "2026-04-03T10:00:02.357012"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 1155,
+      "descendants": 342,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:03.321912"
+    },
+    {
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "score": 304,
+      "descendants": 94,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:03.809891"
+    },
+    {
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "score": 327,
+      "descendants": 169,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:04.292438"
+    },
+    {
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "score": 138,
+      "descendants": 58,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:04.803784"
+    },
+    {
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "score": 287,
+      "descendants": 245,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:05.254161"
+    },
+    {
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 430,
+      "descendants": 150,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:05.749389"
+    },
+    {
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "score": 15,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:06.228614"
+    },
+    {
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "score": 158,
+      "descendants": 74,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:06.727630"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 446,
+      "descendants": 97,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:07.211911"
+    },
+    {
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "score": 19,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-03T10:00:07.655684"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-03 10:00:07\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【北京】不到两个月就要离开北京了，聊聊我的故事，以及为什么…\n   👤 techdai | 💬 197 回复\n2. 【程序员】感觉 ai agent 时代， windows 越来越不行了\n   👤 clacf | 💬 123 回复\n3. 【生活】很苦恼,对已婚有娃的同学可能有些喜欢怎么办\n   👤 unco020511 | 💬 96 回复\n4. 【程序员】亲测中转确实坑。。说好的江湖呢？\n   👤 afkool | 💬 79 回复\n5. 【职场话题】怀念那个美好的时代\n   👤 dsd2077 | 💬 78 回复\n6. 【问与答】问一个问题，如何增肥？\n   👤 mode171 | 💬 78 回复\n7. 【分享发现】避雷 小米 Type-C 充电器快充版 20W 白色\n   👤 EyebrowsWhite | 💬 55 回复\n8. 【职场话题】尴尬了，可能招聘了一个不会手写代码的 AI 工程师\n   👤 hoky | 💬 51 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Google releases Gemma 4 open models\n   ⭐ 1155 | 💬 342\n2. Decisions that eroded trust in Azure – by a former Azure Core engineer\n   ⭐ 304 | 💬 94\n3. Tailscale's new macOS home\n   ⭐ 327 | 💬 169\n4. Artemis II's toilet is a moon mission milestone\n   ⭐ 138 | 💬 58\n5. Cursor 3\n   ⭐ 287 | 💬 245\n6. Qwen3.6-Plus: Towards real world agents\n   ⭐ 430 | 💬 150\n7. Post Mortem: axios NPM supply chain compromise\n   ⭐ 15 | 💬 2\n8. Good ideas do not need lots of lies in order to gain public acceptance (2008)\n   ⭐ 158 | 💬 74\n9. Lemonade by AMD: a fast and open source local LLM server using GPU and NPU\n   ⭐ 446 | 💬 97\n10. C89cc.sh – standalone C89/ELF64 compiler in pure portable shell\n   ⭐ 19 | 💬 3\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-03T10:00:07.655783"
+}

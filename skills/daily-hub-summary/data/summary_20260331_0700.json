@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]",
+      "author": "blackboxo",
+      "replies": 207,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202184",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624039"
+    },
+    {
+      "title": "今天和 HR 说取消校招，因为上周一个需求让我后背发凉",
+      "author": "Robot2012",
+      "replies": 114,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202098",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624056"
+    },
+    {
+      "title": "在香港和澳门之间做选择，去了澳门，但是感觉太不爽了",
+      "author": "hhvv23911k",
+      "replies": 110,
+      "node": "分享发现",
+      "url": "https://www.v2ex.com/t/1202136",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624059"
+    },
+    {
+      "title": "朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？",
+      "author": "ddddbk",
+      "replies": 94,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202119",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624062"
+    },
+    {
+      "title": "新买的酷态科 10 号 ultra 坏了",
+      "author": "zyu0090",
+      "replies": 85,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202112",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624065"
+    },
+    {
+      "title": "是否需要拔智齿",
+      "author": "dieeman",
+      "replies": 77,
+      "node": "健康",
+      "url": "https://www.v2ex.com/t/1202131",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624068"
+    },
+    {
+      "title": "2026 年，个人开发首选是直接走原生还是走 RN 或 flutter",
+      "author": "kamisamayo",
+      "replies": 72,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202088",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624071"
+    },
+    {
+      "title": "张雪摩托车连续获得两个 WSBK 分站冠军， 是不是意味着国产摩托车已经达到世界先进水平？",
+      "author": "williamherry",
+      "replies": 66,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202185",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624073"
+    },
+    {
+      "title": "V2EX 是否在实质上接受了 AI 生成的内容了",
+      "author": "0o0o0o0",
+      "replies": 62,
+      "node": "V2EX",
+      "url": "https://www.v2ex.com/t/1202159",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T07:00:08.624076"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+      "url": "https://30u30.fyi",
+      "score": 111,
+      "descendants": 36,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:09.597326"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 320,
+      "descendants": 101,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:10.057446"
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 282,
+      "descendants": 86,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:10.496466"
+    },
+    {
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "score": 74,
+      "descendants": 41,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:10.980775"
+    },
+    {
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "score": 45,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:11.417344"
+    },
+    {
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "score": 132,
+      "descendants": 57,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:11.972923"
+    },
+    {
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "score": 540,
+      "descendants": 199,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:12.461900"
+    },
+    {
+      "title": "The stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "score": 34,
+      "descendants": 34,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:12.946672"
+    },
+    {
+      "title": "Agents of Chaos",
+      "url": "https://agentsofchaos.baulab.info/report.html",
+      "score": 39,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:13.432333"
+    },
+    {
+      "title": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "score": 277,
+      "descendants": 181,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T07:00:13.871071"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 07:00:13\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]\n   👤 blackboxo | 💬 207 回复\n2. 【职场话题】今天和 HR 说取消校招，因为上周一个需求让我后背发凉\n   👤 Robot2012 | 💬 114 回复\n3. 【分享发现】在香港和澳门之间做选择，去了澳门，但是感觉太不爽了\n   👤 hhvv23911k | 💬 110 回复\n4. 【职场话题】朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？\n   👤 ddddbk | 💬 94 回复\n5. 【Apple】新买的酷态科 10 号 ultra 坏了\n   👤 zyu0090 | 💬 85 回复\n6. 【健康】是否需要拔智齿\n   👤 dieeman | 💬 77 回复\n7. 【程序员】2026 年，个人开发首选是直接走原生还是走 RN 或 flutter\n   👤 kamisamayo | 💬 72 回复\n8. 【问与答】张雪摩托车连续获得两个 WSBK 分站冠军， 是不是意味着国产摩托车已经达到世界先进水平？\n   👤 williamherry | 💬 66 回复\n9. 【V2EX】V2EX 是否在实质上接受了 AI 生成的内容了\n   👤 0o0o0o0 | 💬 62 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?\n   ⭐ 111 | 💬 36\n2. Fedware: Government apps that spy harder than the apps they ban\n   ⭐ 320 | 💬 101\n3. Do your own writing\n   ⭐ 282 | 💬 86\n4. Learn Claude Code by doing, not reading\n   ⭐ 74 | 💬 41\n5. Android Developer Verification\n   ⭐ 45 | 💬 14\n6. Turning a MacBook into a touchscreen with $1 of hardware (2018)\n   ⭐ 132 | 💬 57\n7. How to turn anything into a router\n   ⭐ 540 | 💬 199\n8. The stealthy startup that pitched brainless human clones\n   ⭐ 34 | 💬 34\n9. Agents of Chaos\n   ⭐ 39 | 💬 2\n10. Bird brains (2023)\n   ⭐ 277 | 💬 181\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 07:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T07:00:13.871178"
+}

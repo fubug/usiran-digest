@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "经济要崩溃了吗？大萧条叠加 AI 危机",
+      "author": "iloveyou",
+      "replies": 125,
+      "node": "经济",
+      "url": "https://www.v2ex.com/t/1202405",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162609"
+    },
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 124,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162627"
+    },
+    {
+      "title": "蜕变日记 5(2 约女大学生)",
+      "author": "yyll",
+      "replies": 91,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202265",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162631"
+    },
+    {
+      "title": "对于吸血的另一半家庭，陷入了迷茫",
+      "author": "diligentCoding",
+      "replies": 88,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202295",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162633"
+    },
+    {
+      "title": "想统计一下频率， 2 天或者 3 天一次频率算高吗",
+      "author": "myTrip",
+      "replies": 81,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202440",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162636"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 74,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162639"
+    },
+    {
+      "title": "刚才发现小米应用商店半夜 3 点偷偷给我装应用",
+      "author": "ztjal",
+      "replies": 68,
+      "node": "Android",
+      "url": "https://www.v2ex.com/t/1202332",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162642"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 55,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162644"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 53,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162646"
+    },
+    {
+      "title": "如何能完全满足女友的那方面需求",
+      "author": "wenkgin",
+      "replies": 49,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202499",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T16:00:56.162650"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 617,
+      "descendants": 183,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:57.095332"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 188,
+      "descendants": 77,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:57.537439"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 256,
+      "descendants": 157,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:57.964769"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 274,
+      "descendants": 102,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:58.413254"
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 83,
+      "descendants": 39,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:58.859244"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 545,
+      "descendants": 176,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:59.346862"
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 500,
+      "descendants": 180,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:00:59.784520"
+    },
+    {
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+      "score": 1,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:01:00.265746"
+    },
+    {
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "score": 160,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:01:00.757342"
+    },
+    {
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "score": 124,
+      "descendants": 66,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T16:01:01.244340"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 16:01:01\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【经济】经济要崩溃了吗？大萧条叠加 AI 危机\n   👤 iloveyou | 💬 125 回复\n2. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 124 回复\n3. 【生活】蜕变日记 5(2 约女大学生)\n   👤 yyll | 💬 91 回复\n4. 【生活】对于吸血的另一半家庭，陷入了迷茫\n   👤 diligentCoding | 💬 88 回复\n5. 【问与答】想统计一下频率， 2 天或者 3 天一次频率算高吗\n   👤 myTrip | 💬 81 回复\n6. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 74 回复\n7. 【Android】刚才发现小米应用商店半夜 3 点偷偷给我装应用\n   👤 ztjal | 💬 68 回复\n8. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 55 回复\n9. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 53 回复\n10. 【问与答】如何能完全满足女友的那方面需求\n   👤 wenkgin | 💬 49 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Axios compromised on NPM – Malicious versions drop remote access trojan\n   ⭐ 617 | 💬 183\n2. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 188 | 💬 77\n3. Artemis II is not safe to fly\n   ⭐ 256 | 💬 157\n4. Universal Claude.md – cut Claude output tokens\n   ⭐ 274 | 💬 102\n5. Google's 200M-parameter time-series foundation model with 16k context\n   ⭐ 83 | 💬 39\n6. Fedware: Government apps that spy harder than the apps they ban\n   ⭐ 545 | 💬 176\n7. Do your own writing\n   ⭐ 500 | 💬 180\n8. RamAIn (YC W26) Is Hiring\n   ⭐ 1 | 💬 0\n9. Clojure: The Documentary, official trailer [video]\n   ⭐ 160 | 💬 12\n10. GitHub backs down, kills Copilot pull-request ads after backlash\n   ⭐ 124 | 💬 66\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 16:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T16:01:01.244506"
+}

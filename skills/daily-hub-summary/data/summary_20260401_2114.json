@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 203,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928128"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 153,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928145"
+    },
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 137,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928148"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 112,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928151"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 101,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928154"
+    },
+    {
+      "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+      "author": "HOmo00",
+      "replies": 94,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202793",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928157"
+    },
+    {
+      "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+      "author": "laikicka",
+      "replies": 85,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202762",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928159"
+    },
+    {
+      "title": "新手开车前准备",
+      "author": "he123",
+      "replies": 81,
+      "node": "杭州",
+      "url": "https://www.v2ex.com/t/1202688",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928162"
+    },
+    {
+      "title": "最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？",
+      "author": "linky6565",
+      "replies": 66,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202686",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T21:14:25.928164"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "score": 651,
+      "descendants": 201,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:26.866406"
+    },
+    {
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 206,
+      "descendants": 49,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:27.361344"
+    },
+    {
+      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "score": 16,
+      "descendants": 7,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:27.826957"
+    },
+    {
+      "title": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "score": 127,
+      "descendants": 82,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:28.270664"
+    },
+    {
+      "title": "Intuiting Pratt Parsing",
+      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "score": 57,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:28.760930"
+    },
+    {
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 125,
+      "descendants": 47,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:29.233273"
+    },
+    {
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 93,
+      "descendants": 31,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:29.683728"
+    },
+    {
+      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
+      "url": "https://www.workatastartup.com/companies/wasmer",
+      "score": 1,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:30.156128"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 394,
+      "descendants": 112,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:30.646944"
+    },
+    {
+      "title": "Chess in SQL",
+      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "score": 95,
+      "descendants": 21,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T21:14:31.098033"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 21:14:31\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 203 回复\n2. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 153 回复\n3. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 137 回复\n4. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 112 回复\n5. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 101 回复\n6. 【生活】同事想和你打扑克的话，你们会和同事打扑克吗\n   👤 HOmo00 | 💬 94 回复\n7. 【生活】这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行\n   👤 laikicka | 💬 85 回复\n8. 【杭州】新手开车前准备\n   👤 he123 | 💬 81 回复\n9. 【汽车】最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？\n   👤 linky6565 | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Claude Code Unpacked : A visual guide\n   ⭐ 651 | 💬 201\n2. CERN levels up with new superconducting karts\n   ⭐ 206 | 💬 49\n3. Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity\n   ⭐ 16 | 💬 7\n4. I Quit. The Clankers Won\n   ⭐ 127 | 💬 82\n5. Intuiting Pratt Parsing\n   ⭐ 57 | 💬 12\n6. Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)\n   ⭐ 125 | 💬 47\n7. Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)\n   ⭐ 93 | 💬 31\n8. Wasmer (YC S19) Is Hiring – Rust and DevRel Positions\n   ⭐ 1 | 💬 0\n9. A dot a day keeps the clutter away\n   ⭐ 394 | 💬 112\n10. Chess in SQL\n   ⭐ 95 | 💬 21\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 21:14\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T21:14:31.098140"
+}

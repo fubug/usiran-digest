@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "大家一人来一句 AI 味很浓的语句，纯属娱乐",
+      "author": "monosolo1on1",
+      "replies": 122,
+      "node": "每日一笑",
+      "url": "https://www.v2ex.com/t/1202017",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283646"
+    },
+    {
+      "title": "今天和 HR 说取消校招，因为上周一个需求让我后背发凉",
+      "author": "Robot2012",
+      "replies": 111,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202098",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283669"
+    },
+    {
+      "title": "自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]",
+      "author": "blackboxo",
+      "replies": 101,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202184",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283675"
+    },
+    {
+      "title": "我录入了 14 亿条数据泄漏信息，搓了一个 个人信息 “泄漏” 检测工具",
+      "author": "investor",
+      "replies": 90,
+      "node": "分享创造",
+      "url": "https://www.v2ex.com/t/1202064",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283679"
+    },
+    {
+      "title": "2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？",
+      "author": "liang37038",
+      "replies": 84,
+      "node": "浏览器",
+      "url": "https://www.v2ex.com/t/1202062",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283683"
+    },
+    {
+      "title": "朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？",
+      "author": "ddddbk",
+      "replies": 84,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202119",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283687"
+    },
+    {
+      "title": "在香港和澳门之间做选择，去了澳门，但是感觉太不爽了",
+      "author": "hhvv23911k",
+      "replies": 81,
+      "node": "分享发现",
+      "url": "https://www.v2ex.com/t/1202136",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283691"
+    },
+    {
+      "title": "新买的酷态科 10 号 ultra 坏了",
+      "author": "zyu0090",
+      "replies": 78,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202112",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T17:45:38.283695"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "The curious case of retro demo scene graphics",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "score": 162,
+      "descendants": 35,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:39.215277"
+    },
+    {
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 638,
+      "descendants": 409,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:39.708411"
+    },
+    {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "score": 30,
+      "descendants": 9,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:40.202882"
+    },
+    {
+      "title": "I use excalidraw to manage my diagrams for my blog",
+      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "score": 46,
+      "descendants": 19,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:40.638077"
+    },
+    {
+      "title": "VHDL's Crown Jewel",
+      "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+      "score": 54,
+      "descendants": 25,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:41.070259"
+    },
+    {
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "score": 529,
+      "descendants": 201,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:41.513911"
+    },
+    {
+      "title": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "score": 556,
+      "descendants": 171,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:42.004760"
+    },
+    {
+      "title": "15 Years of Forking",
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "score": 167,
+      "descendants": 26,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:42.486417"
+    },
+    {
+      "title": "Coding agents could make free software matter again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "score": 178,
+      "descendants": 178,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:42.927837"
+    },
+    {
+      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "score": 233,
+      "descendants": 202,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T17:45:43.372967"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-30 17:45:43\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【每日一笑】大家一人来一句 AI 味很浓的语句，纯属娱乐\n   👤 monosolo1on1 | 💬 122 回复\n2. 【职场话题】今天和 HR 说取消校招，因为上周一个需求让我后背发凉\n   👤 Robot2012 | 💬 111 回复\n3. 【推广】自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]\n   👤 blackboxo | 💬 101 回复\n4. 【分享创造】我录入了 14 亿条数据泄漏信息，搓了一个 个人信息 “泄漏” 检测工具\n   👤 investor | 💬 90 回复\n5. 【浏览器】2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？\n   👤 liang37038 | 💬 84 回复\n6. 【职场话题】朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？\n   👤 ddddbk | 💬 84 回复\n7. 【分享发现】在香港和澳门之间做选择，去了澳门，但是感觉太不爽了\n   👤 hhvv23911k | 💬 81 回复\n8. 【Apple】新买的酷态科 10 号 ultra 坏了\n   👤 zyu0090 | 💬 78 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. The curious case of retro demo scene graphics\n   ⭐ 162 | 💬 35\n2. ChatGPT won't let you type until Cloudflare reads your React state\n   ⭐ 638 | 💬 409\n3. Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models\n   ⭐ 30 | 💬 9\n4. I use excalidraw to manage my diagrams for my blog\n   ⭐ 46 | 💬 19\n5. VHDL's Crown Jewel\n   ⭐ 54 | 💬 25\n6. Voyager 1 runs on 69 KB of memory and an 8-track tape recorder\n   ⭐ 529 | 💬 201\n7. Copilot edited an ad into my PR\n   ⭐ 556 | 💬 171\n8. 15 Years of Forking\n   ⭐ 167 | 💬 26\n9. Coding agents could make free software matter again\n   ⭐ 178 | 💬 178\n10. C++26 is done: ISO C++ standards meeting Trip Report\n   ⭐ 233 | 💬 202\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 17:45\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-30T17:45:43.373076"
+}

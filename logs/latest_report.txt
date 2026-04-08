@@ -1,0 +1,121 @@
+📊 每日信息汇总
+⏰ 2026-03-15 22:08:11
+============================================================
+
+============================================================
+📊 每日信息汇总 - 趋势分析版
+============================================================
+⏰ 2026-03-15 22:08:12
+
+🔥 抓取 Polymarket Top 10 并分析趋势...
+   ✅ 获取到 10 个事件
+💬 抓取 V2EX 热门...
+   ✅ 成功获取 10 条
+📰 抓取 Hacker News...
+   ✅ 成功获取 10 条
+
+📊 每日信息汇总
+⏰ 2026-03-15 22:08:17
+
+🔥 Polymarket Top 10（按24小时成交量排序）
+──────────────────────────────────────────────────
+#1. Republican Presidential Nominee 2028 | 1.8%
+   💹 $35.5K
+   📉 -0.1% (24h)
+   🔗 https://polymarket.com/event/republican-presidential-nominee-2028
+
+#2. Netanyahu out by...? | 44.0%
+   💹 $24.1K
+   📉 -5.5% (24h)
+   🔗 https://polymarket.com/event/netanyahu-out-before-2027
+
+#3. Democratic Presidential Nominee 2028 | 1.1%
+   💹 $41.3K
+   📈 ++0.2% (24h)
+   🔗 https://polymarket.com/event/democratic-presidential-nominee-2028
+
+#4. Presidential Election Winner 2028 | 0.8%
+   💹 $102.2K
+   🔗 https://polymarket.com/event/presidential-election-winner-2028
+
+#5. 2026 FIFA World Cup Winner  | 15.4%
+   💹 $35.7K
+   📈 ++0.1% (24h)
+   🔗 https://polymarket.com/event/2026-fifa-world-cup-winner-595
+
+#6. 2026 NBA Champion | 35.5%
+   💹 $49.1K
+   🔗 https://polymarket.com/event/2026-nba-champion
+
+#7. The Masters - Winner  | 4.2%
+   💹 $125.3K
+   📈 ++0.1% (24h)
+   🔗 https://polymarket.com/event/the-masters-winner
+
+#8. UEFA Champions League Winner  | 9.5%
+   💹 $49.2K
+   🔗 https://polymarket.com/event/uefa-champions-league-winner
+
+#9. NBA MVP  | 0.1%
+   💹 $500
+   🔗 https://polymarket.com/event/nba-mvp-694
+
+#10. Colombia Chamber of Representatives Election Winner | 98.7%
+   💹 $4.7K
+   📉 -0.5% (24h)
+   🔗 https://polymarket.com/event/colombia-chamber-of-representatives-election-winner
+
+💬 V2EX 热门 (Top 10)
+──────────────────────────────────────────────────
+1. 【生活】一次相亲经历，让我疑惑、怀疑自己
+   👤 feeeff | 💬 93 回复
+2. 【情感】生活远比剧本精彩，被抓奸在床？？
+   👤 socary | 💬 75 回复
+3. 【生活】我是小丑，骑车子摔了。
+   👤 YaD2x | 💬 37 回复
+4. 【宽带症候群】最近正好因为搬家三大运营商的宽带都用了一遍，说说感受
+   👤 wi11iamZ | 💬 27 回复
+5. 【NAS】nas 备份了照片，手机上直接删除吗
+   👤 miusmile | 💬 25 回复
+6. 【程序员】你认为的最强编程 AI 工具？
+   👤 junwind | 💬 24 回复
+7. 【程序员】独立开发收款方案
+   👤 trumpmaga | 💬 24 回复
+8. 【程序员】做了一个自认为很有潜力的 AI 项目，大家看看有没有前途
+   👤 seeksky | 💬 23 回复
+9. 【程序员】我用 cc 和 codex 用到现在，写前端感觉都是一坨啊
+   👤 YanSeven | 💬 23 回复
+10. 【硬件】电脑硬件价格离谱，今天看到 hn 上一个网友的回复心有戚戚
+   👤 rmrf | 💬 22 回复
+
+📰 Hacker News (Top 10)
+──────────────────────────────────────────────────
+1. A Theory of the World as run by large adult children
+   ⭐ 96 | 💬 35
+2. NetBlocks says Iran blackout enters day 16 as arrests target Starlink users
+   ⭐ 17 | 💬 2
+3. A Visual Introduction to Machine Learning (2015)
+   ⭐ 124 | 💬 7
+4. $96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor
+   ⭐ 202 | 💬 124
+5. 100 hour gap between a vibecoded prototype and a working product
+   ⭐ 36 | 💬 16
+6. Show HN: Signet – Autonomous wildfire tracking from satellite and weather data
+   ⭐ 26 | 💬 2
+7. Generating All 32-Bit Primes (Part I)
+   ⭐ 28 | 💬 6
+8. Rack-mount hydroponics
+   ⭐ 231 | 💬 51
+9. The Appalling Stupidity of Spotify's AI DJ
+   ⭐ 235 | 💬 194
+10. Examples for the tcpdump and dig man pages
+   ⭐ 38 | 💬 4
+
+──────────────────────────────────────────────────
+📈 数据来源: Polymarket Gamma API + V2EX + Hacker News
+⚠️  注意: 首次运行无趋势数据，下次运行才会有变化分析
+
+✅ 缓存已保存
+============================================================
+✅ 完成!
+============================================================

@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "有点搞不懂 Claude Code 了",
+      "author": "nealzhuqian",
+      "replies": 61,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1201779",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019069"
+    },
+    {
+      "title": "程序员的 5 个转型方向",
+      "author": "HMYang33",
+      "replies": 48,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201775",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019088"
+    },
+    {
+      "title": "2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的",
+      "author": "TrackBack",
+      "replies": 44,
+      "node": "软件",
+      "url": "https://www.v2ex.com/t/1201809",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019091"
+    },
+    {
+      "title": "深圳.NET B/S 方向出路何在？",
+      "author": "chaoyebugao",
+      "replies": 30,
+      "node": "求职",
+      "url": "https://www.v2ex.com/t/1201818",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019094"
+    },
+    {
+      "title": "想要一个 codex/claude code 的 Web UI 界面",
+      "author": "inza9hi",
+      "replies": 26,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1201842",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019097"
+    },
+    {
+      "title": "opus 小时限额之后，你们是等，还是用 sonnet 继续？",
+      "author": "tho",
+      "replies": 25,
+      "node": "Claude",
+      "url": "https://www.v2ex.com/t/1201800",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019100"
+    },
+    {
+      "title": "GLM 5.1 有实际测试过的吗",
+      "author": "onedge",
+      "replies": 22,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1201802",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019102"
+    },
+    {
+      "title": "豆包输入法 mac 版来了，牛逼 plus",
+      "author": "wenhuibrave",
+      "replies": 22,
+      "node": "分享发现",
+      "url": "https://www.v2ex.com/t/1201848",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T08:45:54.019105"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "score": 75,
+      "descendants": 44,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:54.885316"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "score": 664,
+      "descendants": 161,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:55.371172"
+    },
+    {
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 164,
+      "descendants": 46,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:55.856052"
+    },
+    {
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "score": 27,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:56.341622"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "score": 136,
+      "descendants": 98,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:56.826783"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 508,
+      "descendants": 399,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:57.311091"
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "score": 96,
+      "descendants": 39,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:57.794913"
+    },
+    {
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "score": 156,
+      "descendants": 30,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:58.279861"
+    },
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "score": 79,
+      "descendants": 25,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:58.724803"
+    },
+    {
+      "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+      "score": 29,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T08:45:59.155960"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-29 08:45:59\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【Claude Code】有点搞不懂 Claude Code 了\n   👤 nealzhuqian | 💬 61 回复\n2. 【职场话题】程序员的 5 个转型方向\n   👤 HMYang33 | 💬 48 回复\n3. 【软件】2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的\n   👤 TrackBack | 💬 44 回复\n4. 【求职】深圳.NET B/S 方向出路何在？\n   👤 chaoyebugao | 💬 30 回复\n5. 【程序员】想要一个 codex/claude code 的 Web UI 界面\n   👤 inza9hi | 💬 26 回复\n6. 【Claude】opus 小时限额之后，你们是等，还是用 sonnet 继续？\n   👤 tho | 💬 25 回复\n7. 【程序员】GLM 5.1 有实际测试过的吗\n   👤 onedge | 💬 22 回复\n8. 【分享发现】豆包输入法 mac 版来了，牛逼 plus\n   👤 wenhuibrave | 💬 22 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. South Korea Mandates Solar Panels for Public Parking Lots\n   ⭐ 75 | 💬 44\n2. Founder of GitLab battles cancer by founding companies\n   ⭐ 664 | 💬 161\n3. CSS is DOOMed\n   ⭐ 164 | 💬 46\n4. OpenBSD on Motorola 88000 Processors\n   ⭐ 27 | 💬 1\n5. Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem\n   ⭐ 136 | 💬 98\n6. AI overly affirms users asking for personal advice\n   ⭐ 508 | 💬 399\n7. The first 40 months of the AI era\n   ⭐ 96 | 💬 39\n8. Linux is an interpreter\n   ⭐ 156 | 💬 30\n9. OpenCiv1 – open-source rewrite of Civ1\n   ⭐ 79 | 💬 25\n10. Meta Partners with Arm to Develop New Class of Data Center Silicon\n   ⭐ 29 | 💬 4\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 08:45\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-29T08:45:59.156065"
+}

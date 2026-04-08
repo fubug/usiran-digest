@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "你用 AI 赚到过钱吗 怎么赚的？",
+      "author": "ShawnShi",
+      "replies": 52,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201942",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622451"
+    },
+    {
+      "title": "请问 m 芯片真的很强吗?",
+      "author": "badboy200600",
+      "replies": 50,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202001",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622469"
+    },
+    {
+      "title": "分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）",
+      "author": "skelton",
+      "replies": 48,
+      "node": "分享创造",
+      "url": "https://www.v2ex.com/t/1201945",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622473"
+    },
+    {
+      "title": "apple watch 你们都用来干什么？",
+      "author": "linzhai",
+      "replies": 47,
+      "node": " WATCH",
+      "url": "https://www.v2ex.com/t/1201936",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622476"
+    },
+    {
+      "title": "大家一人来一句 AI 味很浓的语句，纯属娱乐",
+      "author": "monosolo1on1",
+      "replies": 46,
+      "node": "每日一笑",
+      "url": "https://www.v2ex.com/t/1202017",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622478"
+    },
+    {
+      "title": "有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案",
+      "author": "timespy",
+      "replies": 30,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201922",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622481"
+    },
+    {
+      "title": "入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。",
+      "author": "qkunchanzi",
+      "replies": 30,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201958",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622484"
+    },
+    {
+      "title": "大资金",
+      "author": "cmdOptionKana",
+      "replies": 29,
+      "node": "投资",
+      "url": "https://www.v2ex.com/t/1201938",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622487"
+    },
+    {
+      "title": "请问大家写代码 用 5.4 还是 5.3-codex",
+      "author": "admirez",
+      "replies": 22,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201927",
+      "source": "V2EX",
+      "timestamp": "2026-03-29T22:45:47.622489"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 247,
+      "descendants": 93,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:48.681128"
+    },
+    {
+      "title": "Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges",
+      "url": "https://mcpaas.live/globe",
+      "score": 15,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:49.117440"
+    },
+    {
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "score": 116,
+      "descendants": 61,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:49.565303"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "score": 1212,
+      "descendants": 238,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:50.130043"
+    },
+    {
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "score": 154,
+      "descendants": 64,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:50.631874"
+    },
+    {
+      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "url": "",
+      "score": 144,
+      "descendants": 96,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:51.120925"
+    },
+    {
+      "title": "Show HN: Create a full language server in Go with 3.17 spec support",
+      "url": "https://github.com/owenrumney/go-lsp",
+      "score": 26,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:51.777719"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 703,
+      "descendants": 556,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:52.292495"
+    },
+    {
+      "title": "I turned my Kindle into my own personal newspaper",
+      "url": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
+      "score": 92,
+      "descendants": 34,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:52.875818"
+    },
+    {
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 411,
+      "descendants": 98,
+      "source": "Hacker News",
+      "timestamp": "2026-03-29T22:45:53.390106"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-29 22:45:53\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】你用 AI 赚到过钱吗 怎么赚的？\n   👤 ShawnShi | 💬 52 回复\n2. 【Apple】请问 m 芯片真的很强吗?\n   👤 badboy200600 | 💬 50 回复\n3. 【分享创造】分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）\n   👤 skelton | 💬 48 回复\n4. 【 WATCH】apple watch 你们都用来干什么？\n   👤 linzhai | 💬 47 回复\n5. 【每日一笑】大家一人来一句 AI 味很浓的语句，纯属娱乐\n   👤 monosolo1on1 | 💬 46 回复\n6. 【问与答】有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案\n   👤 timespy | 💬 30 回复\n7. 【职场话题】入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。\n   👤 qkunchanzi | 💬 30 回复\n8. 【投资】大资金\n   👤 cmdOptionKana | 💬 29 回复\n9. 【问与答】请问大家写代码 用 5.4 还是 5.3-codex\n   👤 admirez | 💬 22 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Overestimation of microplastics potentially caused by scientists' gloves\n   ⭐ 247 | 💬 93\n2. Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges\n   ⭐ 15 | 💬 12\n3. Miasma: A tool to trap AI web scrapers in an endless poison pit\n   ⭐ 116 | 💬 61\n4. Founder of GitLab battles cancer by founding companies\n   ⭐ 1212 | 💬 238\n5. Technology: The (nearly) perfect USB cable tester does exist\n   ⭐ 154 | 💬 64\n6. LinkedIn uses 2.4 GB RAM across two tabs\n   ⭐ 144 | 💬 96\n7. Show HN: Create a full language server in Go with 3.17 spec support\n   ⭐ 26 | 💬 2\n8. AI overly affirms users asking for personal advice\n   ⭐ 703 | 💬 556\n9. I turned my Kindle into my own personal newspaper\n   ⭐ 92 | 💬 34\n10. CSS is DOOMed\n   ⭐ 411 | 💬 98\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 22:45\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-29T22:45:53.390266"
+}

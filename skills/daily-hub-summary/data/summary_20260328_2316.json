@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "有点搞不懂 Claude Code 了",
+      "author": "nealzhuqian",
+      "replies": 55,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1201779",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150758"
+    },
+    {
+      "title": "程序员的 5 个转型方向",
+      "author": "HMYang33",
+      "replies": 46,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201775",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150777"
+    },
+    {
+      "title": "2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的",
+      "author": "TrackBack",
+      "replies": 37,
+      "node": "软件",
+      "url": "https://www.v2ex.com/t/1201809",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150781"
+    },
+    {
+      "title": "[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站",
+      "author": "ideard",
+      "replies": 31,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1201760",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150784"
+    },
+    {
+      "title": "有了 openclaw, app 会死吗?",
+      "author": "Hermitist",
+      "replies": 28,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1201764",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150787"
+    },
+    {
+      "title": "深圳.NET B/S 方向出路何在？",
+      "author": "chaoyebugao",
+      "replies": 26,
+      "node": "求职",
+      "url": "https://www.v2ex.com/t/1201818",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150790"
+    },
+    {
+      "title": "opus 小时限额之后，你们是等，还是用 sonnet 继续？",
+      "author": "tho",
+      "replies": 25,
+      "node": "Claude",
+      "url": "https://www.v2ex.com/t/1201800",
+      "source": "V2EX",
+      "timestamp": "2026-03-28T23:16:49.150792"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "score": 370,
+      "descendants": 119,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:50.135548"
+    },
+    {
+      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 65,
+      "descendants": 43,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:50.640170"
+    },
+    {
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "score": 234,
+      "descendants": 151,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:51.124602"
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "score": 129,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:51.566036"
+    },
+    {
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "score": 167,
+      "descendants": 59,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:52.014194"
+    },
+    {
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 188,
+      "descendants": 92,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:53.114653"
+    },
+    {
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "score": 21,
+      "descendants": 8,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:53.558900"
+    },
+    {
+      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+      "url": "https://github.com/dbrll/ATTN-11",
+      "score": 68,
+      "descendants": 9,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:54.056921"
+    },
+    {
+      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "score": 24,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:54.481756"
+    },
+    {
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "score": 467,
+      "descendants": 271,
+      "source": "Hacker News",
+      "timestamp": "2026-03-28T23:16:54.973164"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-28 23:16:54\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【Claude Code】有点搞不懂 Claude Code 了\n   👤 nealzhuqian | 💬 55 回复\n2. 【职场话题】程序员的 5 个转型方向\n   👤 HMYang33 | 💬 46 回复\n3. 【软件】2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的\n   👤 TrackBack | 💬 37 回复\n4. 【Claude Code】[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站\n   👤 ideard | 💬 31 回复\n5. 【程序员】有了 openclaw, app 会死吗?\n   👤 Hermitist | 💬 28 回复\n6. 【求职】深圳.NET B/S 方向出路何在？\n   👤 chaoyebugao | 💬 26 回复\n7. 【Claude】opus 小时限额之后，你们是等，还是用 sonnet 继续？\n   👤 tho | 💬 25 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. I put all 8,642 Spanish laws in Git – every reform is a commit\n   ⭐ 370 | 💬 119\n2. AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds\n   ⭐ 65 | 💬 43\n3. Britain today generating 90%+ of electricity from renewables\n   ⭐ 234 | 💬 151\n4. I Built an Open-World Engine for the N64 [video]\n   ⭐ 129 | 💬 14\n5. Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly\n   ⭐ 167 | 💬 59\n6. CERN uses tiny AI models burned into silicon for real-time LHC data filtering\n   ⭐ 188 | 💬 92\n7. Folk are getting dangerously attached to AI that always tells them they're right\n   ⭐ 21 | 💬 8\n8. Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer\n   ⭐ 68 | 💬 9\n9. Improved Git Diffs with Delta, Fzf and a Little Shell Scripting\n   ⭐ 24 | 💬 4\n10. Go hard on agents, not on your filesystem\n   ⭐ 467 | 💬 271\n\n──────────────────────────────────────────────────\n📈 数据来源: Polymarket Gamma API + V2EX + Hacker News",
+  "generated_at": "2026-03-28T23:16:54.973265"
+}

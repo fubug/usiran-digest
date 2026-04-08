@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 141,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644697"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 90,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644713"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 73,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644717"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 62,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644720"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 61,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644723"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 58,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644726"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 57,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T06:01:06.644729"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 449,
+      "descendants": 177,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:07.656751"
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 167,
+      "descendants": 156,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:08.119011"
+    },
+    {
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 33,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:08.565437"
+    },
+    {
+      "title": "Cohere Transcribe: Speech Recognition",
+      "url": "https://cohere.com/blog/transcribe",
+      "score": 135,
+      "descendants": 46,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:09.071820"
+    },
+    {
+      "title": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 127,
+      "descendants": 232,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:09.552750"
+    },
+    {
+      "title": "4D Doom",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 35,
+      "descendants": 2,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:10.071638"
+    },
+    {
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "url": "https://github.com/timescale/pg_textsearch",
+      "score": 64,
+      "descendants": 27,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:10.636685"
+    },
+    {
+      "title": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "score": 317,
+      "descendants": 93,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:11.173540"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 257,
+      "descendants": 81,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:11.625521"
+    },
+    {
+      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+      "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+      "score": 224,
+      "descendants": 53,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T06:01:12.108622"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 06:01:12\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 141 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 90 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 73 回复\n4. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 62 回复\n5. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 61 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 58 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 57 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 449 | 💬 177\n2. OpenAI closes funding round at an $852B valuation\n   ⭐ 167 | 💬 156\n3. Ministack (Replacement for LocalStack)\n   ⭐ 33 | 💬 3\n4. Cohere Transcribe: Speech Recognition\n   ⭐ 135 | 💬 46\n5. Slop is not necessarily the future\n   ⭐ 127 | 💬 232\n6. 4D Doom\n   ⭐ 35 | 💬 2\n7. Show HN: Postgres extension for BM25 relevance-ranked full-text search\n   ⭐ 64 | 💬 27\n8. GitHub's Historic Uptime\n   ⭐ 317 | 💬 93\n9. Open source CAD in the browser (Solvespace)\n   ⭐ 257 | 💬 81\n10. OkCupid gave 3M dating-app photos to facial recognition firm, FTC says\n   ⭐ 224 | 💬 53\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 06:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T06:01:12.108744"
+}

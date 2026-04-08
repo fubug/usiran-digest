@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 82,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787883"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 78,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787899"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 72,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787902"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 63,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787905"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 56,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787908"
+    },
+    {
+      "title": "这种三省六部的 agent 架构有没有用？有用过的麻？",
+      "author": "lynn1su",
+      "replies": 54,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202502",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787911"
+    },
+    {
+      "title": "AI 影响下，都在说前端已死，后端已死，为啥没人说 Android 已死， IOS 已死",
+      "author": "pulengba",
+      "replies": 45,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202503",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787914"
+    },
+    {
+      "title": "讲讲现在 AI 编程对大家公司造成了什么影响！",
+      "author": "Meijer",
+      "replies": 41,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202488",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787916"
+    },
+    {
+      "title": "xdm 你们的 codex 会员在哪买的，在海鲜买的一次账号都被封了",
+      "author": "LLLeo",
+      "replies": 41,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202495",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T11:01:10.787918"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "score": 59,
+      "descendants": 16,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:11.801864"
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 870,
+      "descendants": 354,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:12.839626"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 85,
+      "descendants": 8,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:13.362667"
+    },
+    {
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 47,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:13.857115"
+    },
+    {
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 151,
+      "descendants": 30,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:16.694645"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 175,
+      "descendants": 58,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:17.227496"
+    },
+    {
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "score": 123,
+      "descendants": 49,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:17.742568"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "score": 123,
+      "descendants": 54,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:18.279110"
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 349,
+      "descendants": 299,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:18.946964"
+    },
+    {
+      "title": "4D Doom",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 142,
+      "descendants": 30,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T11:01:19.511701"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 11:01:19\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 82 回复\n2. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 78 回复\n3. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 72 回复\n4. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 63 回复\n5. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 56 回复\n6. 【程序员】这种三省六部的 agent 架构有没有用？有用过的麻？\n   👤 lynn1su | 💬 54 回复\n7. 【职场话题】AI 影响下，都在说前端已死，后端已死，为啥没人说 Android 已死， IOS 已死\n   👤 pulengba | 💬 45 回复\n8. 【职场话题】讲讲现在 AI 编程对大家公司造成了什么影响！\n   👤 Meijer | 💬 41 回复\n9. 【问与答】xdm 你们的 codex 会员在哪买的，在海鲜买的一次账号都被封了\n   👤 LLLeo | 💬 41 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. We intercepted the White House app's traffic. 77% of requests go to 3rd parties\n   ⭐ 59 | 💬 16\n2. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 870 | 💬 354\n3. TinyLoRA – Learning to Reason in 13 Parameters\n   ⭐ 85 | 💬 8\n4. TruffleRuby\n   ⭐ 47 | 💬 3\n5. Ministack (Replacement for LocalStack)\n   ⭐ 151 | 💬 30\n6. A dot a day keeps the clutter away\n   ⭐ 175 | 💬 58\n7. U.S. exempts oil industry from protecting Gulf animals, for 'national security'\n   ⭐ 123 | 💬 49\n8. Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs\n   ⭐ 123 | 💬 54\n9. OpenAI closes funding round at an $852B valuation\n   ⭐ 349 | 💬 299\n10. 4D Doom\n   ⭐ 142 | 💬 30\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 11:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T11:01:19.511827"
+}

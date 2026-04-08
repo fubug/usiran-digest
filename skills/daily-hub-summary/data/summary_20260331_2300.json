@@ -1,0 +1,152 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "如何投诉苏州大学？",
+      "author": "zhangH258",
+      "replies": 139,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202403",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108305"
+    },
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 87,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108323"
+    },
+    {
+      "title": "a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]",
+      "author": "daxiaolian",
+      "replies": 71,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202388",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108327"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 60,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108330"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 59,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108332"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 56,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108335"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 54,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-03-31T23:00:56.108337"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 1336,
+      "descendants": 504,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:57.093215"
+    },
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "score": 63,
+      "descendants": 15,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:57.580429"
+    },
+    {
+      "title": "Combinators",
+      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+      "score": 50,
+      "descendants": 9,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:58.060278"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 463,
+      "descendants": 223,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:58.543574"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 851,
+      "descendants": 466,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:59.021852"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 585,
+      "descendants": 362,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:59.453194"
+    },
+    {
+      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+      "score": 92,
+      "descendants": 61,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:00:59.936171"
+    },
+    {
+      "title": "Oracle slashes 30k jobs with a cold 6 a.m. email",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "score": 30,
+      "descendants": 6,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:01:00.403391"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 620,
+      "descendants": 240,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:01:00.836024"
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 226,
+      "descendants": 87,
+      "source": "Hacker News",
+      "timestamp": "2026-03-31T23:01:01.282091"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-31 23:01:01\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【问与答】如何投诉苏州大学？\n   👤 zhangH258 | 💬 139 回复\n2. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 87 回复\n3. 【推广】a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]\n   👤 daxiaolian | 💬 71 回复\n4. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 60 回复\n5. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 59 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 56 回复\n7. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 54 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Axios compromised on NPM – Malicious versions drop remote access trojan\n   ⭐ 1336 | 💬 504\n2. Open source CAD in the browser (Solvespace)\n   ⭐ 63 | 💬 15\n3. Combinators\n   ⭐ 50 | 💬 9\n4. Ollama is now powered by MLX on Apple Silicon in preview\n   ⭐ 463 | 💬 223\n5. Claude Code's source code has been leaked via a map file in their NPM registry\n   ⭐ 851 | 💬 466\n6. Artemis II is not safe to fly\n   ⭐ 585 | 💬 362\n7. Audio tapes reveal mass rule-breaking in Milgram's obedience experiments\n   ⭐ 92 | 💬 61\n8. Oracle slashes 30k jobs with a cold 6 a.m. email\n   ⭐ 30 | 💬 6\n9. Fedware: Government apps that spy harder than the apps they ban\n   ⭐ 620 | 💬 240\n10. Google's 200M-parameter time-series foundation model with 16k context\n   ⭐ 226 | 💬 87\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 23:01\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-31T23:01:01.282238"
+}

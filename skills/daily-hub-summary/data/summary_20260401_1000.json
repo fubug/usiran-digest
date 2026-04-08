@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？",
+      "author": "deadlineChen",
+      "replies": 101,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202445",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292317"
+    },
+    {
+      "title": "多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工",
+      "author": "tab16360",
+      "replies": 75,
+      "node": "购物",
+      "url": "https://www.v2ex.com/t/1202478",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292335"
+    },
+    {
+      "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+      "author": "ggdxwz",
+      "replies": 67,
+      "node": "Claude Code",
+      "url": "https://www.v2ex.com/t/1202562",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292339"
+    },
+    {
+      "title": "公司开始推行每个人创建各自的 agent、skills 了，并纳入考核",
+      "author": "ARIInV2",
+      "replies": 63,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1202429",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292342"
+    },
+    {
+      "title": "所以今天凌晨的 Apple intelligence，是草台班子具像化吗。。",
+      "author": "Bananana",
+      "replies": 61,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202424",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292345"
+    },
+    {
+      "title": "axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击",
+      "author": "0X00FFFF",
+      "replies": 60,
+      "node": "信息安全",
+      "url": "https://www.v2ex.com/t/1202470",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292348"
+    },
+    {
+      "title": "APPLE MUSIC/QQ/汽水 三选一？",
+      "author": "carverReal",
+      "replies": 55,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202441",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292369"
+    },
+    {
+      "title": "这种三省六部的 agent 架构有没有用？有用过的麻？",
+      "author": "lynn1su",
+      "replies": 50,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1202502",
+      "source": "V2EX",
+      "timestamp": "2026-04-01T10:00:02.292372"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 792,
+      "descendants": 329,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:03.187324"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 53,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:03.635825"
+    },
+    {
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 140,
+      "descendants": 25,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:04.081388"
+    },
+    {
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 27,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:04.573764"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 143,
+      "descendants": 44,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:05.016126"
+    },
+    {
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "score": 41,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:05.470244"
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 330,
+      "descendants": 292,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:05.955903"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "score": 95,
+      "descendants": 42,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:06.468461"
+    },
+    {
+      "title": "4D Doom",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 122,
+      "descendants": 29,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:06.942423"
+    },
+    {
+      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+      "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+      "score": 55,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-04-01T10:00:07.384893"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-01 10:00:07\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？\n   👤 deadlineChen | 💬 101 回复\n2. 【购物】多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工\n   👤 tab16360 | 💬 75 回复\n3. 【Claude Code】Claude Code 的源码好像被 Anthropic 自己发出来了\n   👤 ggdxwz | 💬 67 回复\n4. 【职场话题】公司开始推行每个人创建各自的 agent、skills 了，并纳入考核\n   👤 ARIInV2 | 💬 63 回复\n5. 【Apple】所以今天凌晨的 Apple intelligence，是草台班子具像化吗。。\n   👤 Bananana | 💬 61 回复\n6. 【信息安全】axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击\n   👤 0X00FFFF | 💬 60 回复\n7. 【问与答】APPLE MUSIC/QQ/汽水 三选一？\n   👤 carverReal | 💬 55 回复\n8. 【程序员】这种三省六部的 agent 架构有没有用？有用过的麻？\n   👤 lynn1su | 💬 50 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. The Claude Code Source Leak: fake tools, frustration regexes, undercover mode\n   ⭐ 792 | 💬 329\n2. TinyLoRA – Learning to Reason in 13 Parameters\n   ⭐ 53 | 💬 3\n3. Ministack (Replacement for LocalStack)\n   ⭐ 140 | 💬 25\n4. TruffleRuby\n   ⭐ 27 | 💬 3\n5. A dot a day keeps the clutter away\n   ⭐ 143 | 💬 44\n6. U.S. exempts oil industry from protecting Gulf animals, for 'national security'\n   ⭐ 41 | 💬 4\n7. OpenAI closes funding round at an $852B valuation\n   ⭐ 330 | 💬 292\n8. Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs\n   ⭐ 95 | 💬 42\n9. 4D Doom\n   ⭐ 122 | 💬 29\n10. Ordinary Lab Gloves May Have Skewed Microplastic Data\n   ⭐ 55 | 💬 14\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-01T10:00:07.385027"
+}

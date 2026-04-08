@@ -1,0 +1,161 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "老哥们，怎么才能放下啊",
+      "author": "t298",
+      "replies": 186,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1203266",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509843"
+    },
+    {
+      "title": "好几年清明没有回去祭祖了，感觉非常愧疚",
+      "author": "coldmonkeybit",
+      "replies": 112,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1203276",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509862"
+    },
+    {
+      "title": "安卓手机硬件远超 iPhone 为啥系统还是没有 IOS 流畅",
+      "author": "shanex",
+      "replies": 79,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1203272",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509866"
+    },
+    {
+      "title": "昆山花桥 中小公司 12k 求招 Java 方向全栈",
+      "author": "mokevip",
+      "replies": 63,
+      "node": "酷工作",
+      "url": "https://www.v2ex.com/t/1203301",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509869"
+    },
+    {
+      "title": "看到我的同事一天到晚还在手写代码我就想笑",
+      "author": "left7410",
+      "replies": 53,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1203377",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509871"
+    },
+    {
+      "title": "5k 以内的扫地机器人推荐",
+      "author": "imherer",
+      "replies": 51,
+      "node": "买买买",
+      "url": "https://www.v2ex.com/t/1203255",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509874"
+    },
+    {
+      "title": "1w 人电报群搞 AI 中转站分销，感叹真魔幻",
+      "author": "312ybj",
+      "replies": 46,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203279",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509876"
+    },
+    {
+      "title": "小米 MiMo token plan 四挡套餐正式上线 贵还是便宜",
+      "author": "changwencai",
+      "replies": 38,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1203353",
+      "source": "V2EX",
+      "timestamp": "2026-04-04T10:00:02.509879"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "",
+      "score": 261,
+      "descendants": 264,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:03.603169"
+    },
+    {
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 500,
+      "descendants": 203,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:04.086953"
+    },
+    {
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "url": "https://github.com/cmc-labo/tinyos-rtos",
+      "score": 78,
+      "descendants": 17,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:04.801245"
+    },
+    {
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 332,
+      "descendants": 96,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:05.291226"
+    },
+    {
+      "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+      "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+      "score": 43,
+      "descendants": 37,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:05.740281"
+    },
+    {
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "score": 26,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:06.231456"
+    },
+    {
+      "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "score": 175,
+      "descendants": 27,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:06.722308"
+    },
+    {
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "score": 103,
+      "descendants": 24,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:07.212219"
+    },
+    {
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "score": 654,
+      "descendants": 169,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:07.698811"
+    },
+    {
+      "title": "Fake Fans",
+      "url": "https://www.wordsfromeliza.com/p/fake-fans",
+      "score": 61,
+      "descendants": 6,
+      "source": "Hacker News",
+      "timestamp": "2026-04-04T10:00:08.185442"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-04 10:00:08\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】老哥们，怎么才能放下啊\n   👤 t298 | 💬 186 回复\n2. 【生活】好几年清明没有回去祭祖了，感觉非常愧疚\n   👤 coldmonkeybit | 💬 112 回复\n3. 【问与答】安卓手机硬件远超 iPhone 为啥系统还是没有 IOS 流畅\n   👤 shanex | 💬 79 回复\n4. 【酷工作】昆山花桥 中小公司 12k 求招 Java 方向全栈\n   👤 mokevip | 💬 63 回复\n5. 【职场话题】看到我的同事一天到晚还在手写代码我就想笑\n   👤 left7410 | 💬 53 回复\n6. 【买买买】5k 以内的扫地机器人推荐\n   👤 imherer | 💬 51 回复\n7. 【程序员】1w 人电报群搞 AI 中转站分销，感叹真魔幻\n   👤 312ybj | 💬 46 回复\n8. 【程序员】小米 MiMo token plan 四挡套餐正式上线 贵还是便宜\n   👤 changwencai | 💬 38 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw\n   ⭐ 261 | 💬 264\n2. Artemis II crew take “spectacular” image of Earth\n   ⭐ 500 | 💬 203\n3. Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C\n   ⭐ 78 | 💬 17\n4. iNaturalist\n   ⭐ 332 | 💬 96\n5. Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)\n   ⭐ 43 | 💬 37\n6. Herbie: Automatically improve imprecise floating point formulas\n   ⭐ 26 | 💬 0\n7. The FAA’s flight restriction for drones is an attempt to criminalize filming ICE\n   ⭐ 175 | 💬 27\n8. What changes when you turn a Linux box into a router\n   ⭐ 103 | 💬 24\n9. Show HN: I built a frontpage for personal blogs\n   ⭐ 654 | 💬 169\n10. Fake Fans\n   ⭐ 61 | 💬 6\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-04T10:00:08.185544"
+}

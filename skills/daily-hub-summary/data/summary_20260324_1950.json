@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "作为 Leader 也被裁了，挺意外的，随便聊聊",
+      "author": "timespy",
+      "replies": 393,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1200592",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860576"
+    },
+    {
+      "title": "94 年 211 本女找精神契合的男朋友，坐标成都",
+      "author": "Nooory",
+      "replies": 201,
+      "node": "情感",
+      "url": "https://www.v2ex.com/t/1200542",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860596"
+    },
+    {
+      "title": "32 岁人生低谷寻求建议",
+      "author": "IsaacYoung",
+      "replies": 161,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1200693",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860600"
+    },
+    {
+      "title": "关于我转行矿工的一年半后",
+      "author": "TestOPS",
+      "replies": 103,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1200578",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860603"
+    },
+    {
+      "title": "一个人照顾新生儿和剖腹产老婆，我也是没谁了",
+      "author": "iixy",
+      "replies": 98,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1200577",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860607"
+    },
+    {
+      "title": "第三次相亲复盘记录",
+      "author": "zisen",
+      "replies": 97,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1200632",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860610"
+    },
+    {
+      "title": "问界 m6",
+      "author": "he123",
+      "replies": 77,
+      "node": "电动汽车",
+      "url": "https://www.v2ex.com/t/1200698",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860612"
+    },
+    {
+      "title": "极氪 7X / Model Y / MG4 怎么选？",
+      "author": "gitsuck",
+      "replies": 75,
+      "node": "电动汽车",
+      "url": "https://www.v2ex.com/t/1200722",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860615"
+    },
+    {
+      "title": "真求你们别再发 ai 和裁员的新闻了, 最先响应的永远是老板!",
+      "author": "shuimuwei",
+      "replies": 66,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1200610",
+      "source": "V2EX",
+      "timestamp": "2026-03-24T19:50:31.860617"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "score": 209,
+      "descendants": 150,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:32.794006"
+    },
+    {
+      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+      "url": "https://www.web-rewind.com",
+      "score": 77,
+      "descendants": 38,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:33.275402"
+    },
+    {
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "score": 166,
+      "descendants": 53,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:33.766411"
+    },
+    {
+      "title": "Log File Viewer for the Terminal",
+      "url": "https://lnav.org/",
+      "score": 172,
+      "descendants": 22,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:34.249626"
+    },
+    {
+      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+      "url": "https://burntsushi.net/ripgrep/",
+      "score": 82,
+      "descendants": 41,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:35.029931"
+    },
+    {
+      "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
+      "url": "https://qitejs.qount25.dev",
+      "score": 39,
+      "descendants": 28,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:35.513314"
+    },
+    {
+      "title": "MSA: Memory Sparse Attention",
+      "url": "https://github.com/EverMind-AI/MSA",
+      "score": 17,
+      "descendants": 1,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:35.994447"
+    },
+    {
+      "title": "BIO – The Bao I/O Co-Processor",
+      "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
+      "score": 51,
+      "descendants": 13,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:36.465048"
+    },
+    {
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 637,
+      "descendants": 281,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:36.901053"
+    },
+    {
+      "title": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "score": 376,
+      "descendants": 83,
+      "source": "Hacker News",
+      "timestamp": "2026-03-24T19:50:37.419890"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-24 19:50:37\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【职场话题】作为 Leader 也被裁了，挺意外的，随便聊聊\n   👤 timespy | 💬 393 回复\n2. 【情感】94 年 211 本女找精神契合的男朋友，坐标成都\n   👤 Nooory | 💬 201 回复\n3. 【生活】32 岁人生低谷寻求建议\n   👤 IsaacYoung | 💬 161 回复\n4. 【职场话题】关于我转行矿工的一年半后\n   👤 TestOPS | 💬 103 回复\n5. 【生活】一个人照顾新生儿和剖腹产老婆，我也是没谁了\n   👤 iixy | 💬 98 回复\n6. 【生活】第三次相亲复盘记录\n   👤 zisen | 💬 97 回复\n7. 【电动汽车】问界 m6\n   👤 he123 | 💬 77 回复\n8. 【电动汽车】极氪 7X / Model Y / MG4 怎么选？\n   👤 gitsuck | 💬 75 回复\n9. 【职场话题】真求你们别再发 ai 和裁员的新闻了, 最先响应的永远是老板!\n   👤 shuimuwei | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Microsoft's \"Fix\" for Windows 11: Flowers After the Beating\n   ⭐ 209 | 💬 150\n2. Opera: Rewind The Web to 1996 (Opera at 30)\n   ⭐ 77 | 💬 38\n3. Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home\n   ⭐ 166 | 💬 53\n4. Log File Viewer for the Terminal\n   ⭐ 172 | 💬 22\n5. Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)\n   ⭐ 82 | 💬 41\n6. No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML\n   ⭐ 39 | 💬 28\n7. MSA: Memory Sparse Attention\n   ⭐ 17 | 💬 1\n8. BIO – The Bao I/O Co-Processor\n   ⭐ 51 | 💬 13\n9. iPhone 17 Pro Demonstrated Running a 400B LLM\n   ⭐ 637 | 💬 281\n10. Autoresearch on an old research idea\n   ⭐ 376 | 💬 83\n\n──────────────────────────────────────────────────\n📈 数据来源: Polymarket Gamma API + V2EX + Hacker News",
+  "generated_at": "2026-03-24T19:50:37.419989"
+}

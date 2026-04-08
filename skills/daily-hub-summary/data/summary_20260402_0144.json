@@ -1,0 +1,170 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "龟男又来发帖了，帮帮我",
+      "author": "Colderer",
+      "replies": 209,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202731",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051796"
+    },
+    {
+      "title": "想问下大家是如何判断车的安全性",
+      "author": "iamxueyichen",
+      "replies": 164,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202685",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051813"
+    },
+    {
+      "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+      "author": "tomkyr",
+      "replies": 139,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1202694",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051816"
+    },
+    {
+      "title": "医院的商业化是不是过头了？",
+      "author": "base",
+      "replies": 113,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202702",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051819"
+    },
+    {
+      "title": "中奖了",
+      "author": "mastergo",
+      "replies": 103,
+      "node": "晒晒更健康",
+      "url": "https://www.v2ex.com/t/1202712",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051822"
+    },
+    {
+      "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+      "author": "HOmo00",
+      "replies": 99,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202793",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051825"
+    },
+    {
+      "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+      "author": "laikicka",
+      "replies": 91,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1202762",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051827"
+    },
+    {
+      "title": "新手开车前准备",
+      "author": "he123",
+      "replies": 82,
+      "node": "杭州",
+      "url": "https://www.v2ex.com/t/1202688",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051830"
+    },
+    {
+      "title": "最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？",
+      "author": "linky6565",
+      "replies": 66,
+      "node": "汽车",
+      "url": "https://www.v2ex.com/t/1202686",
+      "source": "V2EX",
+      "timestamp": "2026-04-02T01:44:01.051832"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 156,
+      "descendants": 86,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:02.101144"
+    },
+    {
+      "title": "AI for American-Produced Cement and Concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 21,
+      "descendants": 6,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:02.589741"
+    },
+    {
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "score": 52,
+      "descendants": 17,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:03.078734"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "",
+      "score": 76,
+      "descendants": 68,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:03.528193"
+    },
+    {
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "score": 29,
+      "descendants": 7,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:03.976083"
+    },
+    {
+      "title": "AI companies charge you 60% more based on your language, BPE tokens",
+      "url": "https://tokenstree.com/newsletter-article-5.html",
+      "score": 5,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:04.460374"
+    },
+    {
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 331,
+      "descendants": 76,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:04.947576"
+    },
+    {
+      "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "score": 82,
+      "descendants": 48,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:05.437877"
+    },
+    {
+      "title": "Is BGP safe yet?",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 185,
+      "descendants": 60,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:05.929723"
+    },
+    {
+      "title": "NASA Artemis II moon mission live launch broadcast",
+      "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+      "score": 38,
+      "descendants": 7,
+      "source": "Hacker News",
+      "timestamp": "2026-04-02T01:44:06.414822"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-02 01:44:06\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【生活】龟男又来发帖了，帮帮我\n   👤 Colderer | 💬 209 回复\n2. 【汽车】想问下大家是如何判断车的安全性\n   👤 iamxueyichen | 💬 164 回复\n3. 【推广】43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？\n   👤 tomkyr | 💬 139 回复\n4. 【生活】医院的商业化是不是过头了？\n   👤 base | 💬 113 回复\n5. 【晒晒更健康】中奖了\n   👤 mastergo | 💬 103 回复\n6. 【生活】同事想和你打扑克的话，你们会和同事打扑克吗\n   👤 HOmo00 | 💬 99 回复\n7. 【生活】这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行\n   👤 laikicka | 💬 91 回复\n8. 【杭州】新手开车前准备\n   👤 he123 | 💬 82 回复\n9. 【汽车】最近要换车想把旧车卖了，不知道有没有朋友知道瓜子靠不靠谱？\n   👤 linky6565 | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. EmDash – a spiritual successor to WordPress that solves plugin security\n   ⭐ 156 | 💬 86\n2. AI for American-Produced Cement and Concrete\n   ⭐ 21 | 💬 6\n3. StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)\n   ⭐ 52 | 💬 17\n4. Ask HN: Who is hiring? (April 2026)\n   ⭐ 76 | 💬 68\n5. Show HN: Real-time dashboard for Claude Code agent teams\n   ⭐ 29 | 💬 7\n6. AI companies charge you 60% more based on your language, BPE tokens\n   ⭐ 5 | 💬 3\n7. CERN levels up with new superconducting karts\n   ⭐ 331 | 💬 76\n8. The OpenAI Graveyard: All the Deals and Products That Haven't Happened\n   ⭐ 82 | 💬 48\n9. Is BGP safe yet?\n   ⭐ 185 | 💬 60\n10. NASA Artemis II moon mission live launch broadcast\n   ⭐ 38 | 💬 7\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 01:44\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-02T01:44:06.414925"
+}

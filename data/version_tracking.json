@@ -1,0 +1,19 @@
+{
+  "idea-claude-code-gui": {
+    "repo": "zhukunpenglinyutong/idea-claude-code-gui",
+    "current_version": "v0.3.0",
+    "last_checked": "2026-03-26",
+    "notified": false,
+    "acknowledged": false,
+    "notes": "IDEA Claude Code GUI \u63d2\u4ef6"
+  },
+  "glm-5-lite-support": {
+    "name": "GLM-5 Lite\u5957\u9910\u652f\u6301",
+    "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+    "current_status": "\u4e0d\u652f\u6301",
+    "last_checked": "2026-03-16",
+    "target": "Lite \u5957\u9910\u652f\u6301 GLM-5",
+    "notes": "\u667a\u8c31AI Coding Plan Lite \u5957\u9910 GLM-5 \u652f\u6301\u72b6\u6001",
+    "notified": true
+  }
+}

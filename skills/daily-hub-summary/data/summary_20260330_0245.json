@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）",
+      "author": "skelton",
+      "replies": 60,
+      "node": "分享创造",
+      "url": "https://www.v2ex.com/t/1201945",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036777"
+    },
+    {
+      "title": "你用 AI 赚到过钱吗 怎么赚的？",
+      "author": "ShawnShi",
+      "replies": 59,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201942",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036796"
+    },
+    {
+      "title": "请问 m 芯片真的很强吗?",
+      "author": "badboy200600",
+      "replies": 53,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1202001",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036800"
+    },
+    {
+      "title": "大家一人来一句 AI 味很浓的语句，纯属娱乐",
+      "author": "monosolo1on1",
+      "replies": 51,
+      "node": "每日一笑",
+      "url": "https://www.v2ex.com/t/1202017",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036803"
+    },
+    {
+      "title": "apple watch 你们都用来干什么？",
+      "author": "linzhai",
+      "replies": 50,
+      "node": " WATCH",
+      "url": "https://www.v2ex.com/t/1201936",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036805"
+    },
+    {
+      "title": "弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗",
+      "author": "jimmer1993",
+      "replies": 43,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1202052",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036808"
+    },
+    {
+      "title": "入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。",
+      "author": "qkunchanzi",
+      "replies": 38,
+      "node": "职场话题",
+      "url": "https://www.v2ex.com/t/1201958",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036811"
+    },
+    {
+      "title": "有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案",
+      "author": "timespy",
+      "replies": 31,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201922",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036813"
+    },
+    {
+      "title": "大资金",
+      "author": "cmdOptionKana",
+      "replies": 30,
+      "node": "投资",
+      "url": "https://www.v2ex.com/t/1201938",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036816"
+    },
+    {
+      "title": "请问大家写代码 用 5.4 还是 5.3-codex",
+      "author": "admirez",
+      "replies": 24,
+      "node": "问与答",
+      "url": "https://www.v2ex.com/t/1201927",
+      "source": "V2EX",
+      "timestamp": "2026-03-30T02:45:59.036818"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "score": 149,
+      "descendants": 54,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:00.083063"
+    },
+    {
+      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "score": 31,
+      "descendants": 4,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:00.571262"
+    },
+    {
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "url": "https://github.com/chenglou/pretext",
+      "score": 56,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:01.054573"
+    },
+    {
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+      "score": 59,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:01.538845"
+    },
+    {
+      "title": "Neovim 0.12.0",
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "score": 64,
+      "descendants": 14,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:01.972534"
+    },
+    {
+      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "url": "https://github.com/DavidHavoc/ayaFlow",
+      "score": 45,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:02.455612"
+    },
+    {
+      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "score": 27,
+      "descendants": 7,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:02.938042"
+    },
+    {
+      "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+      "url": "https://github.com/elixir-volt/quickbeam",
+      "score": 23,
+      "descendants": 3,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:03.423592"
+    },
+    {
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "score": 195,
+      "descendants": 72,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:03.858392"
+    },
+    {
+      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 418,
+      "descendants": 183,
+      "source": "Hacker News",
+      "timestamp": "2026-03-30T02:46:04.342812"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-03-30 02:46:04\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【分享创造】分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）\n   👤 skelton | 💬 60 回复\n2. 【问与答】你用 AI 赚到过钱吗 怎么赚的？\n   👤 ShawnShi | 💬 59 回复\n3. 【Apple】请问 m 芯片真的很强吗?\n   👤 badboy200600 | 💬 53 回复\n4. 【每日一笑】大家一人来一句 AI 味很浓的语句，纯属娱乐\n   👤 monosolo1on1 | 💬 51 回复\n5. 【 WATCH】apple watch 你们都用来干什么？\n   👤 linzhai | 💬 50 回复\n6. 【问与答】弟弟是赌狗诈骗犯，我应该跟家里断绝关系吗\n   👤 jimmer1993 | 💬 43 回复\n7. 【职场话题】入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。\n   👤 qkunchanzi | 💬 38 回复\n8. 【问与答】有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案\n   👤 timespy | 💬 31 回复\n9. 【投资】大资金\n   👤 cmdOptionKana | 💬 30 回复\n10. 【问与答】请问大家写代码 用 5.4 还是 5.3-codex\n   👤 admirez | 💬 24 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Voyager 1 runs on 69 KB of memory and an 8-track tape recorder\n   ⭐ 149 | 💬 54\n2. C++26 is done ISO C++ standards meeting, Trip Report\n   ⭐ 31 | 💬 4\n3. Pretext: TypeScript library for multiline text measurement and layout\n   ⭐ 56 | 💬 3\n4. The RISE RISC-V Runners: free, native RISC-V CI on GitHub\n   ⭐ 59 | 💬 12\n5. Neovim 0.12.0\n   ⭐ 64 | 💬 14\n6. AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust\n   ⭐ 45 | 💬 3\n7. The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n   ⭐ 27 | 💬 7\n8. Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes\n   ⭐ 23 | 💬 3\n9. Police used AI facial recognition to wrongly arrest TN woman for crimes in ND\n   ⭐ 195 | 💬 72\n10. Nitrile and latex gloves may cause overestimation of microplastics\n   ⭐ 418 | 💬 183\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 02:46\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-03-30T02:46:04.342935"
+}
