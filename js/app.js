@@ -50,7 +50,7 @@
       const index = await resp.json();
       // Sort by date descending
       allDigests = (index.files || []).sort(
-        (a, b) => a.date.localeCompare(b.date)
+        (a, b) => b.date.localeCompare(a.date)
       );
       collectTags();
       renderFilterTags();
