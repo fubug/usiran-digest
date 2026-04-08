@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T23:00:00+08:00",
+  "updated": "2026-04-09T00:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T00",
+      "file": "2026-04-09T00.md",
+      "date": "2026-04-09T00:00:00+08:00",
+      "title": {
+        "zh": "特朗普称将与伊朗合作开采铀浓缩材料，以色列继续轰炸贝鲁特",
+        "en": "Trump Says US to Work with Iran on Uranium Digging, Israel Continues Beirut Bombing"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T23",
       "file": "2026-04-08T23.md",
