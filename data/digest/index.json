@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T09:00:00+08:00",
+  "updated": "2026-04-08T11:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T11",
+      "file": "2026-04-08T11.md",
+      "date": "2026-04-08T11:00:00+08:00",
+      "title": {
+        "zh": "美伊达成两周停火协议，以色列表示不包含对真主党战斗",
+        "en": "US and Iran Agree to Two-Week Ceasefire, Israel Excludes Hezbollah Fighting"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T09",
       "file": "2026-04-08T09.md",
