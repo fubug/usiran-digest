@@ -311,12 +311,16 @@
     },
     {
       "id": "2026-04-09T06",
-      "title": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
+      "title": {
+        "zh": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
+        "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
+      },
       "date": "2026-04-09T06:00:00+08:00",
       "tags": [
         "military",
         "diplomacy"
-      ]
+      ],
+      "file": "2026-04-09T06.md"
     }
   ]
 }
