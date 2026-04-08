@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T20:00:00+08:00",
+  "updated": "2026-04-08T23:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T23",
+      "file": "2026-04-08T23.md",
+      "date": "2026-04-08T23:00:00+08:00",
+      "title": {
+        "zh": "停火协议初步生效，以色列继续打击黎巴嫩真主党",
+        "en": "Ceasefire Holds as Israel Continues Strikes on Hezbollah in Lebanon"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-08T20",
       "file": "2026-04-08T20.md",
