@@ -9,17 +9,10 @@
         "zh": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
         "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
       },
-      "tags": ["military", "diplomacy"]
-    },
-    {
-      "id": "2026-04-09T03",
-      "file": "2026-04-09T03.md",
-      "date": "2026-04-09T03:00:00+08:00",
-      "title": {
-        "zh": "信息维护时段 - 无重大新事件",
-        "en": "Maintenance Period - No Major New Events"
-      },
-      "tags": ["maintenance"]
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-09T02",
@@ -29,7 +22,10 @@
         "zh": "伊朗因黎巴嫩袭击关闭海峡，停火协议面临挑战",
         "en": "Iran Closes Strait After Lebanon Strikes, Ceasefire Faces Challenges"
       },
-      "tags": ["military", "diplomacy"]
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-09T00",
@@ -39,7 +35,10 @@
         "zh": "特朗普称将与伊朗合作开采铀浓缩材料，以色列继续轰炸贝鲁特",
         "en": "Trump Says US to Work with Iran on Uranium Digging, Israel Continues Beirut Bombing"
       },
-      "tags": ["military", "diplomacy"]
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-08T23",
