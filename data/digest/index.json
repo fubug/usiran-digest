@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T15:00:00+08:00",
+  "updated": "2026-04-08T16:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-08T16",
+      "file": "2026-04-08T16.md",
+      "date": "2026-04-08T16:00:00+08:00",
+      "title": {
+        "zh": "黎以边境冲突持续 市场强势反弹",
+        "en": "Lebanon Conflict Continues as Markets Rally"
+      },
+      "tags": ["military", "diplomacy", "economy"]
+    },
     {
       "id": "2026-04-08T15",
       "file": "2026-04-08T15.md",
@@ -76,7 +86,7 @@
       "date": "2026-04-08T04:00:00+08:00",
       "title": {
         "zh": "特朗普再发'文明死亡威胁' 多国紧急应对联合国表决受阻",
-        "en": "Trump Issues Another 'Civilization Death Threat' Multiple Countries Respond Urgently as UN Vote Blocked"
+        "en": "Trump Issues Another 'Civil Death Threat' Multiple Countries Respond Urgently as UN Vote Blocked"
       },
       "tags": [
         "military",
