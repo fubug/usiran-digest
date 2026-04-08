@@ -50,7 +50,7 @@
       const index = await resp.json();
       // Sort by date descending
       allDigests = (index.files || []).sort(
-        (a, b) => new Date(b.date) - new Date(a.date)
+        (a, b) => a.date.localeCompare(b.date)
       );
       collectTags();
       renderFilterTags();
@@ -284,7 +284,11 @@
   }
 
   // --- Helpers ---
+  // Extract time directly from ISO string to avoid browser timezone bugs (e.g. WeChat WebView)
+  // Input: "2026-04-08T09:00:00+08:00" -> Output: "2026-04-08 09:00"
   function formatDate(dateStr) {
+    const m = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/);
+    if (m) return `${m[1]}-${m[2]}-${m[3]} ${m[4]}:${m[5]}`;
     const d = new Date(dateStr);
     const pad = n => String(n).padStart(2, '0');
     return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
