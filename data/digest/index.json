@@ -1,29 +1,174 @@
 {
+  "title": "美伊战争实时局势摘要",
+  "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
+  "sources": [
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com"
+    },
+    {
+      "name": "AP News",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
+    }
+  ],
   "files": [
     {
-      "id": "2026-04-09T02",
-      "title": "2026-04-09T02",
-      "url": "data/digest/2026-04-09T02.md"
+      "id": "2026-04-07T18",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-07T18.md"
     },
     {
-      "id": "2026-04-09T06",
-      "title": "2026-04-09T06",
-      "url": "data/digest/2026-04-09T06.md"
+      "id": "2026-04-07T19",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-07T19.md"
     },
     {
-      "id": "2026-04-09T12",
-      "title": "2026-04-09T12",
-      "url": "data/digest/2026-04-09T12.md"
+      "id": "2026-04-07T21",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-07T21.md"
+    },
+    {
+      "id": "2026-04-07T22",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-07T22.md"
+    },
+    {
+      "id": "2026-04-07T23",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-07T23.md"
+    },
+    {
+      "id": "2026-04-08T00",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T00.md"
+    },
+    {
+      "id": "2026-04-08T02",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T02.md"
+    },
+    {
+      "id": "2026-04-08T03",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T03.md"
+    },
+    {
+      "id": "2026-04-08T04",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T04.md"
+    },
+    {
+      "id": "2026-04-08T05",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T05.md"
+    },
+    {
+      "id": "2026-04-08T07",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T07.md"
+    },
+    {
+      "id": "2026-04-08T09",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T09.md"
+    },
+    {
+      "id": "2026-04-08T11",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T11.md"
+    },
+    {
+      "id": "2026-04-08T14",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T14.md"
+    },
+    {
+      "id": "2026-04-08T15",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T15.md"
+    },
+    {
+      "id": "2026-04-08T16",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T16.md"
+    },
+    {
+      "id": "2026-04-08T18",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T18.md"
+    },
+    {
+      "id": "2026-04-08T19",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T19.md"
+    },
+    {
+      "id": "2026-04-08T20",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T20.md"
+    },
+    {
+      "id": "2026-04-08T21",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T21.md"
+    },
+    {
+      "id": "2026-04-08T23",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T23.md"
     },
     {
       "id": "2026-04-09T00",
-      "title": "2026-04-09T00",
-      "url": "data/digest/2026-04-09T00.md"
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T00.md"
     },
     {
-      "id": "2026-04-09T13",
-      "title": "2026-04-09T13",
-      "url": "data/digest/2026-04-09T13.md"
+      "id": "2026-04-09T02",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T02.md"
+    },
+    {
+      "id": "2026-04-09T06",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T06.md"
+    },
+    {
+      "id": "2026-04-09T12",
+      "title_zh": "未标题",
+      "title_en": "Untitled",
+      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T12.md"
     }
   ]
 }
