@@ -19,8 +19,21 @@
       "url": "https://www.independent.co.uk"
     }
   ],
-  "updated": "2026-04-09T19:00:00+08:00",
+  "updated": "2026-04-09T22:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T22",
+      "file": "2026-04-09T22.md",
+      "date": "2026-04-09T22:00:00+08:00",
+      "title": {
+        "zh": "德国警告北约承压 黎巴嫩向联合国提交控诉 203人丧生",
+        "en": "Germany Warns NATO Under Pressure, Lebanon Files U.N. Complaint, 203 Dead"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-07T18",
       "file": "2026-04-07T18.md",
