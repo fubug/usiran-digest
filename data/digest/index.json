@@ -19,6 +19,7 @@
       "url": "https://www.independent.co.uk"
     }
   ],
+  "updated": "2026-04-09T16:00:00+08:00",
   "files": [
     {
       "id": "2026-04-07T18",
@@ -105,12 +106,6 @@
       "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T14.md"
     },
     {
-      "id": "2026-04-08T15",
-      "title_zh": "未标题",
-      "title_en": "Untitled",
-      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-08T15.md"
-    },
-    {
       "id": "2026-04-08T16",
       "title_zh": "未标题",
       "title_en": "Untitled",
@@ -165,10 +160,24 @@
       "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T06.md"
     },
     {
+      "id": "2026-04-09T16",
+      "file": "2026-04-09T16.md",
+      "date": "2026-04-09T16:00:00+08:00",
+      "title": {
+        "zh": "停火遇挫：特朗普增兵威胁武力，黎以冲突造成严重平民伤亡",
+        "en": "Ceasefire Under Pressure: Trump Reinforces Troops Threatens Force, Lebanon-Israel Conflict Causes Heavy Civilian Casualties"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
       "id": "2026-04-09T12",
-      "title_zh": "未标题",
-      "title_en": "Untitled",
-      "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T12.md"
+      "file": "2026-04-09T12.md",
+      "date": "2026-04-09T12:00:00+08:00",
+      "title": {
+        "zh": "停火协议面临新挑战：特朗普增兵中东，联合国警告黎巴嫩行动风险",
+        "en": "Ceasefire Faces New Challenges: Trump Reinforces Middle East, UN Warns on Lebanon Risk"
+      },
+      "tags": ["military", "diplomacy"]
     }
   ]
 }
