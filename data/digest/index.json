@@ -19,8 +19,21 @@
       "url": "https://www.independent.co.uk"
     }
   ],
-  "updated": "2026-04-09T22:00:00+08:00",
+  "updated": "2026-04-10T01:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-10T01",
+      "file": "2026-04-10T01.md",
+      "date": "2026-04-10T01:00:00+08:00",
+      "title": {
+        "zh": "多国谴责黎巴嫩袭击，美伊停火争议持续",
+        "en": "Multiple Countries Condemn Lebanon Attacks, US-Iran Ceasefire Dispute Continues"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-09T22",
       "file": "2026-04-09T22.md",
