@@ -1,6 +1,26 @@
 {
-  "updated": "2026-04-09T10:00:00+08:00",
+  "updated": "2026-04-09T12:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T12",
+      "file": "2026-04-09T12.md",
+      "date": "2026-04-09T12:00:00+08:00",
+      "title": {
+        "zh": "停火协议面临新挑战：特朗普增兵中东，联合国警告黎巴嫩行动风险",
+        "en": "Ceasefire Faces New Challenges: Trump Reinforces Middle East, UN Warns on Lebanon Risk"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-09T10",
+      "file": "2026-04-09T10.md",
+      "date": "2026-04-09T10:00:00+08:00",
+      "title": {
+        "zh": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
+        "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-09T06",
       "title": {
