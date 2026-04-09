@@ -19,7 +19,7 @@
       "url": "https://www.independent.co.uk"
     }
   ],
-  "updated": "2026-04-09T16:00:00+08:00",
+  "updated": "2026-04-09T17:00:00+08:00",
   "files": [
     {
       "id": "2026-04-07T18",
@@ -158,6 +158,16 @@
       "title_zh": "未标题",
       "title_en": "Untitled",
       "url": "https://fubug.github.io/usiran-digest/data/digest/2026-04-09T06.md"
+    },
+    {
+      "id": "2026-04-09T17",
+      "file": "2026-04-09T17.md",
+      "date": "2026-04-09T17:00:00+08:00",
+      "title": {
+        "zh": "黎巴嫩遭袭引发危机：停火协议遭严重违约，油价反弹",
+        "en": "Lebanon Crisis: Ceasefire Seriously Breached, Oil Prices Rebound"
+      },
+      "tags": ["military", "diplomacy"]
     },
     {
       "id": "2026-04-09T16",
