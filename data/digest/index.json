@@ -19,8 +19,18 @@
       "url": "https://www.independent.co.uk"
     }
   ],
-  "updated": "2026-04-09T18:00:00+08:00",
+  "updated": "2026-04-09T19:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T19",
+      "file": "2026-04-09T19.md",
+      "date": "2026-04-09T19:00:00+08:00",
+      "title": {
+        "zh": "黎巴嫩单日死亡创纪录，停火协议持续紧张",
+        "en": "Lebanon Records Daily Death Toll, Ceasefire Tensions Persist"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-09T18",
       "file": "2026-04-09T18.md",
