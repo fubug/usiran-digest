@@ -19,8 +19,18 @@
       "url": "https://www.independent.co.uk"
     }
   ],
-  "updated": "2026-04-09T17:00:00+08:00",
+  "updated": "2026-04-09T18:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-09T18",
+      "file": "2026-04-09T18.md",
+      "date": "2026-04-09T18:00:00+08:00",
+      "title": {
+        "zh": "特朗普威胁伊朗不遵守'真正'停火协议将采取行动",
+        "en": "Trump Threatens Action if Iran Fails to Comply with 'Real' Ceasefire Deal"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-07T18",
       "title_zh": "未标题",
