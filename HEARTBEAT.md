@@ -80,20 +80,20 @@ python3 /root/.openclaw/workspace/scripts/iran_war_monitor.py
 5. ⚠️  警惕双方信息战：伊朗夸大战果/伪造证据（如 Snopes 辟谣的'被俘飞行员视频'），特朗普美化叙事（如'零伤亡'与 CBS 报道矛盾）
 6. 📊 关注关键时间点（如4月6日最后期限）
 
-**⚡ 关键事件追踪**（截至2026-04-07 15:00 Beijing）:
-- ⏰ deadline：4月7日美东晚8点（**北京4月8日早8点**）已到期7+小时，特朗普未公开回应
-- ⚠️ **伊朗驻巴基斯坦大使称调停接近"critical, sensitive stage"** — 谈判可能仍在幕后进行
-- 🚂 以色列IDF用波斯语警告伊朗民众12小时内不要乘坐火车（至伊朗21:00=北京凌晨0:30）——暗示即将攻击铁路系统
-- 🇸🇦 沙特关闭通往巴林的法赫德国王大桥（25km），因伊朗导弹打击东部省份能源设施
-- 🇸🇦 沙特击落7枚伊朗弹道导弹
-- 🇮🇱 以色列空袭"彻底摧毁"德黑兰Rafi-Nia犹太教堂
-- 🇬🇧 英国主办40+国霍尔木兹海峡安全规划会议
-- 🇳🇿 新西兰总理批评特朗普民用基础设施威胁
-- 💰 Polymarket：100%概率赌美军月底前进入伊朗
-- 过去24小时：49名平民死亡，573次攻击（十天内最高）
-- CENTCOM：13,000+目标被打击，155+伊朗船只被摧毁
-- 原油WTI $113+，Brent $110+
-- 累计：伊朗1900+死，黎巴嫩1400+死，以色列19死，美军13死
+**⚡ 关键事件追踪**（截至2026-04-08 08:15 Beijing）:
+- ✅ **美伊达成2周停火协议**（多源确认：AP/Guardian/Independent/NYT/CNBC/Korea Herald）
+  - 特朗普在deadline前约2小时宣布："subject to Iran agreeing to COMPLETE, IMMEDIATE, and SAFE OPENING of Strait of Hormuz, I agree to suspend bombing for two weeks. This will be a double sided CEASEFIRE!"
+  - 伊朗外长 Araghchi 确认："If attacks against Iran are halted, our Armed Forces will cease defensive operations. For two weeks, safe passage through Strait of Hormuz will be possible."
+  - 伊朗接受了巴基斯坦的停火提议（NYT引3名伊朗官员）
+  - Guardian: 霍尔木兹海峡将重新开放
+  - 这是特朗普18天内第4次推迟/移动自我设定的deadline
+- 🎯 **以色列击杀伊朗海军司令 Alireza Tangsiri** + 高级海军指挥官（停火前发生）
+- 🛢️ 哈尔克岛遭美军第二次打击（停火宣布前）
+- 🇬🇧 英国拒绝美军使用其基地打击民用基础设施（Lib Dem 57名议员联名）
+- 🇸🇦 沙特关闭法赫德国王大桥（通往巴林），击落7枚伊朗弹道导弹
+- 🇮🇱 以色列空袭摧毁德黑兰犹太教堂、三个机场、南帕尔斯石化设施
+- ⚠️ 停火脆弱性：特朗普仍警告如伊朗不遵守将恢复打击；2周内需达成永久协议
+- 累计（停火前）：伊朗1900+死，黎巴嫩1400+死，以色列20死，美军13死
 
 ## 其他检查
 

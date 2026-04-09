@@ -1,5 +1,4 @@
 {
-  "timestamp": "2026-04-09T10:00:08.244849",
   "polymarket": [],
   "v2ex": [
     {
@@ -156,5 +155,7 @@
       "source": "Hacker News",
       "timestamp": "2026-04-09T10:00:08.244626"
     }
-  ]
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-09 10:00:08\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【Faucet】空投谁要？留下你的地址\n   👤 ajibobo | 💬 423 回复\n2. 【生活】亲爹瞒着我给继子买房，现在又要给他攒 30 万，我很难受，是我太贪了吗。\n   👤 fragilePride | 💬 184 回复\n3. 【Claude】近期免费的 opus 渠道\n   👤 kevin96 | 💬 142 回复\n4. 【生活】3 年前辞职留学澳洲，拿到 PR 婚姻却保不住了\n   👤 kk1945615 | 💬 136 回复\n5. 【Android】预算 2 千给父母买个手机求推荐\n   👤 wqlken | 💬 129 回复\n6. 【生活】家里的一些小事真的让人心累\n   👤 toBeRich | 💬 103 回复\n7. 【职场话题】都说外包不能去，有兄弟能具体说说吗\n   👤 mingtdlb | 💬 60 回复\n8. 【Claude】咱们这一辈，真可能是最后一代人类程序员了！\n   👤 qxmqh | 💬 59 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. LittleSnitch for Linux\n   ⭐ 123 | 💬 47\n2. I ported Mac OS X to the Nintendo Wii\n   ⭐ 1257 | 💬 215\n3. USB for Software Developers: An introduction to writing userspace USB drivers\n   ⭐ 185 | 💬 24\n4. Understanding the Kalman filter with a simple radar example\n   ⭐ 231 | 💬 34\n5. Little Snitch for Linux – Because Nothing Else Came Close\n   ⭐ 13 | 💬 1\n6. What does it mean to “write like you talk”?\n   ⭐ 21 | 💬 26\n7. They're made out of meat (1991)\n   ⭐ 414 | 💬 119\n8. Muse Spark: Scaling towards personal superintelligence\n   ⭐ 268 | 💬 287\n9. Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones\n   ⭐ 533 | 💬 539\n10. Pgit: I Imported the Linux Kernel into PostgreSQL\n   ⭐ 73 | 💬 11\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-09T10:00:08.244729"
 }
