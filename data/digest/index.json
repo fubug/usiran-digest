@@ -1,7 +1,7 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T04:10:53+08:00",
+  "updated": "2026-04-11T05:00:00+08:00",
   "files": [
     {
       "id": "2026-04-07T23",
@@ -445,6 +445,19 @@
       },
       "tags": [
         "generated"
+      ]
+    },
+    {
+      "id": "2026-04-11T05",
+      "file": "2026-04-11T05.md",
+      "date": "2026-04-11T05:00:00+08:00",
+      "title": {
+        "zh": "凌晨时段暂无重大新进展",
+        "en": "No Major Developments in Early Morning"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
       ]
     },
     {
