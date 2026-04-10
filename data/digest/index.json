@@ -3,6 +3,18 @@
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
   "files": [
     {
+      "id": "2026-04-10T22",
+      "file": "2026-04-10T22.md",
+      "date": "2026-04-10T22:06:19+08:00",
+      "title": {
+        "zh": "美伊战争动态：黎巴嫩空袭造成重大平民伤亡，万斯赴巴谈判",
+        "en": "Iran War Developments: Lebanon Strikes Cause Civilian Casualties, Vance to Pakistan"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
       "id": "2026-04-10T17",
       "file": "2026-04-10T17.md",
       "date": "2026-04-10T17:00:00+08:00",
@@ -467,5 +479,6 @@
         "politics"
       ]
     }
-  ]
+  ],
+  "updated": "2026-04-10T22:06:19+08:00"
 }
