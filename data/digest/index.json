@@ -19,6 +19,39 @@
       "url": "https://www.independent.co.uk"
     }
   ],
+  "updated": "2026-04-10T16:00:00+08:00",
+  "files": [
+    {
+      "id": "2026-04-10T16",
+      "file": "2026-04-10T16.md",
+      "date": "2026-04-10T16:00:00+08:00",
+      "title": {
+        "zh": "科威特指控伊朗违反停火，乌克兰击落伊朗无人机",
+        "en": "Kuwait Accuses Iran of Ceasefire Violation, Ukraine Downs Iranian Drones"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    }
+  "sources": [
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com"
+    },
+    {
+      "name": "AP News",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
+    }
+  ],
   "updated": "2026-04-10T01:00:00+08:00",
   "files": [
     {
