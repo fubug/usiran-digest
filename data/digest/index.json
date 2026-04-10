@@ -1,7 +1,21 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
+  "updated": "2026-04-11T02:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-11T02",
+      "file": "2026-04-11T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
+      "title": {
+        "zh": "美伊伊斯兰堡谈判启动：以色列持续轰炸黎巴嫩，伊朗提出谈判前提，霍尔木兹海峡运输低迷",
+        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic低迷"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-10T22",
       "file": "2026-04-10T22.md",
@@ -479,6 +493,5 @@
         "politics"
       ]
     }
-  ],
-  "updated": "2026-04-10T23:00:00+08:00"
+  ]
 }
