@@ -1,123 +1,486 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T04:00:00+08:00",
+  "updated": "2026-04-11T04:10:53+08:00",
   "files": [
     {
-      "id": "2026-04-11T04",
-      "file": "2026-04-11T04.md",
+      "id": "2026-04-07T23",
+      "file": "2026-04-07T23.md",
       "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "以军宣称击杀180名真主党武装，霍尔木兹海峡通航降至10%",
-        "en": "Israel claims 180 Hezbollah killed, Strait of Hormuz traffic drops to 10%"
+        "zh": "Generated: 2026-04-07T23.md",
+        "en": "Generated: 2026-04-07T23.md"
       },
       "tags": [
-        "military",
-        "diplomacy"
+        "generated"
       ]
     },
     {
-      "id": "2026-04-11T03",
-      "file": "2026-04-11T03.md",
-      "date": "2026-04-11T03:00:00+08:00",
+      "id": "2026-04-07T19",
+      "file": "2026-04-07T19.md",
+      "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "以色列空袭黎巴嫩安全部队，教皇批评伊朗战争",
-        "en": "Israel Strikes Lebanese Security Forces, Pope Criticizes Iran War"
+        "zh": "Generated: 2026-04-07T19.md",
+        "en": "Generated: 2026-04-07T19.md"
       },
       "tags": [
-        "military",
-        "diplomacy"
+        "generated"
       ]
     },
     {
-      "id": "2026-04-11T02",
-      "file": "2026-04-11T02.md",
-      "date": "2026-04-11T02:00:00+08:00",
+      "id": "2026-04-08T02",
+      "file": "2026-04-08T02.md",
+      "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "美伊伊斯兰堡谈判启动：以色列持续轰炸黎巴嫩，伊朗提出谈判前提，霍尔木兹海峡运输低迷",
-        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic低迷"
+        "zh": "Generated: 2026-04-08T02.md",
+        "en": "Generated: 2026-04-08T02.md"
       },
       "tags": [
-        "military",
-        "diplomacy"
+        "generated"
       ]
     },
     {
-      "id": "2026-04-11T01",
-      "file": "2026-04-11T01.md",
-      "date": "2026-04-11T01:00:00+08:00",
+      "id": "2026-04-08T14",
+      "file": "2026-04-08T14.md",
+      "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "伊斯兰堡谈判在即：万斯启程赴巴，伊朗提出停火前提，霍尔木兹海峡交通低迷",
-        "en": "Islamabad Talks Loom: Vance Departs for Pakistan, Iran Sets Ceasefire Conditions, Hormuz Traffic Remains Low"
+        "zh": "Generated: 2026-04-08T14.md",
+        "en": "Generated: 2026-04-08T14.md"
       },
       "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-10T22",
-      "file": "2026-04-10T22.md",
-      "date": "2026-04-10T22:06:19+08:00",
-      "title": {
-        "zh": "美伊战争动态：黎巴嫩空袭造成重大平民伤亡，万斯赴巴谈判",
-        "en": "Iran War Developments: Lebanon Strikes Cause Civilian Casualties, Vance to Pakistan"
-      },
-      "tags": [
-        "military"
-      ]
-    },
-    {
-      "id": "2026-04-10T17",
-      "file": "2026-04-10T17.md",
-      "date": "2026-04-10T17:00:00+08:00",
-      "title": {
-        "zh": "伊斯兰堡会谈前夕：多国外交密集斡旋，伊朗银行恢复运营",
-        "en": "Eve of Islamabad Talks: Intensive Diplomatic Mediation, Iranian Banks to Resume Operations"
-      },
-      "tags": [
-        "diplomacy",
-        "military",
-        "economy"
+        "generated"
       ]
     },
     {
       "id": "2026-04-10T16",
       "file": "2026-04-10T16.md",
-      "date": "2026-04-10T16:00:00+08:00",
+      "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "科威特指控伊朗违反停火，乌克兰击落伊朗无人机",
-        "en": "Kuwait Accuses Iran of Ceasefire Violation, Ukraine Downs Iranian Drones"
+        "zh": "Generated: 2026-04-10T16.md",
+        "en": "Generated: 2026-04-10T16.md"
       },
       "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-10T01",
-      "file": "2026-04-10T01.md",
-      "date": "2026-04-10T01:00:00+08:00",
-      "title": {
-        "zh": "多国谴责黎巴嫩袭击，美伊停火争议持续",
-        "en": "Multiple Countries Condemn Lebanon Attacks, US-Iran Ceasefire Dispute Continues"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
+        "generated"
       ]
     },
     {
       "id": "2026-04-09T23",
       "file": "2026-04-09T23.md",
-      "date": "2026-04-09T23:00:00+08:00",
+      "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "IMF警告伊朗战争拖累全球经济增长，经济前景黯淡",
-        "en": "IMF Warns Iran War Will Slow Global Economic Growth as Outlook Darkens"
+        "zh": "Generated: 2026-04-09T23.md",
+        "en": "Generated: 2026-04-09T23.md"
       },
       "tags": [
-        "economy",
-        "diplomacy"
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T19",
+      "file": "2026-04-08T19.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T19.md",
+        "en": "Generated: 2026-04-08T19.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-11T01",
+      "file": "2026-04-11T01.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-11T01.md",
+        "en": "Generated: 2026-04-11T01.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T22",
+      "file": "2026-04-09T22.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T22.md",
+        "en": "Generated: 2026-04-09T22.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T02",
+      "file": "2026-04-09T02.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T02.md",
+        "en": "Generated: 2026-04-09T02.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T06",
+      "file": "2026-04-09T06.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T06.md",
+        "en": "Generated: 2026-04-09T06.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T12",
+      "file": "2026-04-09T12.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T12.md",
+        "en": "Generated: 2026-04-09T12.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T05",
+      "file": "2026-04-08T05.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T05.md",
+        "en": "Generated: 2026-04-08T05.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T00",
+      "file": "2026-04-09T00.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T00.md",
+        "en": "Generated: 2026-04-09T00.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T21",
+      "file": "2026-04-09T21.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T21.md",
+        "en": "Generated: 2026-04-09T21.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T11",
+      "file": "2026-04-08T11.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T11.md",
+        "en": "Generated: 2026-04-08T11.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T16",
+      "file": "2026-04-08T16.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T16.md",
+        "en": "Generated: 2026-04-08T16.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T18",
+      "file": "2026-04-08T18.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T18.md",
+        "en": "Generated: 2026-04-08T18.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-10T01",
+      "file": "2026-04-10T01.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-10T01.md",
+        "en": "Generated: 2026-04-10T01.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T17",
+      "file": "2026-04-09T17.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T17.md",
+        "en": "Generated: 2026-04-09T17.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T18",
+      "file": "2026-04-09T18.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T18.md",
+        "en": "Generated: 2026-04-09T18.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T16",
+      "file": "2026-04-09T16.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T16.md",
+        "en": "Generated: 2026-04-09T16.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-10T17",
+      "file": "2026-04-10T17.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-10T17.md",
+        "en": "Generated: 2026-04-10T17.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T19",
+      "file": "2026-04-09T19.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T19.md",
+        "en": "Generated: 2026-04-09T19.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-07T18",
+      "file": "2026-04-07T18.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-07T18.md",
+        "en": "Generated: 2026-04-07T18.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-11T03",
+      "file": "2026-04-11T03.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-11T03.md",
+        "en": "Generated: 2026-04-11T03.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-07T22",
+      "file": "2026-04-07T22.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-07T22.md",
+        "en": "Generated: 2026-04-07T22.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-07T21",
+      "file": "2026-04-07T21.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-07T21.md",
+        "en": "Generated: 2026-04-07T21.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T23",
+      "file": "2026-04-08T23.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T23.md",
+        "en": "Generated: 2026-04-08T23.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-09T20",
+      "file": "2026-04-09T20.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-09T20.md",
+        "en": "Generated: 2026-04-09T20.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T07",
+      "file": "2026-04-08T07.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T07.md",
+        "en": "Generated: 2026-04-08T07.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T21",
+      "file": "2026-04-08T21.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T21.md",
+        "en": "Generated: 2026-04-08T21.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T20",
+      "file": "2026-04-08T20.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T20.md",
+        "en": "Generated: 2026-04-08T20.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T00",
+      "file": "2026-04-08T00.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T00.md",
+        "en": "Generated: 2026-04-08T00.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T04",
+      "file": "2026-04-08T04.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T04.md",
+        "en": "Generated: 2026-04-08T04.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T09",
+      "file": "2026-04-08T09.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T09.md",
+        "en": "Generated: 2026-04-08T09.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-10T22",
+      "file": "2026-04-10T22.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-10T22.md",
+        "en": "Generated: 2026-04-10T22.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-11T04",
+      "file": "2026-04-11T04.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-11T04.md",
+        "en": "Generated: 2026-04-11T04.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-08T03",
+      "file": "2026-04-08T03.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-08T03.md",
+        "en": "Generated: 2026-04-08T03.md"
+      },
+      "tags": [
+        "generated"
+      ]
+    },
+    {
+      "id": "2026-04-11T02",
+      "file": "2026-04-11T02.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Generated: 2026-04-11T02.md",
+        "en": "Generated: 2026-04-11T02.md"
+      },
+      "tags": [
+        "generated"
       ]
     }
   ]
