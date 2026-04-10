@@ -1,8 +1,18 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T05:00:00+08:00",
+  "updated": "2026-04-11T06:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-11T06",
+      "file": "2026-04-11T06.md",
+      "date": "2026-04-11T06:00:00+08:00",
+      "title": {
+        "zh": "黎以华盛顿谈判启动，教皇公开谴责伊朗战争",
+        "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
+      },
+      "tags": ["diplomacy", "military"]
+    },
     {
       "id": "2026-04-07T23",
       "file": "2026-04-07T23.md",
