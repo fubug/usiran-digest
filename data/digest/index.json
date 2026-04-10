@@ -1,8 +1,21 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T02:00:00+08:00",
+  "updated": "2026-04-11T03:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-11T03",
+      "file": "2026-04-11T03.md",
+      "date": "2026-04-11T03:00:00+08:00",
+      "title": {
+        "zh": "以色列空袭黎巴嫩安全部队，教皇批评伊朗战争",
+        "en": "Israel Strikes Lebanese Security Forces, Pope Criticizes Iran War"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-11T02",
       "file": "2026-04-11T02.md",
