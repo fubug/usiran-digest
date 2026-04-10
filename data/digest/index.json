@@ -1,8 +1,21 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T03:00:00+08:00",
+  "updated": "2026-04-11T04:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-11T04",
+      "file": "2026-04-11T04.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "以军宣称击杀180名真主党武装，霍尔木兹海峡通航降至10%",
+        "en": "Israel claims 180 Hezbollah killed, Strait of Hormuz traffic drops to 10%"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-11T03",
       "file": "2026-04-11T03.md",
