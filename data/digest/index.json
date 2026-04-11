@@ -1,8 +1,18 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T06:00:00+08:00",
+  "updated": "2026-04-11T08:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-11T08",
+      "file": "2026-04-11T08.md",
+      "date": "2026-04-11T08:00:00+08:00",
+      "title": {
+        "zh": "伊朗代表团抵达巴基斯坦，霍尔木兹海峡航运危机持续",
+        "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
+      },
+      "tags": ["diplomacy", "economy"]
+    },
     {
       "id": "2026-04-11T06",
       "file": "2026-04-11T06.md",
