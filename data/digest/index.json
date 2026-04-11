@@ -11,7 +11,10 @@
         "zh": "伊朗代表团抵达巴基斯坦，霍尔木兹海峡航运危机持续",
         "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
       },
-      "tags": ["diplomacy", "economy"]
+      "tags": [
+        "diplomacy",
+        "economy"
+      ]
     },
     {
       "id": "2026-04-11T06",
@@ -21,7 +24,10 @@
         "zh": "黎以华盛顿谈判启动，教皇公开谴责伊朗战争",
         "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
       },
-      "tags": ["diplomacy", "military"]
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
     },
     {
       "id": "2026-04-07T23",
