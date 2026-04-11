@@ -1,7 +1,7 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T17:00:00+08:00",
+  "updated": "2026-04-11T22:06:57+08:00",
   "files": [
     {
       "id": "2026-04-11T17",
@@ -14,6 +14,19 @@
       "tags": [
         "diplomacy",
         "military"
+      ]
+    },
+    {
+      "id": "2026-04-11T16",
+      "file": "2026-04-11T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
+      "title": {
+        "zh": "Vance赴巴和谈停火告急，以军黎巴嫩空袭致250死",
+        "en": "Vance Heads to Pakistan as Ceasefire Hangs by Thread, Israeli Strikes Kill 250+ in Lebanon"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -38,7 +51,8 @@
         "en": "Lebanon-Israel Talks Set for Washington, US-Iran Peace Talks Begin in Pakistan"
       },
       "tags": [
-        "diplomacy"
+        "diplomacy",
+        "military"
       ]
     },
     {
@@ -50,7 +64,8 @@
         "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
       },
       "tags": [
-        "diplomacy"
+        "diplomacy",
+        "economy"
       ]
     },
     {
@@ -62,7 +77,8 @@
         "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
       },
       "tags": [
-        "diplomacy"
+        "diplomacy",
+        "military"
       ]
     },
     {
@@ -74,7 +90,8 @@
         "en": "No Major Developments in Early Morning"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -86,7 +103,8 @@
         "en": "Israel claims 180 Hezbollah killed, Strait of Hormuz traffic drops to 10%"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -98,7 +116,8 @@
         "en": "Israel Strikes Lebanese Security Forces, Pope Criticizes Iran War"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -110,7 +129,8 @@
         "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic低迷"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -122,16 +142,17 @@
         "en": "Islamabad Talks Loom: Vance Departs for Pakistan, Iran Sets Ceasefire Conditions, Hormuz Traffic Remains Low"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
       "id": "2026-04-10T22",
       "file": "2026-04-10T22.md",
-      "date": "2026-04-10T22:00:00+08:00",
+      "date": "2026-04-10T22:06:09+08:00",
       "title": {
-        "zh": "Update for 2026-04-10T22",
-        "en": "Update for 2026-04-10T22"
+        "zh": "美伊战争动态：黎巴嫩空袭造成重大平民伤亡，万斯赴巴谈判",
+        "en": "Iran War Developments: Lebanon Strikes Cause Civilian Casualties, Vance to Pakistan"
       },
       "tags": [
         "military"
@@ -142,11 +163,13 @@
       "file": "2026-04-10T17.md",
       "date": "2026-04-10T17:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-10T17",
-        "en": "Update for 2026-04-10T17"
+        "zh": "伊斯兰堡会谈前夕：多国外交密集斡旋，伊朗银行恢复运营",
+        "en": "Eve of Islamabad Talks: Intensive Diplomatic Mediation, Iranian Banks to Resume Operations"
       },
       "tags": [
-        "military"
+        "diplomacy",
+        "military",
+        "economy"
       ]
     },
     {
@@ -154,11 +177,12 @@
       "file": "2026-04-10T16.md",
       "date": "2026-04-10T16:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-10T16",
-        "en": "Update for 2026-04-10T16"
+        "zh": "科威特指控伊朗违反停火，乌克兰击落伊朗无人机",
+        "en": "Kuwait Accuses Iran of Ceasefire Violation, Ukraine Downs Iranian Drones"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -166,11 +190,12 @@
       "file": "2026-04-10T01.md",
       "date": "2026-04-10T01:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-10T01",
-        "en": "Update for 2026-04-10T01"
+        "zh": "多国谴责黎巴嫩袭击，美伊停火争议持续",
+        "en": "Multiple Countries Condemn Lebanon Attacks, US-Iran Ceasefire Dispute Continues"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -178,11 +203,12 @@
       "file": "2026-04-09T23.md",
       "date": "2026-04-09T23:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T23",
-        "en": "Update for 2026-04-09T23"
+        "zh": "IMF警告伊朗战争拖累全球经济增长，经济前景黯淡",
+        "en": "IMF Warns Iran War Will Slow Global Economic Growth as Outlook Darkens"
       },
       "tags": [
-        "military"
+        "economy",
+        "diplomacy"
       ]
     },
     {
@@ -190,11 +216,12 @@
       "file": "2026-04-09T22.md",
       "date": "2026-04-09T22:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T22",
-        "en": "Update for 2026-04-09T22"
+        "zh": "德国警告北约承压 黎巴嫩向联合国提交控诉 203人丧生",
+        "en": "Germany Warns NATO Under Pressure, Lebanon Files U.N. Complaint, 203 Dead"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -202,11 +229,12 @@
       "file": "2026-04-09T21.md",
       "date": "2026-04-09T21:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T21",
-        "en": "Update for 2026-04-09T21"
+        "zh": "美伊停火协议遭以色列挑战 伊朗宣布霍尔木兹海峡替代航线",
+        "en": "US-Iran Ceasefire Challenged by Israel Strikes; Iran Announces Hormuz Alternative Routes"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -214,11 +242,12 @@
       "file": "2026-04-09T20.md",
       "date": "2026-04-09T20:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T20",
-        "en": "Update for 2026-04-09T20"
+        "zh": "以色列继续袭击黎巴嫩遭伊朗谴责 记者死亡事件引发争议",
+        "en": "Israel Continues Lebanon Strikes Condemned by Iran, Journalist Death Sparks Controversy"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -226,11 +255,12 @@
       "file": "2026-04-09T19.md",
       "date": "2026-04-09T19:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T19",
-        "en": "Update for 2026-04-09T19"
+        "zh": "黎巴嫩单日死亡创纪录，停火协议持续紧张",
+        "en": "Lebanon Records Daily Death Toll, Ceasefire Tensions Persist"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -238,11 +268,12 @@
       "file": "2026-04-09T18.md",
       "date": "2026-04-09T18:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T18",
-        "en": "Update for 2026-04-09T18"
+        "zh": "停火协议持续紧张：特朗普增兵威胁继续，黎巴嫩局势升级",
+        "en": "Ceasefire Tensions Persist: Trump Reinforces Troops, Lebanon Situation Escalates"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -250,11 +281,12 @@
       "file": "2026-04-09T17.md",
       "date": "2026-04-09T17:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T17",
-        "en": "Update for 2026-04-09T17"
+        "zh": "黎巴嫩遭袭引发危机：停火协议遭严重违约，油价反弹",
+        "en": "Lebanon Crisis: Ceasefire Seriously Breached, Oil Prices Rebound"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -262,11 +294,12 @@
       "file": "2026-04-09T16.md",
       "date": "2026-04-09T16:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T16",
-        "en": "Update for 2026-04-09T16"
+        "zh": "停火遇挫：特朗普增兵威胁武力，黎以冲突造成严重平民伤亡",
+        "en": "Ceasefire Under Pressure: Trump Reinforces Troops Threatens Force, Lebanon-Israel Conflict Causes Heavy Civilian Casualties"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -274,11 +307,12 @@
       "file": "2026-04-09T12.md",
       "date": "2026-04-09T12:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T12",
-        "en": "Update for 2026-04-09T12"
+        "zh": "停火协议面临新挑战：特朗普增兵中东，联合国警告黎巴嫩行动风险",
+        "en": "Ceasefire Faces New Challenges: Trump Reinforces Middle East, UN Warns on Lebanon Risk"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -286,11 +320,12 @@
       "file": "2026-04-09T06.md",
       "date": "2026-04-09T06:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T06",
-        "en": "Update for 2026-04-09T06"
+        "zh": "停火协议动摇：伊朗指控美国违反框架，以色列扩大黎巴嫩打击",
+        "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -298,11 +333,12 @@
       "file": "2026-04-09T02.md",
       "date": "2026-04-09T02:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T02",
-        "en": "Update for 2026-04-09T02"
+        "zh": "伊朗因黎巴嫩袭击关闭霍尔木兹海峡",
+        "en": "Iran Closes Strait of Hormuz After Lebanon Strikes"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -310,11 +346,12 @@
       "file": "2026-04-09T00.md",
       "date": "2026-04-09T00:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-09T00",
-        "en": "Update for 2026-04-09T00"
+        "zh": "特朗普称将与伊朗合作开采铀浓缩材料，以色列继续轰炸贝鲁特",
+        "en": "Trump Says US to Work with Iran on Uranium Digging, Israel Continues Beirut Bombing"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -322,11 +359,12 @@
       "file": "2026-04-08T23.md",
       "date": "2026-04-08T23:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T23",
-        "en": "Update for 2026-04-08T23"
+        "zh": "停火协议初步生效，以色列继续打击黎巴嫩真主党",
+        "en": "Ceasefire Holds as Israel Continues Strikes on Hezbollah in Lebanon"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -334,11 +372,13 @@
       "file": "2026-04-08T21.md",
       "date": "2026-04-08T21:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T21",
-        "en": "Update for 2026-04-08T21"
+        "zh": "停火协议后续发展：伊朗总统强硬表态，霍尔木兹海峡通行问题持续",
+        "en": "Ceasefire Follow-up: Iranian President Takes Hardline Stance, Hormuz Transit Issues Persist"
       },
       "tags": [
-        "military"
+        "diplomacy",
+        "military",
+        "economy"
       ]
     },
     {
@@ -346,10 +386,12 @@
       "file": "2026-04-08T20.md",
       "date": "2026-04-08T20:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T20",
-        "en": "Update for 2026-04-08T20"
+        "zh": "伊朗拟征收霍尔木兹海峡通行费，停火后新局势展开",
+        "en": "Iran Plans Hormuz Strait Transit Fees, New Phase After Ceasefire"
       },
       "tags": [
+        "economy",
+        "diplomacy",
         "military"
       ]
     },
@@ -358,11 +400,13 @@
       "file": "2026-04-08T19.md",
       "date": "2026-04-08T19:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T19",
-        "en": "Update for 2026-04-08T19"
+        "zh": "停火后石油暴跌，美伊冲突持续升级",
+        "en": "Oil Prices Plunge After Ceasefire, US-Iran Tensions Persist"
       },
       "tags": [
-        "military"
+        "economy",
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -370,10 +414,11 @@
       "file": "2026-04-08T18.md",
       "date": "2026-04-08T18:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T18",
-        "en": "Update for 2026-04-08T18"
+        "zh": "伊朗宣布胜利 停火后 talks 将在伊斯兰堡进行",
+        "en": "Iran Claims Victory as Post-Ceasefire Talks Planned in Islamabad"
       },
       "tags": [
+        "diplomacy",
         "military"
       ]
     },
@@ -382,11 +427,13 @@
       "file": "2026-04-08T16.md",
       "date": "2026-04-08T16:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T16",
-        "en": "Update for 2026-04-08T16"
+        "zh": "黎以边境冲突持续 市场强势反弹",
+        "en": "Lebanon Conflict Continues as Markets Rally"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "economy"
       ]
     },
     {
@@ -394,11 +441,12 @@
       "file": "2026-04-08T14.md",
       "date": "2026-04-08T14:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T14",
-        "en": "Update for 2026-04-08T14"
+        "zh": "巴林遭遇爆炸袭击，停火协议排除黎巴嫩",
+        "en": "Bahrain Blast Despite Ceasefire, Deal Excludes Lebanon"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -406,11 +454,12 @@
       "file": "2026-04-08T11.md",
       "date": "2026-04-08T11:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T11",
-        "en": "Update for 2026-04-08T11"
+        "zh": "美伊达成两周停火协议，以色列表示不包含对真主党战斗",
+        "en": "US and Iran Agree to Two-Week Ceasefire, Israel Excludes Hezbollah Fighting"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -418,11 +467,12 @@
       "file": "2026-04-08T09.md",
       "date": "2026-04-08T09:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T09",
-        "en": "Update for 2026-04-08T09"
+        "zh": "第六次停火延期谈判开启，伊朗西部军事冲突升级",
+        "en": "Sixth Ceasefire Extension Talks Begin, Iranian Western Region Conflict Escalates"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -430,10 +480,11 @@
       "file": "2026-04-08T07.md",
       "date": "2026-04-08T07:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T07",
-        "en": "Update for 2026-04-08T07"
+        "zh": "特朗普宣布两周停火协议，避免文明威胁实现",
+        "en": "Trump Announces Two-Week Cease-Fire, Avoids Civilization Threat"
       },
       "tags": [
+        "diplomacy",
         "military"
       ]
     },
@@ -442,11 +493,12 @@
       "file": "2026-04-08T05.md",
       "date": "2026-04-08T05:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T05",
-        "en": "Update for 2026-04-08T05"
+        "zh": "特朗普威胁摧毁文明与伊朗扩大反制",
+        "en": "Trump Threatens Civilization Destruction, Iran Escalates Countermeasures"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -454,11 +506,13 @@
       "file": "2026-04-08T04.md",
       "date": "2026-04-08T04:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T04",
-        "en": "Update for 2026-04-08T04"
+        "zh": "特朗普再发'文明死亡威胁' 多国紧急应对联合国表决受阻",
+        "en": "Trump Issues Another 'Civilization Death Threat' Multiple Countries Respond Urgently as UN Vote Blocked"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "politics"
       ]
     },
     {
@@ -466,11 +520,13 @@
       "file": "2026-04-08T03.md",
       "date": "2026-04-08T03:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T03",
-        "en": "Update for 2026-04-08T03"
+        "zh": "特朗普'文明毁灭'威胁引爆国际谴责 伊朗导弹第7次袭击以色列",
+        "en": "Trump's 'Civilization Destruction' Threat Sparks International Condemnation, Iran Fires 7th Missile Barrage at Israel"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "politics"
       ]
     },
     {
@@ -478,11 +534,13 @@
       "file": "2026-04-08T02.md",
       "date": "2026-04-08T02:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T02",
-        "en": "Update for 2026-04-08T02"
+        "zh": "特朗普威胁摧毁伊朗能源设施 伊朗拒绝停火谈判陷入僵局",
+        "en": "Trump threatens Iran energy destruction as Tehran rejects ceasefire talks deadlock"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "economy"
       ]
     },
     {
@@ -490,11 +548,12 @@
       "file": "2026-04-08T00.md",
       "date": "2026-04-08T00:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-08T00",
-        "en": "Update for 2026-04-08T00"
+        "zh": "特朗普'文明死亡警告'升温，美以再度打击伊朗基础设施",
+        "en": "Trump 'Civilization Death Warning' Escalates, US-Israel Strike Iranian Infrastructure Again"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -502,11 +561,13 @@
       "file": "2026-04-07T23.md",
       "date": "2026-04-07T23:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-07T23",
-        "en": "Update for 2026-04-07T23"
+        "zh": "Deadline前夜：以色列确认打击8座桥梁，特朗普遭两党抨击，伊朗关闭对美外交渠道，英国拒绝美军使用基地",
+        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges, Trump Criticized by Both Parties, Iran Closes Diplomatic Channels with US, UK Refuses US Base Access"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "politics"
       ]
     },
     {
@@ -514,11 +575,12 @@
       "file": "2026-04-07T22.md",
       "date": "2026-04-07T22:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-07T22",
-        "en": "Update for 2026-04-07T22"
+        "zh": "哈尔克岛遭多次打击，特朗普发出'文明消亡'威胁，伊朗誓言跨区域报复",
+        "en": "Kharg Island Hit Multiple Times, Trump Issues 'Civilization Will Die' Threat, Iran Vows Cross-Regional Retaliation"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy"
       ]
     },
     {
@@ -526,11 +588,13 @@
       "file": "2026-04-07T21.md",
       "date": "2026-04-07T21:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-07T21",
-        "en": "Update for 2026-04-07T21"
+        "zh": "Deadline倒计时：空袭伊朗桥梁火车站，特朗普称'整个文明今晚将消亡'，美军再次打击哈尔克岛",
+        "en": "Countdown to Deadline: Airstrikes Hit Iranian Bridges and Train Station, Trump Warns 'Whole Civilization Will Die Tonight', US Strikes Kharg Island Again"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "politics"
       ]
     },
     {
@@ -538,8 +602,8 @@
       "file": "2026-04-07T19.md",
       "date": "2026-04-07T19:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-07T19",
-        "en": "Update for 2026-04-07T19"
+        "zh": "特朗普警告期限到临：以色列警告伊朗人停用火车，沙特关闭与巴林通道",
+        "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
       },
       "tags": [
         "military"
@@ -550,14 +614,16 @@
       "file": "2026-04-07T18.md",
       "date": "2026-04-07T18:00:00+08:00",
       "title": {
-        "zh": "Update for 2026-04-07T18",
-        "en": "Update for 2026-04-07T18"
+        "zh": "Deadline到期前夕：伊朗拒绝临时停火，特朗普威胁4小时摧毁基础设施",
+        "en": "Eve of Deadline: Iran Rejects Ceasefire, Trump Threatens to Destroy Infrastructure in 4 Hours"
       },
       "tags": [
-        "military"
+        "military",
+        "diplomacy",
+        "politics"
       ]
     }
   ],
-  "generated_at": "2026-04-11T17:09:00+08:00",
-  "total_files": 46
+  "generated_at": "2026-04-11T22:06:57+08:00",
+  "total_files": 47
 }
