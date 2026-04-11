@@ -1,8 +1,23 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T22:06:57+08:00",
+  "updated": "2026-04-11T23:00:00+08:00",
   "files": [
+    {
+      {
+      "id": "2026-04-11T23",
+      "file": "2026-04-11T23.md",
+      "date": "2026-04-11T23:00:00+08:00",
+      "title": {
+        "zh": "美伊和平谈判启动，特朗普宣布霍尔木兹海峡即将开放",
+        "en": "US-Iran Peace Talks Begin, Trump Announces Strait of Hormuz Reopening"
+      },
+      "tags": [
+        "diplomacy",
+        "military",
+        "politics"
+      ]
+    },
     {
       "id": "2026-04-11T17",
       "file": "2026-04-11T17.md",
