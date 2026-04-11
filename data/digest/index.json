@@ -1,539 +1,87 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T10:00:00+08:00",
+  "updated": "2026-04-11T09:12:27+08:00",
   "files": [
-    {
-      "id": "2026-04-11T10",
-      "file": "2026-04-11T10.md",
-      "date": "2026-04-11T10:00:00+08:00",
-      "title": {
-        "zh": "黎以华盛顿会谈确定，美伊巴基斯坦和谈启动",
-        "en": "Lebanon-Israel Talks Set for Washington, US-Iran Peace Talks Begin in Pakistan"
-      },
-      "tags": [
-        "diplomacy",
-        "military"
-      ]
-    },
-    {
-      "id": "2026-04-11T08",
-      "file": "2026-04-11T08.md",
-      "date": "2026-04-11T08:00:00+08:00",
-      "title": {
-        "zh": "伊朗代表团抵达巴基斯坦，霍尔木兹海峡航运危机持续",
-        "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
-      },
-      "tags": [
-        "diplomacy",
-        "economy"
-      ]
-    },
-    {
-      "id": "2026-04-11T06",
-      "file": "2026-04-11T06.md",
-      "date": "2026-04-11T06:00:00+08:00",
-      "title": {
-        "zh": "黎以华盛顿谈判启动，教皇公开谴责伊朗战争",
-        "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
-      },
-      "tags": [
-        "diplomacy",
-        "military"
-      ]
-    },
-    {
-      "id": "2026-04-07T23",
-      "file": "2026-04-07T23.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-07T23.md",
-        "en": "Generated: 2026-04-07T23.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-07T19",
-      "file": "2026-04-07T19.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-07T19.md",
-        "en": "Generated: 2026-04-07T19.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T02",
-      "file": "2026-04-08T02.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T02.md",
-        "en": "Generated: 2026-04-08T02.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T14",
-      "file": "2026-04-08T14.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T14.md",
-        "en": "Generated: 2026-04-08T14.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-10T16",
-      "file": "2026-04-10T16.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-10T16.md",
-        "en": "Generated: 2026-04-10T16.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T23",
-      "file": "2026-04-09T23.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T23.md",
-        "en": "Generated: 2026-04-09T23.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T19",
-      "file": "2026-04-08T19.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T19.md",
-        "en": "Generated: 2026-04-08T19.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
     {
       "id": "2026-04-11T01",
       "file": "2026-04-11T01.md",
-      "date": "2026-04-11T04:00:00+08:00",
+      "date": "2026-04-11T01:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-11T01.md",
-        "en": "Generated: 2026-04-11T01.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
+      "tags": ""
     },
     {
-      "id": "2026-04-09T22",
-      "file": "2026-04-09T22.md",
-      "date": "2026-04-11T04:00:00+08:00",
+      "id": "2026-04-11T02",
+      "file": "2026-04-11T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-09T22.md",
-        "en": "Generated: 2026-04-09T22.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T02",
-      "file": "2026-04-09T02.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T02.md",
-        "en": "Generated: 2026-04-09T02.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T06",
-      "file": "2026-04-09T06.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T06.md",
-        "en": "Generated: 2026-04-09T06.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T12",
-      "file": "2026-04-09T12.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T12.md",
-        "en": "Generated: 2026-04-09T12.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T05",
-      "file": "2026-04-08T05.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T05.md",
-        "en": "Generated: 2026-04-08T05.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T00",
-      "file": "2026-04-09T00.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T00.md",
-        "en": "Generated: 2026-04-09T00.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T21",
-      "file": "2026-04-09T21.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T21.md",
-        "en": "Generated: 2026-04-09T21.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T11",
-      "file": "2026-04-08T11.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T11.md",
-        "en": "Generated: 2026-04-08T11.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T16",
-      "file": "2026-04-08T16.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T16.md",
-        "en": "Generated: 2026-04-08T16.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T18",
-      "file": "2026-04-08T18.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T18.md",
-        "en": "Generated: 2026-04-08T18.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-10T01",
-      "file": "2026-04-10T01.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-10T01.md",
-        "en": "Generated: 2026-04-10T01.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T17",
-      "file": "2026-04-09T17.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T17.md",
-        "en": "Generated: 2026-04-09T17.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T18",
-      "file": "2026-04-09T18.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T18.md",
-        "en": "Generated: 2026-04-09T18.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T16",
-      "file": "2026-04-09T16.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T16.md",
-        "en": "Generated: 2026-04-09T16.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-10T17",
-      "file": "2026-04-10T17.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-10T17.md",
-        "en": "Generated: 2026-04-10T17.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T19",
-      "file": "2026-04-09T19.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T19.md",
-        "en": "Generated: 2026-04-09T19.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-07T18",
-      "file": "2026-04-07T18.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-07T18.md",
-        "en": "Generated: 2026-04-07T18.md"
-      },
-      "tags": [
-        "generated"
-      ]
+      "tags": ""
     },
     {
       "id": "2026-04-11T03",
       "file": "2026-04-11T03.md",
-      "date": "2026-04-11T04:00:00+08:00",
+      "date": "2026-04-11T03:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-11T03.md",
-        "en": "Generated: 2026-04-11T03.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-07T22",
-      "file": "2026-04-07T22.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-07T22.md",
-        "en": "Generated: 2026-04-07T22.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-07T21",
-      "file": "2026-04-07T21.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-07T21.md",
-        "en": "Generated: 2026-04-07T21.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T23",
-      "file": "2026-04-08T23.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T23.md",
-        "en": "Generated: 2026-04-08T23.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-09T20",
-      "file": "2026-04-09T20.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-09T20.md",
-        "en": "Generated: 2026-04-09T20.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T07",
-      "file": "2026-04-08T07.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T07.md",
-        "en": "Generated: 2026-04-08T07.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T21",
-      "file": "2026-04-08T21.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T21.md",
-        "en": "Generated: 2026-04-08T21.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T20",
-      "file": "2026-04-08T20.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T20.md",
-        "en": "Generated: 2026-04-08T20.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T00",
-      "file": "2026-04-08T00.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T00.md",
-        "en": "Generated: 2026-04-08T00.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T04",
-      "file": "2026-04-08T04.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T04.md",
-        "en": "Generated: 2026-04-08T04.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-08T09",
-      "file": "2026-04-08T09.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-08T09.md",
-        "en": "Generated: 2026-04-08T09.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-10T22",
-      "file": "2026-04-10T22.md",
-      "date": "2026-04-11T04:00:00+08:00",
-      "title": {
-        "zh": "Generated: 2026-04-10T22.md",
-        "en": "Generated: 2026-04-10T22.md"
-      },
-      "tags": [
-        "generated"
-      ]
-    },
-    {
-      "id": "2026-04-11T05",
-      "file": "2026-04-11T05.md",
-      "date": "2026-04-11T05:00:00+08:00",
-      "title": {
-        "zh": "凌晨时段暂无重大新进展",
-        "en": "No Major Developments in Early Morning"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
+      "tags": ""
     },
     {
       "id": "2026-04-11T04",
       "file": "2026-04-11T04.md",
       "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-11T04.md",
-        "en": "Generated: 2026-04-11T04.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
+      "tags": ""
     },
     {
-      "id": "2026-04-08T03",
-      "file": "2026-04-08T03.md",
-      "date": "2026-04-11T04:00:00+08:00",
+      "id": "2026-04-11T05",
+      "file": "2026-04-11T05.md",
+      "date": "2026-04-11T05:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-08T03.md",
-        "en": "Generated: 2026-04-08T03.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
+      "tags": ""
     },
     {
-      "id": "2026-04-11T02",
-      "file": "2026-04-11T02.md",
-      "date": "2026-04-11T04:00:00+08:00",
+      "id": "2026-04-11T06",
+      "file": "2026-04-11T06.md",
+      "date": "2026-04-11T06:00:00+08:00",
       "title": {
-        "zh": "Generated: 2026-04-11T02.md",
-        "en": "Generated: 2026-04-11T02.md"
+        "zh": "",
+        "en": ""
       },
-      "tags": [
-        "generated"
-      ]
+      "tags": ""
+    },
+    {
+      "id": "2026-04-11T08",
+      "file": "2026-04-11T08.md",
+      "date": "2026-04-11T08:00:00+08:00",
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": ""
+    },
+    {
+      "id": "2026-04-11T10",
+      "file": "2026-04-11T10.md",
+      "date": "2026-04-11T10:00:00+08:00",
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": ""
     }
   ]
 }
