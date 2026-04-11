@@ -1,87 +1,535 @@
 {
   "title": "美伊战争实时局势摘要",
   "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-11T09:12:27+08:00",
+  "updated": "2026-04-11T11:15:00+08:00",
   "files": [
     {
       "id": "2026-04-11T01",
       "file": "2026-04-11T01.md",
       "date": "2026-04-11T01:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "伊斯兰堡谈判在即：万斯启程赴巴，伊朗提出停火前提，霍尔木兹海峡交通低迷",
+        "en": "Islamabad Talks Loom: Vance Departs for Pakistan, Iran Sets Ceasefire Conditions, Hormuz Traffic Remains Low"
       },
-      "tags": ""
+      "tags": [
+        "military"
+      ]
     },
     {
       "id": "2026-04-11T02",
       "file": "2026-04-11T02.md",
       "date": "2026-04-11T02:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "美伊伊斯兰堡谈判启动：以色列持续轰炸黎巴嫩，伊朗提出谈判前提，霍尔木兹海峡运输低迷",
+        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic低迷"
       },
-      "tags": ""
+      "tags": [
+        "military"
+      ]
     },
     {
       "id": "2026-04-11T03",
       "file": "2026-04-11T03.md",
       "date": "2026-04-11T03:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "以色列空袭黎巴嫩安全部队，教皇批评伊朗战争",
+        "en": "Israel Strikes Lebanese Security Forces, Pope Criticizes Iran War"
       },
-      "tags": ""
+      "tags": [
+        "military"
+      ]
     },
     {
       "id": "2026-04-11T04",
       "file": "2026-04-11T04.md",
       "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "以军宣称击杀180名真主党武装，霍尔木兹海峡通航降至10%",
+        "en": "Israel claims 180 Hezbollah killed, Strait of Hormuz traffic drops to 10%"
       },
-      "tags": ""
+      "tags": [
+        "military"
+      ]
     },
     {
       "id": "2026-04-11T05",
       "file": "2026-04-11T05.md",
       "date": "2026-04-11T05:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "凌晨时段暂无重大新进展",
+        "en": "No Major Developments in Early Morning"
       },
-      "tags": ""
+      "tags": [
+        "military"
+      ]
     },
     {
       "id": "2026-04-11T06",
       "file": "2026-04-11T06.md",
       "date": "2026-04-11T06:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "黎以华盛顿谈判启动，教皇公开谴责伊朗战争",
+        "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
       },
-      "tags": ""
+      "tags": [
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-11T08",
       "file": "2026-04-11T08.md",
       "date": "2026-04-11T08:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "伊朗代表团抵达巴基斯坦，霍尔木兹海峡航运危机持续",
+        "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
       },
-      "tags": ""
+      "tags": [
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-11T10",
       "file": "2026-04-11T10.md",
       "date": "2026-04-11T10:00:00+08:00",
       "title": {
-        "zh": "",
-        "en": ""
+        "zh": "黎以华盛顿会谈确定，美伊巴基斯坦和谈启动",
+        "en": "Lebanon-Israel Talks Set for Washington, US-Iran Peace Talks Begin in Pakistan"
       },
-      "tags": ""
+      "tags": [
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "2026-04-07T23",
+      "file": "2026-04-07T23.md",
+      "date": "2026-04-11T23:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-07T23",
+        "en": "Update for 2026-04-07T23"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-07T19",
+      "file": "2026-04-07T19.md",
+      "date": "2026-04-11T19:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-07T19",
+        "en": "Update for 2026-04-07T19"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T02",
+      "file": "2026-04-08T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T02",
+        "en": "Update for 2026-04-08T02"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T14",
+      "file": "2026-04-08T14.md",
+      "date": "2026-04-11T14:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T14",
+        "en": "Update for 2026-04-08T14"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-10T16",
+      "file": "2026-04-10T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-10T16",
+        "en": "Update for 2026-04-10T16"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T23",
+      "file": "2026-04-09T23.md",
+      "date": "2026-04-11T23:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T23",
+        "en": "Update for 2026-04-09T23"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T19",
+      "file": "2026-04-08T19.md",
+      "date": "2026-04-11T19:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T19",
+        "en": "Update for 2026-04-08T19"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T22",
+      "file": "2026-04-09T22.md",
+      "date": "2026-04-11T22:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T22",
+        "en": "Update for 2026-04-09T22"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T02",
+      "file": "2026-04-09T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T02",
+        "en": "Update for 2026-04-09T02"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T06",
+      "file": "2026-04-09T06.md",
+      "date": "2026-04-11T06:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T06",
+        "en": "Update for 2026-04-09T06"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T12",
+      "file": "2026-04-09T12.md",
+      "date": "2026-04-11T12:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T12",
+        "en": "Update for 2026-04-09T12"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T05",
+      "file": "2026-04-08T05.md",
+      "date": "2026-04-11T05:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T05",
+        "en": "Update for 2026-04-08T05"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T00",
+      "file": "2026-04-09T00.md",
+      "date": "2026-04-11T00:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T00",
+        "en": "Update for 2026-04-09T00"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T21",
+      "file": "2026-04-09T21.md",
+      "date": "2026-04-11T21:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T21",
+        "en": "Update for 2026-04-09T21"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T11",
+      "file": "2026-04-08T11.md",
+      "date": "2026-04-11T11:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T11",
+        "en": "Update for 2026-04-08T11"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T16",
+      "file": "2026-04-08T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T16",
+        "en": "Update for 2026-04-08T16"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T18",
+      "file": "2026-04-08T18.md",
+      "date": "2026-04-11T18:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T18",
+        "en": "Update for 2026-04-08T18"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-10T01",
+      "file": "2026-04-10T01.md",
+      "date": "2026-04-11T01:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-10T01",
+        "en": "Update for 2026-04-10T01"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T17",
+      "file": "2026-04-09T17.md",
+      "date": "2026-04-11T17:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T17",
+        "en": "Update for 2026-04-09T17"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T18",
+      "file": "2026-04-09T18.md",
+      "date": "2026-04-11T18:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T18",
+        "en": "Update for 2026-04-09T18"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T16",
+      "file": "2026-04-09T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T16",
+        "en": "Update for 2026-04-09T16"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-10T17",
+      "file": "2026-04-10T17.md",
+      "date": "2026-04-11T17:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-10T17",
+        "en": "Update for 2026-04-10T17"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T19",
+      "file": "2026-04-09T19.md",
+      "date": "2026-04-11T19:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T19",
+        "en": "Update for 2026-04-09T19"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-07T18",
+      "file": "2026-04-07T18.md",
+      "date": "2026-04-11T18:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-07T18",
+        "en": "Update for 2026-04-07T18"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-07T22",
+      "file": "2026-04-07T22.md",
+      "date": "2026-04-11T22:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-07T22",
+        "en": "Update for 2026-04-07T22"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-07T21",
+      "file": "2026-04-07T21.md",
+      "date": "2026-04-11T21:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-07T21",
+        "en": "Update for 2026-04-07T21"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T23",
+      "file": "2026-04-08T23.md",
+      "date": "2026-04-11T23:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T23",
+        "en": "Update for 2026-04-08T23"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-09T20",
+      "file": "2026-04-09T20.md",
+      "date": "2026-04-11T20:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-09T20",
+        "en": "Update for 2026-04-09T20"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T07",
+      "file": "2026-04-08T07.md",
+      "date": "2026-04-11T07:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T07",
+        "en": "Update for 2026-04-08T07"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T21",
+      "file": "2026-04-08T21.md",
+      "date": "2026-04-11T21:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T21",
+        "en": "Update for 2026-04-08T21"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T20",
+      "file": "2026-04-08T20.md",
+      "date": "2026-04-11T20:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T20",
+        "en": "Update for 2026-04-08T20"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T00",
+      "file": "2026-04-08T00.md",
+      "date": "2026-04-11T00:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T00",
+        "en": "Update for 2026-04-08T00"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T04",
+      "file": "2026-04-08T04.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T04",
+        "en": "Update for 2026-04-08T04"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T09",
+      "file": "2026-04-08T09.md",
+      "date": "2026-04-11T09:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T09",
+        "en": "Update for 2026-04-08T09"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-10T22",
+      "file": "2026-04-10T22.md",
+      "date": "2026-04-11T22:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-10T22",
+        "en": "Update for 2026-04-10T22"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-04-08T03",
+      "file": "2026-04-08T03.md",
+      "date": "2026-04-11T03:00:00+08:00",
+      "title": {
+        "zh": "Update for 2026-04-08T03",
+        "en": "Update for 2026-04-08T03"
+      },
+      "tags": [
+        "military"
+      ]
     }
   ]
 }
