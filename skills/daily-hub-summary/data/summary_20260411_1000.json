@@ -1,5 +1,4 @@
 {
-  "timestamp": "2026-04-11T10:00:08.203418",
   "polymarket": [],
   "v2ex": [
     {
@@ -156,5 +155,7 @@
       "source": "Hacker News",
       "timestamp": "2026-04-11T10:00:08.202588"
     }
-  ]
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-11 10:00:08\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】[V 友专属｜ claude 模型中转站免费送 20 刀 已稳定运行一个月 支持 claude-opus-4-6\n   👤 a201483414 | 💬 289 回复\n2. 【电动汽车】看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何\n   👤 freeN1cola1 | 💬 105 回复\n3. 【生活】昨天得知爷爷去世了，我好像没有想象中难过\n   👤 xujdan | 💬 96 回复\n4. 【推广】送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding\n   👤 CherryGods | 💬 91 回复\n5. 【宽带症候群】最近都在说网络监管显著升级 大家都受到影响了嘛\n   👤 lemonshuo | 💬 80 回复\n6. 【Android】2026 年了，安卓、鸿蒙项目路径居然还是要求不能有中文\n   👤 pheyer | 💬 74 回复\n7. 【程序员】有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目\n   👤 wang93wei | 💬 67 回复\n8. 【程序员】有人用豆包买保险，结果支付到我这里来了\n   👤 Curtion | 💬 66 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Filing the corners off my MacBooks\n   ⭐ 347 | 💬 205\n2. Artemis II safely splashes down\n   ⭐ 354 | 💬 122\n3. Chimpanzees in Uganda locked in eight-year 'civil war', say researchers\n   ⭐ 233 | 💬 123\n4. 1D Chess\n   ⭐ 658 | 💬 126\n5. Installing Every* Firefox Extension\n   ⭐ 132 | 💬 21\n6. WireGuard makes new Windows release following Microsoft signing resolution\n   ⭐ 399 | 💬 110\n7. Industrial design files for Keychron keyboards and mice\n   ⭐ 306 | 💬 93\n8. Investigating Split Locks on x86-64\n   ⭐ 10 | 💬 0\n9. AI assistance when contributing to the Linux kernel\n   ⭐ 161 | 💬 128\n10. JSON formatter Chrome plugin now closed and injecting adware\n   ⭐ 145 | 💬 78\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-11T10:00:08.202709"
 }

@@ -80,14 +80,16 @@ python3 /root/.openclaw/workspace/scripts/iran_war_monitor.py
 5. ⚠️  警惕双方信息战：伊朗夸大战果/伪造证据（如 Snopes 辟谣的'被俘飞行员视频'），特朗普美化叙事（如'零伤亡'与 CBS 报道矛盾）
 6. 📊 关注关键时间点（如4月6日最后期限）
 
-**⚡ 关键事件追踪**（截至2026-04-10 17:35 Beijing）:
-- 🚨 **停火进一步恶化（Day 2）**：特朗普公开质疑停火存续，科威特遭无人机打击
-  - 特朗普Truth Social：伊朗海峡通行"very poor job, dishonourable"（Independent/多源）
- - 科威特遭无人机打击并指责伊朗（U.S. News/Media Line）
+**⚡ 关键事件追踪**（截至2026-04-11 06:40 Beijing）:
+- 🚨 **停火关键24小时**：伊斯兰堡谈判本周末举行，将决定停火存续
+  - 特朗普："We're going to find out in about 24 hours"（NY Post）
+  - 美军舰船重新装弹（"best ammunition"），准备可能恢复攻击（Independent）
+  - Vance 领导美国代表团前往伊斯兰堡，警告伊朗"not to play us"
+  - 伊朗代表团已抵达伊斯兰堡
+  - 特朗普：伊朗官员"活着是为了谈判"
 - ⚠️ 海峡航运仍严重受阻，停火条件未全面生效（Independent）
 - ✅ **美伊2周停火协议**（4月8日达成，多源确认）
-  - 特朗普要求海峡开放"without limitation, including tolls"（CNBC/白宫）
-  - 巴基斯坦斡旋，下周华盛顿谈判
+  - 巴基斯坦斡旋，本周末伊斯兰堡谈判→永久协议
 - 🇨🇳 **中国积极斡旋**——CNBC: "Business trumps politics"
 - 🇮🇱 以色列周三打击黎巴嫩杀死303人；内塔尼亚胡授权与黎巴嫩直接谈判
 - 🇺🇸 特朗普考虑从欧洲撤军（Reuters），因北约未协助确保海峡安全
