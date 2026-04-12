@@ -1,0 +1,105 @@
+{
+  "updated": "2026-04-13T07:00:00+08:00",
+  "files": [
+    {
+      "id": "2026-04-13T07",
+      "file": "2026-04-13T07.md",
+      "date": "2026-04-13T07:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈破裂 美国宣布封锁伊朗港口 特朗普威胁打击伊朗能源设施",
+        "en": "US-Iran Talks Collapse, U.S. Announces Iran Port Blockade, Trump Threatens Energy Infrastructure Strikes"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-12T18",
+      "file": "2026-04-12T18.md",
+      "date": "2026-04-12T18:00:00+08:00",
+      "title": {
+        "zh": "美国宣布封锁霍尔木兹海峡 伊朗拒绝美国红线要求",
+        "en": "U.S. Announces Hormuz Strait Blockade, Iran Rejects American Red Lines"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-12T16",
+      "file": "2026-04-12T16.md",
+      "date": "2026-04-12T16:00:00+08:00",
+      "title": {
+        "zh": "美伊巴三方高层会谈 伊斯兰堡和谈启动",
+        "en": "US-Iran-Pakistan High-Level Talks Begin in Islamabad"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-12T10",
+      "file": "2026-04-12T10.md",
+      "date": "2026-04-12T10:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈继续 霍尔木兹海峡通行量保持低位",
+        "en": "US-Iran Talks Continue, Hormuz Strait Traffic Remains Low"
+      },
+      "tags": ["diplomacy", "military"]
+    },
+    {
+      "id": "2026-04-12T09",
+      "file": "2026-04-12T09.md",
+      "date": "2026-04-12T09:00:00+08:00",
+      "title": {
+        "zh": "美伊巴伊斯兰堡三方会谈启动 地区局势紧张",
+        "en": "US-Iran-Pakistan Islamabad Talks Begin Regional Tensions"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-12T07",
+      "file": "2026-04-12T07.md",
+      "date": "2026-04-12T07:00:00+08:00",
+      "title": {
+        "zh": "万斯赴巴基斯坦 伊朗代表团抵达 停火谈判启动",
+        "en": "Vance Heads to Pakistan, Iranian Delegation Arrives, Ceasefire Talks Begin"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-12T06",
+      "file": "2026-04-12T06.md",
+      "date": "2026-04-12T06:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈启动 黎以华盛顿谈判确认启动",
+        "en": "US-Iran Peace Talks Begin, Israel-Lebanon Washington Talks Confirmed"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-12T05",
+      "file": "2026-04-12T05.md",
+      "date": "2026-04-12T05:00:00+08:00",
+      "title": {
+        "zh": "美军穿越霍尔木兹海峡 教皇谴责美伊战争",
+        "en": "US Forces Cross Hormuz Strait, Pope Condemns Iran War"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-11T22",
+      "file": "2026-04-11T22.md",
+      "date": "2026-04-11T22:00:00+08:00",
+      "title": {
+        "zh": "教皇公开批评伊朗战争 以色列空袭黎巴嫩安全部队",
+        "en": "Pope Publicly Criticizes Iran War, Israel Strikes Lebanese Security Forces"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-11T20",
+      "file": "2026-04-11T20.md",
+      "date": "2026-04-11T20:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈进入关键阶段 霍尔木兹海峡通行量维持10%",
+        "en": "US-Iran Talks Enter Critical Phase, Hormuz Strait Traffic Maintains 10%"
+      },
+      "tags": ["diplomacy", "military"]
+    }
+  ]
+}
