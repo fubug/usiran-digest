@@ -1,86 +1,85 @@
 {
-  "title": "美伊战争实时局势摘要",
-  "description": "基于 CBS/AP/NYT/Independent 等主流媒体的实时战况更新",
-  "updated": "2026-04-12T13:18:19+08:00",
+  "updated": "2026-04-12T16:00:00+08:00",
   "files": [
     {
-      "file": "2026-04-12T05.md",
-      "id": "2026-04-12T05",
-      "date": "2026-04-12T00:00:00+08:00",
+      "id": "2026-04-12T16",
+      "file": "2026-04-12T16.md",
+      "date": "2026-04-12T16:00:00+08:00",
       "title": {
-        "zh": "美伊和平谈判超时进行，美海军开始清理霍尔木兹海峡水雷\"\n  en: \"US-Iran Talks Extend Beyond 9 Hours as Navy Begins Hormuz Mine Clearance",
-        "en": "US-Iran Talks Extend Beyond 9 Hours as Navy Begins Hormuz Mine Clearance"
+        "zh": "美伊和谈破裂 美国宣布封锁霍尔木兹海峡",
+        "en": "U.S.-Iran Talks Fail, Trump Announces Strait of Hormuz Blockade"
       },
-      "tags": [
-        "diplomacy",
-        "military",
-        "politics",
-        "name: \"CBS News"
-      ]
+      "tags": ["military", "diplomacy"]
     },
     {
-      "file": "2026-04-12T06.md",
-      "id": "2026-04-12T06",
-      "date": "2026-04-12T00:00:00+08:00",
+      "id": "2026-04-12T14",
+      "file": "2026-04-12T14.md",
+      "date": "2026-04-12T14:00:00+08:00",
       "title": {
-        "zh": "伊斯兰堡和谈持续超9小时，教皇举行和平祈祷，美海军霍尔木兹水雷清理进行中\"\n  en: \"Islamabad Talks Extend Beyond 9 Hours",
-        "en": "Islamabad Talks Extend Beyond 9 Hours"
+        "zh": "美伊巴三方和谈持续 特朗普威胁伊朗",
+        "en": "U.S.-Iran-Pakistan Talks Continue, Trump Threatens Iran"
       },
-      "tags": [
-        "diplomacy",
-        "military",
-        "politics",
-        "name: \"CBS News",
-        "name: \"USA Today",
-        "name: \"CNN"
-      ]
+      "tags": ["diplomacy", "military"]
     },
     {
-      "file": "2026-04-12T07.md",
-      "id": "2026-04-12T07",
-      "date": "2026-04-12T00:00:00+08:00",
+      "id": "2026-04-12T03",
+      "file": "2026-04-12T03.md",
+      "date": "2026-04-12T03:00:00+08:00",
       "title": {
-        "zh": "伊斯兰堡和谈持续、美海军清理海峡、以色列大规模打击黎巴嫩\"\n  en: \"Islamabad Talks Continue",
-        "en": "Islamabad Talks Continue"
+        "zh": "美军穿越霍尔木兹海峡 伊朗提出通行费",
+        "en": "U.S. Military Crosses Hormuz Strait, Iran Proposes Transit Fees"
       },
-      "tags": [
-        "military",
-        "diplomacy",
-        "name: \"CBS News",
-        "name: \"AP News"
-      ]
+      "tags": ["military", "diplomacy"]
     },
     {
-      "file": "2026-04-12T09.md",
-      "id": "2026-04-12T09",
-      "date": "2026-04-12T00:00:00+08:00",
+      "id": "2026-04-11T16",
+      "file": "2026-04-11T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
       "title": {
-        "zh": "特朗普称和平协议'无所谓'，教皇谴责战争继续，美伊谈判陷入僵局\"\n  en: \"Trump Says Peace Deal 'Makes No Difference'",
-        "en": "Trump Says Peace Deal 'Makes No Difference'"
+        "zh": "重复内容质量审计删除T16摘要",
+        "en": "Duplicate Content Quality Audit Deleted T16 Summary"
       },
-      "tags": [
-        "diplomacy",
-        "military",
-        "politics",
-        "name: \"The Independent",
-        "name: \"The Week",
-        "name: \"New York Times"
-      ]
+      "tags": ["military", "diplomacy"]
     },
     {
-      "file": "2026-04-12T10.md",
-      "id": "2026-04-12T10",
-      "date": "2026-04-12T00:00:00+08:00",
+      "id": "2026-04-11T14",
+      "file": "2026-04-11T14.md",
+      "date": "2026-04-11T14:00:00+08:00",
       "title": {
-        "zh": "教皇再次谴责伊朗战争，美军驱逐舰穿越霍尔木兹海峡，美驱逐伊朗宣传人员家属\"\n  en: \"Pope Condemns Iran War Again",
-        "en": "Pope Condemns Iran War Again"
+        "zh": "美伊巴三方和谈启动 霍尔木兹海峡通行量低位",
+        "en": "U.S.-Iran-Pakistan Peace Talks Begin, Hormuz Transit Volume Low"
       },
-      "tags": [
-        "military",
-        "diplomacy",
-        "politics",
-        "name: \"CBS News"
-      ]
+      "tags": ["diplomacy", "military"]
+    },
+    {
+      "id": "2026-04-11T03",
+      "file": "2026-04-11T03.md",
+      "date": "2026-04-11T03:00:00+08:00",
+      "title": {
+        "zh": "以色列空袭黎巴嫩安全部队 教皇批评战争",
+        "en": "Israel Strikes Lebanese Security Forces, Pope Criticizes War"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-11T02",
+      "file": "2026-04-11T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
+      "title": {
+        "zh": "美国副总统万斯赴巴基斯坦谈判 和平进程启动",
+        "en": "VP Vance Traveling to Pakistan for Peace Talks, Process Begins"
+      },
+      "tags": ["diplomacy"]
+    },
+    {
+      "id": "2026-04-11T00",
+      "file": "2026-04-11T00.md",
+      "date": "2026-04-11T00:00:00+08:0",
+      "title": {
+        "zh": "以色列轰炸黎巴嫩安全部队 黎以冲突升级",
+        "en": "Israel Bombards Lebanese Security Forces, Lebanon-Israel Conflict Escalates"
+      },
+      "tags": ["military"]
     }
   ]
 }
