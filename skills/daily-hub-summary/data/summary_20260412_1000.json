@@ -1,0 +1,179 @@
+{
+  "polymarket": [],
+  "v2ex": [
+    {
+      "title": "被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。",
+      "author": "jingcjie",
+      "replies": 124,
+      "node": "成都",
+      "url": "https://www.v2ex.com/t/1205139",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656271"
+    },
+    {
+      "title": "好奇问一下：为什么很多国人开源项目，第一语言还是英文？",
+      "author": "zhoudaniu",
+      "replies": 91,
+      "node": "开源软件",
+      "url": "https://www.v2ex.com/t/1205084",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656289"
+    },
+    {
+      "title": "现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗",
+      "author": "sw042",
+      "replies": 88,
+      "node": "云计算",
+      "url": "https://www.v2ex.com/t/1205082",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656292"
+    },
+    {
+      "title": "爱上合租妹子，我该怎么追她",
+      "author": "aaa0009",
+      "replies": 66,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1205086",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656295"
+    },
+    {
+      "title": "服役 9 年的 FILCO 青轴机械键盘寿终正寝了， 2026 年有啥值得推荐的机械键盘吗？",
+      "author": "cairnechen",
+      "replies": 63,
+      "node": "机械键盘",
+      "url": "https://www.v2ex.com/t/1205068",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656298"
+    },
+    {
+      "title": "记一次 Apple Passwords 数据遗失的经历",
+      "author": "azukipanda",
+      "replies": 58,
+      "node": "Apple",
+      "url": "https://www.v2ex.com/t/1205135",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656300"
+    },
+    {
+      "title": "确定豆包能发二维码吗？",
+      "author": "g1eny0ung",
+      "replies": 36,
+      "node": "程序员",
+      "url": "https://www.v2ex.com/t/1205133",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656302"
+    },
+    {
+      "title": "自己撸了一个小工具、终于吧 Mac\"系统数据\"占用干下来了",
+      "author": "airtee",
+      "replies": 28,
+      "node": "macOS",
+      "url": "https://www.v2ex.com/t/1205096",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656305"
+    },
+    {
+      "title": "35 岁生日，祝我生日快乐",
+      "author": "hurd",
+      "replies": 26,
+      "node": "生活",
+      "url": "https://www.v2ex.com/t/1205185",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656307"
+    },
+    {
+      "title": "Codex 中转，自有 pro 号池 ，延迟超低，欢迎体验！另：诚招 下游代理，大量稳定提供",
+      "author": "dwhzy",
+      "replies": 20,
+      "node": "推广",
+      "url": "https://www.v2ex.com/t/1205063",
+      "source": "V2EX",
+      "timestamp": "2026-04-12T10:00:03.656309"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 842,
+      "descendants": 229,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:04.639476"
+    },
+    {
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 147,
+      "descendants": 83,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:05.337534"
+    },
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 221,
+      "descendants": 60,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:05.841020"
+    },
+    {
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 141,
+      "descendants": 69,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:06.327754"
+    },
+    {
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "score": 84,
+      "descendants": 12,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:06.814171"
+    },
+    {
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "score": 120,
+      "descendants": 17,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:07.270727"
+    },
+    {
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "score": 22,
+      "descendants": 0,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:07.784634"
+    },
+    {
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "score": 198,
+      "descendants": 51,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:08.290801"
+    },
+    {
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "score": 81,
+      "descendants": 5,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:08.783050"
+    },
+    {
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 235,
+      "descendants": 117,
+      "source": "Hacker News",
+      "timestamp": "2026-04-12T10:00:09.269424"
+    }
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-12 10:00:09\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【成都】被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。\n   👤 jingcjie | 💬 124 回复\n2. 【开源软件】好奇问一下：为什么很多国人开源项目，第一语言还是英文？\n   👤 zhoudaniu | 💬 91 回复\n3. 【云计算】现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗\n   👤 sw042 | 💬 88 回复\n4. 【生活】爱上合租妹子，我该怎么追她\n   👤 aaa0009 | 💬 66 回复\n5. 【机械键盘】服役 9 年的 FILCO 青轴机械键盘寿终正寝了， 2026 年有啥值得推荐的机械键盘吗？\n   👤 cairnechen | 💬 63 回复\n6. 【Apple】记一次 Apple Passwords 数据遗失的经历\n   👤 azukipanda | 💬 58 回复\n7. 【程序员】确定豆包能发二维码吗？\n   👤 g1eny0ung | 💬 36 回复\n8. 【macOS】自己撸了一个小工具、终于吧 Mac\"系统数据\"占用干下来了\n   👤 airtee | 💬 28 回复\n9. 【生活】35 岁生日，祝我生日快乐\n   👤 hurd | 💬 26 回复\n10. 【推广】Codex 中转，自有 pro 号池 ，延迟超低，欢迎体验！另：诚招 下游代理，大量稳定提供\n   👤 dwhzy | 💬 20 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Small models also found the vulnerabilities that Mythos found\n   ⭐ 842 | 💬 229\n2. Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)\n   ⭐ 147 | 💬 83\n3. How We Broke Top AI Agent Benchmarks: And What Comes Next\n   ⭐ 221 | 💬 60\n4. 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane\n   ⭐ 141 | 💬 69\n5. Pijul a FOSS distributed version control system\n   ⭐ 84 | 💬 12\n6. Dark Castle\n   ⭐ 120 | 💬 17\n7. How Complex is my Code?\n   ⭐ 22 | 💬 0\n8. Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS\n   ⭐ 198 | 💬 51\n9. How to build a `Git diff` driver\n   ⭐ 81 | 💬 5\n10. Cirrus Labs to join OpenAI\n   ⭐ 235 | 💬 117\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-12T10:00:09.269537"
+}

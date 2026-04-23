@@ -1,5 +1,4 @@
 {
-  "timestamp": "2026-04-13T10:00:09.611149",
   "polymarket": [],
   "v2ex": [
     {
@@ -174,5 +173,7 @@
       "source": "Hacker News",
       "timestamp": "2026-04-13T10:00:09.607743"
     }
-  ]
+  ],
+  "report": "📊 每日信息汇总\n⏰ 2026-04-13 10:00:09\n\n💬 V2EX 热门 (Top 10)\n──────────────────────────────────────────────────\n1. 【推广】[ Codex 中转站 | 纯 plus 号池] 开了一个多月的站子， token 烧了 2599 亿，我决定给大伙发福利了\n   👤 LMark | 💬 100 回复\n2. 【酷工作】[合肥] 初级小程序全栈工程师\n   👤 yujiehan2002 | 💬 72 回复\n3. 【生活】爱上合租妹子 2 - 看电影\n   👤 aaa0009 | 💬 58 回复\n4. 【iOS】Vex——更现代的 V2EX ios 客户端\n   👤 Fike | 💬 54 回复\n5. 【浏览器】2026 年， V 友们认为最省内存的浏览器是哪个呢？你目前在用的是什么浏览器？\n   👤 Astralume | 💬 54 回复\n6. 【分享发现】咸鱼 codex 模型注水，用千问 0.6b 代替 codex5.4\n   👤 bingoso | 💬 52 回复\n7. 【Android】从 IOS 想转到安卓阵营，是用国内系统 ROOT 好还是刷国际版好，问问大伙意见\n   👤 conpress | 💬 49 回复\n8. 【Google Gemini】Gemini 访问不了，换了台湾家宽也不行，用什么梯子能访问啊？\n   👤 walterggg | 💬 42 回复\n9. 【Claude】注册尼日利亚区域的方法，包括如何更改区域\n   👤 yuhui0531 | 💬 41 回复\n10. 【生活】燃气公司有权因为热水器超过 8 年而给家里停气吗？\n   👤 football | 💬 37 回复\n\n📰 Hacker News (Top 10)\n──────────────────────────────────────────────────\n1. Taking on CUDA with ROCm: 'One Step After Another'\n   ⭐ 49 | 💬 42\n2. Bring Back Idiomatic Design (2023)\n   ⭐ 460 | 💬 237\n3. DIY Soft Drinks\n   ⭐ 253 | 💬 61\n4. Show HN: boringBar – a taskbar-style dock replacement for macOS\n   ⭐ 224 | 💬 146\n5. Ask HN: What Are You Working On? (April 2026)\n   ⭐ 131 | 💬 358\n6. Most people can't juggle one ball\n   ⭐ 242 | 💬 84\n7. A Perfectable Programming Language\n   ⭐ 52 | 💬 9\n8. I gave every train in New York an instrument\n   ⭐ 214 | 💬 41\n9. Google removes \"Doki Doki Literature Club\" from Google Play\n   ⭐ 306 | 💬 137\n10. Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)\n   ⭐ 165 | 💬 36\n\n──────────────────────────────────────────────────\n⏰ 更新时间: 10:00\n📈 数据来源: V2EX + Hacker News",
+  "generated_at": "2026-04-13T10:00:09.607896"
 }

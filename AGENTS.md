@@ -211,17 +211,22 @@
 
 这是个起点。随你添加自己的惯例、风格和规则，随着你弄清什么有效。
 
+
 <!-- WEB-TOOLS-STRATEGY-START -->
 ### Web Tools Strategy (CRITICAL)
 
-**Before using web_search/web_fetch/browser, you MUST `read workspace/skills/web-tools-guide/SKILL.md`!**
+**Before using web_search/web_fetch/browser/opencli, you MUST `read workspace/skills/web-tools-guide/SKILL.md`!**
 
-**Three-tier tools:**
+**Four tools, branch by scenario (NOT a hierarchy):**
 ```
-web_search  -> Keyword search when no exact URL (lightest)
-web_fetch   -> Fetch static content at known URL (articles/docs/API)
-browser     -> JS rendering/login state/page interaction (heaviest)
+web_search  -> No URL, need to search info         ─┐
+web_fetch   -> Known URL, static content            ─┤ Primary (pick by scenario)
+                                                     │
+opencli     -> Either fails? CLI structured access  ─┤ Fallback (try before browser)
+browser     -> All above fail? Full browser control ─┘ Last resort
 ```
 
-**When web_search fails: You MUST read the skill's "web_search failure handling" section first, guide user to configure search API. Only fall back after user explicitly refuses.**
+**When web_search/web_fetch fail**: try `opencli` first (70+ sites, `opencli --help` to discover). Only escalate to `browser` when opencli also can't handle it.
+
+**When web_search errors: You MUST read the skill's "web_search failure handling" section first, guide user to configure search API. Only fall back after user explicitly refuses.**
 <!-- WEB-TOOLS-STRATEGY-END -->
