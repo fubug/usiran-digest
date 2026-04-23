@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-24T00:10:00+08:00",
+  "updated": "2026-04-24T01:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-24T01",
+      "file": "2026-04-24T01.md",
+      "date": "2026-04-24T01:00:00+08:00",
+      "title": {
+        "zh": "特朗普下令射杀伊朗船只，伊朗发布扣押视频",
+        "en": "Trump Orders Shoot-to-Kill for Iranian Vessels, Iran Releases Seizure Video"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-24T00",
       "file": "2026-04-24T00.md",
