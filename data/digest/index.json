@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-24T06:00:00+08:00",
+  "updated": "2026-04-24T07:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-24T07",
+      "file": "2026-04-24T07.md",
+      "date": "2026-04-24T07:00:00+08:00",
+      "title": {
+        "zh": "美以停火延期三周，霍尔木兹海峡紧张局势持续",
+        "en": "US-Israel Ceasefire Extended by Three Weeks, Hormuz Strait Tensions Continue"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-24T06",
       "file": "2026-04-24T06.md",
@@ -472,7 +485,7 @@
     {
       "id": "2026-04-09T21",
       "file": "2026-04-09T21.md",
-      "date": "2026-04-09T21:00:00+08:00",
+      "date": "2026-04-09T21:00:00:00+08:00",
       "title": {
         "zh": "美伊停火协议遭以色列挑战 伊朗宣布霍尔木兹海峡替代航线",
         "en": "US-Iran Ceasefire Challenged by Israel Strikes; Iran Announces Hormuz Alternative Routes\"\ntags:\n  - military\n  - diplomacy\nsources:\n  - name: \"AP News\"\n    url: \"https://apnews.com/live/iran-war-israel-trump-04-09-2026\"\n  - name: \"CBS News\"\n    url: \"https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues/"
@@ -786,17 +799,4 @@
       "file": "2026-04-07T23.md",
       "date": "2026-04-07T23:00:00+08:00",
       "title": {
-        "zh": "Deadline前夜：以色列确认打击8座桥梁，特朗普遭两党抨击，伊朗关闭对美外交渠道，英国拒绝美军使用基地",
-        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T22",
-      "file": "2026-04-07T22.md",
-      "date": "2026-04-07T22:00:00+08:00",
-      "title": {
-        "zh": "哈尔克岛遭多次打击，特朗普发出'文明消亡'威胁，伊朗誓言
+        "zh": "Deadline前夜：以色列确认打击8座桥梁，特朗普遭两党抨击，伊朗关闭对美外交渠道，英国拒绝美军使用基地
