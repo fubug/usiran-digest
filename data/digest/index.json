@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-23T20:00:00+08:00",
+  "updated": "2026-04-23T22:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-23T22",
+      "file": "2026-04-23T22.md",
+      "date": "2026-04-23T22:00:00+08:00",
+      "title": {
+        "zh": "特朗普下令击杀伊朗船只，霍尔木兹海峡紧张升级",
+        "en": "Trump Orders to Shoot Iranian Boats, Hormuz Strait Tensions Escalate"
+      },
+      "tags": ["military", "diplomacy"]
+    },
     {
       "id": "2026-04-23T20",
       "file": "2026-04-23T20.md",
