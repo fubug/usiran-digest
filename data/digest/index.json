@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T22:00:00+08:00",
+  "updated": "2026-04-23T22:10:00+08:00",
   "files": [
     {
       "id": "2026-04-23T22",
@@ -18,6 +18,36 @@
       "title": {
         "zh": "伊朗收取霍尔木兹海峡通行费，美国海军指挥官突然离职",
         "en": "Iran Collects Strait of Hormuz Tolls, US Navy Chief Resigns Abruptly"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-23T19",
+      "file": "2026-04-23T19.md",
+      "date": "2026-04-23T19:00:00+08:00",
+      "title": {
+        "zh": "美伊紧张关系持续，霍尔木兹海峡局势复杂",
+        "en": "US-Iran Tensions Continue, Strait of Hormuz Situation Complex"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-23T18",
+      "file": "2026-04-23T18.md",
+      "date": "2026-04-23T18:00:00+08:00",
+      "title": {
+        "zh": "霍尔木兹海峡局势紧张，伊朗加强海上巡逻",
+        "en": "Strait of Hormuz Tensions Escalate, Iran Increases Maritime Patrols"
+      },
+      "tags": ["military", "diplomacy"]
+    },
+    {
+      "id": "2026-04-23T14",
+      "file": "2026-04-23T14.md",
+      "date": "2026-04-23T14:00:00+08:00",
+      "title": {
+        "zh": "中东局势持续紧张，霍尔木兹海峡成为焦点",
+        "en": "Middle East Situation Continues to Escalate, Strait of Hormuz Becomes Focus"
       },
       "tags": ["military", "diplomacy"]
     }
