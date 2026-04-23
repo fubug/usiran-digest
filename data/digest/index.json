@@ -1,22 +1,8 @@
 {
   "title": "\u7f8e\u4f0a\u6218\u4e89\u5b9e\u65f6\u5c40\u52bf\u6458\u8981",
   "description": "\u57fa\u4e8e CBS/AP/NYT/Independent \u7b49\u4e3b\u6d41\u5a92\u4f53\u7684\u5b9e\u65f6\u6218\u51b5\u66f4\u65b0",
-  "updated": "2026-04-23T18:07:08+08:00",
+  "updated": "2026-04-24T07:00:00+08:00",
   "files": [
-    {
-      "id": "2026-04-23T18",
-      "file": "2026-04-23T18.md",
-      "date": "2026-04-23T18:00:00+08:00",
-      "title": {
-        "zh": "\u4e2d\u4e1c\u5c40\u52bf\u6301\u7eed\u7d27\u5f20 \u7ea2\u6d77\u822a\u8fd0\u5b89\u5168\u5347\u7ea7",
-        "en": "Middle East Tensions Persist, Red Sea Shipping Security Upgraded"
-      },
-      "tags": [
-        "military",
-        "diplomacy",
-        "economy"
-      ]
-    },
     {
       "id": "2026-04-09T18",
       "file": "2026-04-09T18.md",
@@ -339,19 +325,6 @@
       },
       "tags": [
         ""
-      ]
-    },
-    {
-      "id": "2026-04-11T23",
-      "file": "2026-04-11T23.md",
-      "date": "2026-04-11T23:00:00+08:00",
-      "title": {
-        "zh": "\u7f8e\u4f0a\u76f4\u63a5\u8c08\u5224\u542f\u52a8\uff1a\u5386\u53f2\u6027\u4f1a\u6664\uff0c\u4ee5\u9ece\u8c08\u5224\u786e\u5b9a\u4e0b\u5468",
-        "en": "Historic US-Iran Direct Talks Begin: Lebanon-Israel Talks Set for Next Week"
-      },
-      "tags": [
-        "diplomacy",
-        "military"
       ]
     }
   ],
