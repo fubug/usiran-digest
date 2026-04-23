@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-23T14:00:00+08:00",
+  "updated": "2026-04-23T19:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-23T19",
+      "file": "2026-04-23T19.md",
+      "date": "2026-04-23 19:00:00+08:00",
+      "title": {
+        "zh": "CENTCOM拦截船只增至31艘 记者死亡拜登发声 德国航班大规模取消",
+        "en": "CENTCOM Interceptions Rise to 31 Ships, Journalist Death Sparks Biden Response, German Flight Cancellations"
+      },
+      "tags": [
+        "military",
+        "economy",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-23T14",
       "file": "2026-04-23T14.md",
@@ -13,20 +27,6 @@
         "military",
         "diplomacy",
         "media"
-      ]
-    },
-    {
-      "id": "2026-04-23T19",
-      "file": "2026-04-23T19.md",
-      "date": "2026-04-23 19:00:00+08:00",
-      "title": {
-        "zh": "CENTCOM拦截船只增至31艘 伊朗扣押两艘货船 美伊封锁战持续",
-        "en": "CENTCOM Interception Count Rises to 31 Ships, Iran Seizes Two Cargo Ships, US-Iran Blockade War Continues"
-      },
-      "tags": [
-        "military",
-        "economy",
-        "diplomacy"
       ]
     },
     {
