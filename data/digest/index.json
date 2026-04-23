@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-23 11:00:00+08:00",
+  "updated": "2026-04-23T14:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-23T14",
+      "file": "2026-04-23T14.md",
+      "date": "2026-04-23 14:00:00+08:00",
+      "title": {
+        "zh": "以军空袭黎巴嫩致5人死亡 包括记者 美伊外交僵局持续",
+        "en": "Israeli Air Strikes Kill 5 in Lebanon Including Journalist, US-Iran Diplomatic Stalemate Continues"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "media"
+      ]
+    },
+    {
+      "id": "2026-04-23T19",
+      "file": "2026-04-23T19.md",
+      "date": "2026-04-23 19:00:00+08:00",
+      "title": {
+        "zh": "CENTCOM拦截船只增至31艘 伊朗扣押两艘货船 美伊封锁战持续",
+        "en": "CENTCOM Interception Count Rises to 31 Ships, Iran Seizes Two Cargo Ships, US-Iran Blockade War Continues"
+      },
+      "tags": [
+        "military",
+        "economy",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-13T20",
       "file": "2026-04-13T20.md",
