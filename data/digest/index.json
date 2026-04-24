@@ -2,16 +2,6 @@
   "updated": "2026-04-25T00:00:00+08:00",
   "files": [
     {
-      "id": "2026-04-25T00",
-      "file": "2026-04-25T00.md",
-      "date": "2026-04-25T00:00:00+08:00",
-      "title": {
-        "zh": "中东局势持续紧张，无重大新发展",
-        "en": "Middle East tensions continue, no major developments"
-      },
-      "tags": ["military", "diplomacy"]
-    },
-    {
       "id": "2026-04-24T18",
       "file": "2026-04-24T18.md",
       "date": "2026-04-24T18:00:00+08:00",
@@ -19,7 +9,10 @@
         "zh": "美伊和谈再获进展，黎以停火延期三周",
         "en": "US-Iran Peace Talks Make Progress, Israel-Lebanon Ceasefire Extended by 3 Weeks"
       },
-      "tags": ["military", "diplomacy"]
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
     },
     {
       "id": "2026-04-24T14",
