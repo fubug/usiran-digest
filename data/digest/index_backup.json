@@ -1,25 +1,12 @@
 {
-  "updated": "2026-04-25T01:00:00+08:00",
+  "updated": "2026-04-25T00:00:00+08:00",
   "files": [
-    {
-      "id": "2026-04-25T01",
-      "file": "2026-04-25T01.md",
-      "date": "2026-04-25T01:00:00+08:00",
-      "title": {
-        "zh": "\u4f0a\u6717\u5916\u957f\u8d74\u5df4\u4f1a\u8c08\uff0c\u970d\u5c14\u7279\u65af\u547c\u5401\u4f0a\u6717\u505a\"\u660e\u667a\u4ea4\u6613\"",
-        "en": "Iran FM Heads to Pakistan for Talks, Hegseth Urges Iran to Make \"Wise Deal\""
-      },
-      "tags": [
-        "diplomacy",
-        "military"
-      ]
-    },
     {
       "id": "2026-04-24T18",
       "file": "2026-04-24T18.md",
       "date": "2026-04-24T18:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u8c08\u518d\u83b7\u8fdb\u5c55\uff0c\u9ece\u4ee5\u505c\u706b\u5ef6\u671f\u4e09\u5468",
+        "zh": "美伊和谈再获进展，黎以停火延期三周",
         "en": "US-Iran Peace Talks Make Progress, Israel-Lebanon Ceasefire Extended by 3 Weeks"
       },
       "tags": [
