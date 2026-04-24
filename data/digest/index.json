@@ -1,12 +1,38 @@
 {
-  "updated": "2026-04-25T01:00:00+08:00",
+  "updated": "2026-04-25T04:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-25T04",
+      "file": "2026-04-25T04.md",
+      "date": "2026-04-25T04:00:00+08:00",
+      "title": {
+        "zh": "美国对伊制裁升级，外交谈判陷入僵局",
+        "en": "US Escalates Sanctions on Iran, Diplomatic Talks Reach Stalemate"
+      },
+      "tags": [
+        "diplomacy",
+        "economy"
+      ]
+    },
+    {
+      "id": "2026-04-25T02",
+      "file": "2026-04-25T02.md",
+      "date": "2026-04-25T02:00:00+08:00",
+      "title": {
+        "zh": "美国派遣特使赴巴会谈，以黎停火遭破坏",
+        "en": "US Envoy to Pakistan for Iran Talks, Ceasefire Sabotage in Lebanon"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-25T01",
       "file": "2026-04-25T01.md",
       "date": "2026-04-25T01:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u6717\u5916\u957f\u8d74\u5df4\u4f1a\u8c08\uff0c\u970d\u5c14\u7279\u65af\u547c\u5401\u4f0a\u6717\u505a'\u660e\u667a\u4ea4\u6613'",
+        "zh": "伊朗外长赴巴会谈，特朗普呼吁伊朗做'明智交易'",
         "en": "Iran FM Heads to Pakistan for Talks, Hegseth Urges Iran to Make 'Wise Deal'"
       },
       "tags": [
@@ -19,7 +45,7 @@
       "file": "2026-04-24T18.md",
       "date": "2026-04-24T18:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u8c08\u518d\u83b7\u8fdb\u5c55\uff0c\u9ece\u4ee5\u505c\u706b\u5ef6\u671f\u4e09\u5468",
+        "zh": "美伊和谈再获进展，以黎停火延长三周",
         "en": "US-Iran Peace Talks Make Progress, Israel-Lebanon Ceasefire Extended by 3 Weeks"
       },
       "tags": [
@@ -32,7 +58,7 @@
       "file": "2026-04-24T14.md",
       "date": "2026-04-24T14:00:00+08:00",
       "title": {
-        "zh": "\u6cb9\u4ef7\u7a81\u7834106\u7f8e\u5143\uff01\u7f8e\u4f0a\u5728\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u5168\u9762\u5bf9\u5cd9",
+        "zh": "油价突破106美元！美伊在霍尔木兹海峡全面对峙",
         "en": "Oil Prices Surpass $106 as US-Iran Standoff Escalates in Strait of Hormuz"
       },
       "tags": [
@@ -45,7 +71,7 @@
       "file": "2026-04-24T13.md",
       "date": "2026-04-24T13:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u5ba3\u5e03\u9ece\u5df4\u5ae9\u505c\u706b\u5ef6\u957f3\u5468\uff0c\u4f0a\u6717\u62d2\u7edd\u5728\u4f0a\u65af\u5170\u5821\u8fdb\u884c\u7b2c\u4e8c\u8f6e\u8c08\u5224",
+        "zh": "特朗普宣布黎巴嫩停火延长3周，伊朗拒绝在伊斯兰堡进行第二轮谈判",
         "en": "Trump Announces Lebanon Ceasefire Extension, Iran Rejects Islamabad Talks"
       },
       "tags": [
@@ -58,7 +84,7 @@
       "file": "2026-04-24T12.md",
       "date": "2026-04-24T12:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u5ba3\u5e03\u5f7b\u5e95\u5c01\u9501\u970d\u5c14\u6728\u5179\u6d77\u5ce1\uff0c\u4f0a\u6717\u5236\u5b9a\u53cd\u51fb\u76ee\u6807\u6e05\u5355",
+        "zh": "特朗普声称彻底封锁霍尔木兹海峡，伊朗发布反击目标清单",
         "en": "Trump Claims Complete Hormuz Strait Blockade, Iran Releases Counter-Strike Target List"
       },
       "tags": [
@@ -71,7 +97,7 @@
       "file": "2026-04-24T06.md",
       "date": "2026-04-24T06:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u50f5\u5c40\u6301\u7eed\uff1a\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u7d27\u5f20\u5c40\u52bf\u5347\u7ea7\uff0c\u591a\u56fd\u5bfb\u6c42\u5916\u4ea4\u89e3\u51b3",
+        "zh": "美伊僵局持续：霍尔木兹海峡紧张局势升级，多国寻求外交解决方案",
         "en": "US-Iran Stalemate Continues: Hormuz Strait Tensions Escalate as Countries Seek Diplomatic Solutions"
       },
       "tags": [
@@ -84,7 +110,7 @@
       "file": "2026-04-24T03.md",
       "date": "2026-04-24T03:00:00+08:00",
       "title": {
-        "zh": "\u4ee5\u8272\u5217\u56fd\u9632\u90e8\u957f\u626c\u8a00\u5c06\u4f0a\u6717\u9001\u56de\u77f3\u5668\u65f6\u4ee3\uff0c\u9ece\u5df4\u5ae9\u6307\u63a7\u4ee5\u8272\u5217\u6218\u4e89\u7f6a",
+        "zh": "以色列国防部长威胁将伊朗带回石器时代，黎巴嫩指控以色列战争罪",
         "en": "Israel Defense Minister Threatens to 'Return Iran to Stone Age', Lebanon Accuses Israel of War Crimes"
       },
       "tags": [
@@ -97,7 +123,7 @@
       "file": "2026-04-24T01.md",
       "date": "2026-04-24T01:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u4e0b\u4ee4\u5c04\u6740\u4f0a\u6717\u8239\u53ea\uff0c\u4f0a\u6717\u53d1\u5e03\u6263\u62bc\u89c6\u9891",
+        "zh": "特朗普下令击落伊朗船只，伊朗扣押视频发布",
         "en": "Trump Orders Shoot-to-Kill for Iranian Vessels, Iran Releases Seizure Video"
       },
       "tags": [
@@ -110,7 +136,7 @@
       "file": "2026-04-24T00.md",
       "date": "2026-04-24T00:00:00+08:00",
       "title": {
-        "zh": "\u4ee5\u8272\u5217\u902e\u6355\u95f4\u8c0d\u58eb\u5175\uff0c\u4f0a\u6717\u6536\u53d6\u970d\u5c14\u6728\u5179\u901a\u884c\u8d39",
+        "zh": "以色列逮捕间谍士兵，伊朗收取霍尔木兹海峡通行费",
         "en": "Israel Arrests Spying Soldiers, Iran Collects Hormuz Transit Fees"
       },
       "tags": [
@@ -123,7 +149,7 @@
       "file": "2026-04-23T22.md",
       "date": "2026-04-23T22:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u4e0b\u4ee4\u51fb\u6740\u4f0a\u6717\u8239\u53ea\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u7d27\u5f20\u5347\u7ea7",
+        "zh": "特朗普下令击落伊朗船只，霍尔木兹海峡紧张局势升级",
         "en": "Trump Orders to Shoot Iranian Boats, Hormuz Strait Tensions Escalate"
       },
       "tags": [
@@ -136,7 +162,7 @@
       "file": "2026-04-23T20.md",
       "date": "2026-04-23T20:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u6717\u6536\u53d6\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u901a\u884c\u8d39\uff0c\u7f8e\u56fd\u6d77\u519b\u6307\u6325\u5b98\u7a81\u7136\u79bb\u804c",
+        "zh": "伊朗收取霍尔木兹海峡通行费，美国海军司令突然离职",
         "en": "Iran Collects Strait of Hormuz Tolls, US Navy Chief Resigns Abruptly"
       },
       "tags": [
@@ -149,7 +175,7 @@
       "file": "2026-04-23T19.md",
       "date": "2026-04-23T19:00:00+08:00",
       "title": {
-        "zh": "CENTCOM\u62e6\u622a\u8239\u53ea\u589e\u81f331\u8258 \u8bb0\u8005\u6b7b\u4ea1\u62dc\u767b\u53d1\u58f0 \u5fb7\u56fd\u822a\u73ed\u5927\u89c4\u6a21\u53d6\u6d88",
+        "zh": "CENTCOM拦截船只墙至31艘 记者死亡拘捕发声 德国航班大规取消",
         "en": "CENTCOM Interceptions Rise to 31 Ships, Journalist Death Sparks Biden Response, German Flight Cancellations"
       },
       "tags": [
@@ -162,7 +188,7 @@
       "file": "2026-04-23T18.md",
       "date": "2026-04-23T18:00:00+08:00",
       "title": {
-        "zh": "\u4e2d\u4e1c\u5c40\u52bf\u6301\u7eed\u7d27\u5f20 \u7ea2\u6d77\u822a\u8fd0\u5b89\u5168\u5347\u7ea7",
+        "zh": "中东局势持续紧张 红海航运安全升级",
         "en": "Middle East Tensions Persist, Red Sea Shipping Security Upgraded"
       },
       "tags": [
@@ -175,7 +201,7 @@
       "file": "2026-04-23T14.md",
       "date": "2026-04-23T14:00:00+08:00",
       "title": {
-        "zh": "\u4ee5\u519b\u7a7a\u88ad\u9ece\u5df4\u5ae9\u81f45\u4eba\u6b7b\u4ea1 \u5305\u62ec\u8bb0\u8005 \u7f8e\u4f0a\u5916\u4ea4\u50f5\u5c40\u6301\u7eed",
+        "zh": "以军空袭造成黎巴嫩5人死亡 包括记者 美伊外交僵局持续",
         "en": "Israeli Air Strikes Kill 5 in Lebanon Including Journalist, US-Iran Diplomatic Stalemate Continues"
       },
       "tags": [
@@ -188,7 +214,7 @@
       "file": "2026-04-13T20.md",
       "date": "2026-04-13T20:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u542f\u52a8\u4f0a\u6717\u6e2f\u53e3\u5c01\u9501\uff0c\u6cb9\u4ef7\u7a81\u7834100\u7f8e\u5143",
+        "zh": "特朗普启动伊朗港口封锁，油价突破100美元",
         "en": "Trump Launches Iranian Port Blockade, Oil Prices Exceed $100"
       },
       "tags": [
@@ -201,7 +227,7 @@
       "file": "2026-04-13T07.md",
       "date": "2026-04-13T07:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u8c08\u7834\u88c2 \u7f8e\u56fd\u5ba3\u5e03\u5c01\u9501\u4f0a\u6717\u6e2f\u53e3 \u7279\u6717\u666e\u5a01\u80c1\u6253\u51fb\u4f0a\u6717\u80fd\u6e90\u8bbe\u65bd",
+        "zh": "美伊和谈破裂 美国宣布封锁伊朗港口 特朗普威胁打击伊朗能源设施",
         "en": "US-Iran Talks Collapse, U.S. Announces Iran Port Blockade, Trump Threatens Energy Infrastructure Strikes"
       },
       "tags": [
@@ -214,7 +240,7 @@
       "file": "2026-04-12T18.md",
       "date": "2026-04-12T18:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u56fd\u5ba3\u5e03\u5c01\u9501\u970d\u5c14\u6728\u5179\u6d77\u5ce1 \u4f0a\u6717\u62d2\u7edd\u7f8e\u56fd\u7ea2\u7ebf\u8981\u6c42",
+        "zh": "美国宣布封锁霍尔木兹海峡，伊朗拒绝美国红线要求",
         "en": "U.S. Announces Hormuz Strait Blockade, Iran Rejects American Red Lines"
       },
       "tags": [
@@ -227,7 +253,7 @@
       "file": "2026-04-12T16.md",
       "date": "2026-04-12T16:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u8c08\u7834\u88c2 \u7f8e\u56fd\u5ba3\u5e03\u5c01\u9501\u970d\u5c14\u6728\u5179\u6d77\u5ce1",
+        "zh": "美伊和谈破裂，特朗普宣布封锁霍尔木兹海峡",
         "en": "U.S.-Iran Talks Fail, Trump Announces Strait of Hormuz Blockade"
       },
       "tags": [
@@ -240,7 +266,7 @@
       "file": "2026-04-12T10.md",
       "date": "2026-04-12T10:00:00+08:00",
       "title": {
-        "zh": "\u6559\u7687\u518d\u6b21\u8c34\u8d23\u4f0a\u6717\u6218\u4e89\uff0c\u7f8e\u519b\u9a71\u9010\u8230\u7a7f\u8d8a\u970d\u5c14\u6728\u5179\u6d77\u5ce1\uff0c\u7f8e\u9a71\u9010\u4f0a\u6717\u5ba3\u4f20\u4eba\u5458\u5bb6\u5c5e",
+        "zh": "教皇再次谴责伊朗战争，美国驱逐者穿越霍尔木兹海峡，美国驱逐伊朗宣传人员家属",
         "en": "Pope Condemns Iran War Again, US Destroyers Cross Strait of Hormuz, US Deports Iranian Propagandist Family"
       },
       "tags": [
@@ -253,7 +279,7 @@
       "file": "2026-04-12T09.md",
       "date": "2026-04-12T09:00:00+08:00",
       "title": {
-        "zh": "\u7279\u6717\u666e\u79f0\u548c\u5e73\u534f\u8bae'\u65e0\u6240\u8c13'\uff0c\u6559\u7687\u8c34\u8d23\u6218\u4e89\u7ee7\u7eed\uff0c\u7f8e\u4f0a\u8c08\u5224\u9677\u5165\u50f5\u5c40",
+        "zh": "特朗普称和谈'无所谓'，教皇谴责战争，美伊谈判陷入僵局",
         "en": "Trump Says Peace Deal 'Makes No Difference', Pope Condemns War, US-Iran Talks Stalemate"
       },
       "tags": [
@@ -266,7 +292,7 @@
       "file": "2026-04-12T07.md",
       "date": "2026-04-12T07:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u65af\u5170\u5821\u548c\u8c08\u6301\u7eed\u3001\u7f8e\u6d77\u519b\u6e05\u7406\u6d77\u5ce1\u3001\u4ee5\u8272\u5217\u5927\u89c4\u6a21\u6253\u51fb\u9ece\u5df4\u5ae9",
+        "zh": "伊斯兰堡和谈继续、美国海军清理海峡、以色列大规模打击黎巴嫩200+目标",
         "en": "Islamabad Talks Continue, US Navy Clears Strait, Israel Strikes 200+ Targets in Lebanon"
       },
       "tags": [
@@ -279,7 +305,7 @@
       "file": "2026-04-12T06.md",
       "date": "2026-04-12T06:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u65af\u5170\u5821\u548c\u8c08\u6301\u7eed\u8d859\u5c0f\u65f6\uff0c\u6559\u7687\u4e3e\u884c\u548c\u5e73\u7948\u7977\uff0c\u7f8e\u6d77\u519b\u970d\u5c14\u6728\u5179\u6c34\u96f7\u6e05\u7406\u8fdb\u884c\u4e2d",
+        "zh": "伊斯兰堡和谈超9小时，教皇举行和平祈祷，美国海军水雷清理进行中",
         "en": "Islamabad Talks Extend Beyond 9 Hours, Pope Holds Peace Vigil, US Navy Mine Clearance in Progress"
       },
       "tags": [
@@ -292,7 +318,7 @@
       "file": "2026-04-12T05.md",
       "date": "2026-04-12T05:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u5e73\u8c08\u5224\u8d85\u65f6\u8fdb\u884c\uff0c\u7f8e\u6d77\u519b\u5f00\u59cb\u6e05\u7406\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u6c34\u96f7",
+        "zh": "美伊和谈超时进行，美国海军开始清理霍尔木兹海峡水雷",
         "en": "US-Iran Talks Extend Beyond 9 Hours as Navy Begins Hormuz Mine Clearance"
       },
       "tags": [
@@ -305,7 +331,7 @@
       "file": "2026-04-11T22.md",
       "date": "2026-04-11T22:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u8c08\u5224\u6301\u7eed\u8fdb\u884c\uff1a\u4e2d\u56fd\u89d2\u8272\u5347\u7ea7\uff0c\u970d\u5c14\u6728\u5179\u626b\u96f7\u884c\u52a8",
+        "zh": "美伊谈判持续进行：中国角色升级，霍尔木兹海峡扫雷行动",
         "en": "US-Iran Talks Continue: China's Role Escalates, Hormuz Mine Clearance Operations"
       },
       "tags": [
@@ -318,7 +344,7 @@
       "file": "2026-04-11T20.md",
       "date": "2026-04-11T20:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u548c\u5e73\u8c08\u5224\u8fdb\u5c55\uff0c\u7279\u6717\u666e\u5ba3\u5e03\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u5c06\u91cd\u65b0\u5f00\u653e",
+        "zh": "美伊和谈进展，特朗普宣布霍尔木兹海峡将重新开放",
         "en": "US-Iran Peace Talks Progress, Trump Announces Strait of Hormuz Will Reopen"
       },
       "tags": [
@@ -331,7 +357,7 @@
       "file": "2026-04-11T17.md",
       "date": "2026-04-11T17:00:00+08:00",
       "title": {
-        "zh": "Vance\u62b5\u8fbe\u4f0a\u65af\u5170\u5821\uff1a\u7f8e\u4f0a\u548c\u5e73\u8c08\u5224\u542f\u52a8",
+        "zh": "万斯抵达伊斯兰堡：美伊和谈启动",
         "en": "Vance Arrives in Islamabad: US-Iran Peace Talks Begin"
       },
       "tags": [
@@ -344,8 +370,8 @@
       "file": "2026-04-11T16.md",
       "date": "2026-04-11T16:00:00+08:00",
       "title": {
-        "zh": "Vance\u8d74\u5df4\u548c\u8c08\u505c\u706b\u544a\u6025\uff0c\u4ee5\u519b\u9ece\u5df4\u5ae9\u7a7a\u88ad\u81f4250\u6b7b",
-        "en": "Vance Heads to Pakistan as Ceasefire Hangs by Thread, Israeli Strikes Kill 250+ in Lebanon"
+        "zh": "万斯赴巴和谈停火告急，以军空袭造成黎巴嫩5+人死亡",
+        "en": "Vance Heads to Pakistan as Ceasefire Hangs by Thread, Israeli Strikes Kill 5+ in Lebanon"
       },
       "tags": [
         "military",
@@ -357,7 +383,7 @@
       "file": "2026-04-11T14.md",
       "date": "2026-04-11T14:00:00+08:00",
       "title": {
-        "zh": "\u4e07\u65af\u8d74\u5df4\u8c08\u5224\uff1a\u4ee5\u8272\u5217\u8f70\u70b8\u9ece\u5df4\u5ae9\uff0c\u7f8e\u4f0a\u548c\u5e73\u8fdb\u7a0b\u542f\u52a8",
+        "zh": "万斯赴巴谈判：以色列轰炸黎巴嫩，美伊和谈进程启动",
         "en": "Vance Heads to Pakistan: Israel Bombards Lebanon, US-Iran Peace Process Begins"
       },
       "tags": [
@@ -370,7 +396,7 @@
       "file": "2026-04-11T10.md",
       "date": "2026-04-11T10:00:00+08:00",
       "title": {
-        "zh": "\u9ece\u4ee5\u534e\u76db\u987f\u4f1a\u8c08\u786e\u5b9a\uff0c\u7f8e\u4f0a\u5df4\u57fa\u65af\u5766\u548c\u8c08\u542f\u52a8",
+        "zh": "黎以华盛顿会谈确定，美伊巴基斯斯坦和谈启动",
         "en": "Lebanon-Israel Talks Set for Washington, US-Iran Peace Talks Begin in Pakistan"
       },
       "tags": [
@@ -383,7 +409,7 @@
       "file": "2026-04-11T08.md",
       "date": "2026-04-11T08:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u6717\u4ee3\u8868\u56e2\u62b5\u8fbe\u5df4\u57fa\u65af\u5766\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u822a\u8fd0\u5371\u673a\u6301\u7eed",
+        "zh": "伊朗代表团抵达巴基斯坦，霍尔木兹海峡危机持续",
         "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
       },
       "tags": [
@@ -396,7 +422,7 @@
       "file": "2026-04-11T06.md",
       "date": "2026-04-11T06:00:00+08:00",
       "title": {
-        "zh": "\u9ece\u4ee5\u534e\u76db\u987f\u8c08\u5224\u542f\u52a8\uff0c\u6559\u7687\u516c\u5f00\u8c34\u8d23\u4f0a\u6717\u6218\u4e89",
+        "zh": "黎以华盛顿会谈启动，教皇公开谴责伊朗战争",
         "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
       },
       "tags": [
@@ -409,7 +435,7 @@
       "file": "2026-04-11T05.md",
       "date": "2026-04-11T05:00:00+08:00",
       "title": {
-        "zh": "\u51cc\u6668\u65f6\u6bb5\u6682\u65e0\u91cd\u5927\u65b0\u8fdb\u5c55",
+        "zh": "凌晨时段暂无重大新发展",
         "en": "No Major Developments in Early Morning"
       },
       "tags": [
@@ -422,7 +448,7 @@
       "file": "2026-04-11T04.md",
       "date": "2026-04-11T04:00:00+08:00",
       "title": {
-        "zh": "\u4ee5\u519b\u5ba3\u79f0\u51fb\u6740180\u540d\u771f\u4e3b\u515a\u6b66\u88c5\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u901a\u822a\u964d\u81f310%",
+        "zh": "以军声称击杀180名真主党成员，霍尔木兹海峡通行量下降10%",
         "en": "Israel claims 180 Hezbollah killed, Strait of Hormuz traffic drops to 10%"
       },
       "tags": [
@@ -435,8 +461,8 @@
       "file": "2026-04-11T02.md",
       "date": "2026-04-11T02:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u4f0a\u65af\u5170\u5821\u8c08\u5224\u542f\u52a8\uff1a\u4ee5\u8272\u5217\u6301\u7eed\u8f70\u70b8\u9ece\u5df4\u5ae9\uff0c\u4f0a\u6717\u63d0\u51fa\u8c08\u5224\u524d\u63d0\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u8fd0\u8f93\u4f4e\u8ff7",
-        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic\u4f4e\u8ff7"
+        "zh": "美伊伊斯兰堡和谈启动：以色列持续轰炸黎巴嫩，伊朗提出和谈前提，霍尔木兹海峡通行量低",
+        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic Low"
       },
       "tags": [
         "military",
@@ -448,7 +474,7 @@
       "file": "2026-04-11T01.md",
       "date": "2026-04-11T01:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u65af\u5170\u5821\u8c08\u5224\u5728\u5373\uff1a\u4e07\u65af\u542f\u7a0b\u8d74\u5df4\uff0c\u4f0a\u6717\u63d0\u51fa\u505c\u706b\u524d\u63d0\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u4ea4\u901a\u4f4e\u8ff7",
+        "zh": "伊斯兰堡和谈临近：万斯赴巴，伊朗提出停火前提，霍尔木兹海峡通行量低",
         "en": "Islamabad Talks Loom: Vance Departs for Pakistan, Iran Sets Ceasefire Conditions, Hormuz Traffic Remains Low"
       },
       "tags": [
@@ -461,7 +487,7 @@
       "file": "2026-04-10T22.md",
       "date": "2026-04-10T22:00:00+08:00",
       "title": {
-        "zh": "\u7f8e\u4f0a\u6218\u4e89\u52a8\u6001\uff1a\u9ece\u5df4\u5ae9\u7a7a\u88ad\u9020\u6210\u91cd\u5927\u5e73\u6c11\u4f24\u4ea1\uff0c\u4e07\u65af\u8d74\u5df4\u8c08\u5224",
+        "zh": "美伊战争动态：黎巴嫩空袭造成平民伤亡，万斯赴巴和谈",
         "en": "Iran War Developments: Lebanon Strikes Cause Civilian Casualties, Vance to Pakistan"
       },
       "tags": [
@@ -474,7 +500,7 @@
       "file": "2026-04-10T17.md",
       "date": "2026-04-10T17:00:00+08:00",
       "title": {
-        "zh": "\u4f0a\u65af\u5170\u5821\u4f1a\u8c08\u524d\u5915\uff1a\u591a\u56fd\u5916\u4ea4\u5bc6\u96c6\u65a1\u65cb\uff0c\u4f0a\u6717\u94f6\u884c\u6062\u590d\u8fd0\u8425",
+        "zh": "伊斯兰堡和谈前夕：密集外交调解，伊朗银行恢复运营",
         "en": "Eve of Islamabad Talks: Intensive Diplomatic Mediation, Iranian Banks to Resume Operations"
       },
       "tags": [
@@ -487,437 +513,8 @@
       "file": "2026-04-10T16.md",
       "date": "2026-04-10T16:00:00+08:00",
       "title": {
-        "zh": "\u79d1\u5a01\u7279\u6307\u63a7\u4f0a\u6717\u8fdd\u53cd\u505c\u706b\uff0c\u4e4c\u514b\u5170\u51fb\u843d\u4f0a\u6717\u65e0\u4eba\u673a",
+        "zh": "科威特指控伊朗违反停火，乌克兰击落伊朗无人机",
         "en": "Kuwait Accuses Iran of Ceasefire Violation, Ukraine Downs Iranian Drones"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-10T01",
-      "file": "2026-04-10T01.md",
-      "date": "2026-04-10T01:00:00+08:00",
-      "title": {
-        "zh": "\u591a\u56fd\u8c34\u8d23\u9ece\u5df4\u5ae9\u88ad\u51fb\uff0c\u7f8e\u4f0a\u505c\u706b\u4e89\u8bae\u6301\u7eed",
-        "en": "Multiple Countries Condemn Lebanon Attacks, US-Iran Ceasefire Dispute Continues"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T23",
-      "file": "2026-04-09T23.md",
-      "date": "2026-04-09T23:00:00+08:00",
-      "title": {
-        "zh": "IMF\u8b66\u544a\u4f0a\u6717\u6218\u4e89\u62d6\u7d2f\u5168\u7403\u7ecf\u6d4e\u589e\u957f\uff0c\u7ecf\u6d4e\u524d\u666f\u9eef\u6de1",
-        "en": "IMF Warns Iran War Will Slow Global Economic Growth as Outlook Darkens"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T22",
-      "file": "2026-04-09T22.md",
-      "date": "2026-04-09T22:00:00+08:00",
-      "title": {
-        "zh": "\u5fb7\u56fd\u8b66\u544a\u5317\u7ea6\u627f\u538b \u9ece\u5df4\u5ae9\u5411\u8054\u5408\u56fd\u63d0\u4ea4\u63a7\u8bc9 203\u4eba\u4e27\u751f",
-        "en": "Germany Warns NATO Under Pressure, Lebanon Files U.N. Complaint, 203 Dead"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T21",
-      "file": "2026-04-09T21.md",
-      "date": "2026-04-09T21:00:00+08:00",
-      "title": {
-        "zh": "\u7f8e\u4f0a\u505c\u706b\u534f\u8bae\u906d\u4ee5\u8272\u5217\u6311\u6218 \u4f0a\u6717\u5ba3\u5e03\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u66ff\u4ee3\u822a\u7ebf",
-        "en": "US-Iran Ceasefire Challenged by Israel Strikes; Iran Announces Hormuz Alternative Routes"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T20",
-      "file": "2026-04-09T20.md",
-      "date": "2026-04-09T20:00:00+08:00",
-      "title": {
-        "zh": "\u4ee5\u8272\u5217\u7ee7\u7eed\u88ad\u51fb\u9ece\u5df4\u5ae9\u906d\u4f0a\u6717\u8c34\u8d23 \u8bb0\u8005\u6b7b\u4ea1\u4e8b\u4ef6\u5f15\u53d1\u4e89\u8bae",
-        "en": "Israel Continues Lebanon Strikes Condemned by Iran, Journalist Death Sparks Controversy"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T19",
-      "file": "2026-04-09T19.md",
-      "date": "2026-04-09T19:00:00+08:00",
-      "title": {
-        "zh": "\u9ece\u5df4\u5ae9\u5355\u65e5\u6b7b\u4ea1\u521b\u7eaa\u5f55\uff0c\u505c\u706b\u534f\u8bae\u6301\u7eed\u7d27\u5f20",
-        "en": "Lebanon Records Daily Death Toll, Ceasefire Tensions Persist"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T18",
-      "file": "2026-04-09T18.md",
-      "date": "2026-04-09T18:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u534f\u8bae\u6301\u7eed\u7d27\u5f20\uff1a\u7279\u6717\u666e\u589e\u5175\u5a01\u80c1\u7ee7\u7eed\uff0c\u9ece\u5df4\u5ae9\u5c40\u52bf\u5347\u7ea7",
-        "en": "Ceasefire Tensions Persist: Trump Reinforces Troops, Lebanon Situation Escalates"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T17",
-      "file": "2026-04-09T17.md",
-      "date": "2026-04-09T17:00:00+08:00",
-      "title": {
-        "zh": "\u9ece\u5df4\u5ae9\u906d\u88ad\u5f15\u53d1\u5371\u673a\uff1a\u505c\u706b\u534f\u8bae\u906d\u4e25\u91cd\u8fdd\u7ea6\uff0c\u6cb9\u4ef7\u53cd\u5f39",
-        "en": "Lebanon Crisis: Ceasefire Seriously Breached, Oil Prices Rebound"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T16",
-      "file": "2026-04-09T16.md",
-      "date": "2026-04-09T16:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u9047\u632b\uff1a\u7279\u6717\u666e\u589e\u5175\u5a01\u80c1\u6b66\u529b\uff0c\u9ece\u4ee5\u51b2\u7a81\u9020\u6210\u4e25\u91cd\u5e73\u6c11\u4f24\u4ea1",
-        "en": "Ceasefire Under Pressure: Trump Reinforces Troops Threatens Force, Lebanon-Israel Conflict Causes Heavy Civilian Casualties"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T12",
-      "file": "2026-04-09T12.md",
-      "date": "2026-04-09T12:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u534f\u8bae\u9762\u4e34\u65b0\u6311\u6218\uff1a\u7279\u6717\u666e\u589e\u5175\u4e2d\u4e1c\uff0c\u8054\u5408\u56fd\u8b66\u544a\u9ece\u5df4\u5ae9\u884c\u52a8\u98ce\u9669",
-        "en": "Ceasefire Faces New Challenges: Trump Reinforces Middle East, UN Warns on Lebanon Risk"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T06",
-      "file": "2026-04-09T06.md",
-      "date": "2026-04-09T06:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u534f\u8bae\u52a8\u6447\uff1a\u4f0a\u6717\u6307\u63a7\u7f8e\u56fd\u8fdd\u53cd\u6846\u67b6\uff0c\u4ee5\u8272\u5217\u6269\u5927\u9ece\u5df4\u5ae9\u6253\u51fb",
-        "en": "Ceasefire Shaken: Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T02",
-      "file": "2026-04-09T02.md",
-      "date": "2026-04-09T02:00:00+08:00",
-      "title": {
-        "zh": "\u4f0a\u6717\u56e0\u9ece\u5df4\u5ae9\u88ad\u51fb\u5173\u95ed\u970d\u5c14\u6728\u5179\u6d77\u5ce1",
-        "en": "Iran Closes Strait of Hormuz After Lebanon Strikes"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-09T00",
-      "file": "2026-04-09T00.md",
-      "date": "2026-04-09T00:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u79f0\u5c06\u4e0e\u4f0a\u6717\u5408\u4f5c\u5f00\u91c7\u94c0\u6d53\u7f29\u6750\u6599\uff0c\u4ee5\u8272\u5217\u7ee7\u7eed\u8f70\u70b8\u8d1d\u9c81\u7279",
-        "en": "Trump Says US to Work with Iran on Uranium Digging, Israel Continues Beirut Bombing"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T23",
-      "file": "2026-04-08T23.md",
-      "date": "2026-04-08T23:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u534f\u8bae\u521d\u6b65\u751f\u6548\uff0c\u4ee5\u8272\u5217\u7ee7\u7eed\u6253\u51fb\u9ece\u5df4\u5ae9\u771f\u4e3b\u515a",
-        "en": "Ceasefire Holds as Israel Continues Strikes on Hezbollah in Lebanon"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T21",
-      "file": "2026-04-08T21.md",
-      "date": "2026-04-08T21:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u534f\u8bae\u540e\u7eed\u53d1\u5c55\uff1a\u4f0a\u6717\u603b\u7edf\u5f3a\u786c\u8868\u6001\uff0c\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u901a\u884c\u95ee\u9898\u6301\u7eed",
-        "en": "Ceasefire Follow-up: Iranian President Takes Hardline Stance, Hormuz Transit Issues Persist"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T20",
-      "file": "2026-04-08T20.md",
-      "date": "2026-04-08T20:00:00+08:00",
-      "title": {
-        "zh": "\u4f0a\u6717\u62df\u5f81\u6536\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u901a\u884c\u8d39\uff0c\u505c\u706b\u540e\u65b0\u5c40\u52bf\u5c55\u5f00",
-        "en": "Iran Plans Hormuz Strait Transit Fees, New Phase After Ceasefire"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T19",
-      "file": "2026-04-08T19.md",
-      "date": "2026-04-08T19:00:00+08:00",
-      "title": {
-        "zh": "\u505c\u706b\u540e\u77f3\u6cb9\u66b4\u8dcc\uff0c\u7f8e\u4f0a\u51b2\u7a81\u6301\u7eed\u5347\u7ea7",
-        "en": "Oil Prices Plunge After Ceasefire, US-Iran Tensions Persist"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T18",
-      "file": "2026-04-08T18.md",
-      "date": "2026-04-08T18:00:00+08:00",
-      "title": {
-        "zh": "\u4f0a\u6717\u5ba3\u5e03\u80dc\u5229 \u505c\u706b\u540e talks \u5c06\u5728\u4f0a\u65af\u5170\u5821\u8fdb\u884c",
-        "en": "Iran Claims Victory as Post-Ceasefire Talks Planned in Islamabad"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T16",
-      "file": "2026-04-08T16.md",
-      "date": "2026-04-08T16:00:00+08:00",
-      "title": {
-        "zh": "\u9ece\u4ee5\u8fb9\u5883\u51b2\u7a81\u6301\u7eed \u5e02\u573a\u5f3a\u52bf\u53cd\u5f39",
-        "en": "Lebanon Conflict Continues as Markets Rally"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T14",
-      "file": "2026-04-08T14.md",
-      "date": "2026-04-08T14:00:00+08:00",
-      "title": {
-        "zh": "\u5df4\u6797\u906d\u9047\u7206\u70b8\u88ad\u51fb\uff0c\u505c\u706b\u534f\u8bae\u6392\u9664\u9ece\u5df4\u5ae9",
-        "en": "Bahrain Blast Despite Ceasefire, Deal Excludes Lebanon"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T11",
-      "file": "2026-04-08T11.md",
-      "date": "2026-04-08T11:00:00+08:00",
-      "title": {
-        "zh": "\u7f8e\u4f0a\u8fbe\u6210\u4e24\u5468\u505c\u706b\u534f\u8bae\uff0c\u4ee5\u8272\u5217\u8868\u793a\u4e0d\u5305\u542b\u5bf9\u771f\u4e3b\u515a\u6218\u6597",
-        "en": "US and Iran Agree to Two-Week Ceasefire, Israel Excludes Hezbollah Fighting"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T09",
-      "file": "2026-04-08T09.md",
-      "date": "2026-04-08T09:00:00+08:00",
-      "title": {
-        "zh": "\u7b2c\u516d\u6b21\u505c\u706b\u5ef6\u671f\u8c08\u5224\u5f00\u542f\uff0c\u4f0a\u6717\u897f\u90e8\u519b\u4e8b\u51b2\u7a81\u5347\u7ea7",
-        "en": "Sixth Ceasefire Extension Talks Begin, Iranian Western Region Conflict Escalates"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T07",
-      "file": "2026-04-08T07.md",
-      "date": "2026-04-08T07:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u5ba3\u5e03\u4e24\u5468\u505c\u706b\u534f\u8bae\uff0c\u907f\u514d\u6587\u660e\u5a01\u80c1\u5b9e\u73b0",
-        "en": "Trump Announces Two-Week Cease-Fire, Avoids Civilization Threat"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T05",
-      "file": "2026-04-08T05.md",
-      "date": "2026-04-08T05:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u5a01\u80c1\u6467\u6bc1\u6587\u660e\u4e0e\u4f0a\u6717\u6269\u5927\u53cd\u5236",
-        "en": "Trump Threatens Civilization Destruction, Iran Escalates Countermeasures"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T04",
-      "file": "2026-04-08T04.md",
-      "date": "2026-04-08T04:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u518d\u53d1'\u6587\u660e\u6b7b\u4ea1\u5a01\u80c1' \u591a\u56fd\u7d27\u6025\u5e94\u5bf9\u8054\u5408\u56fd\u8868\u51b3\u53d7\u963b",
-        "en": "Trump Issues Another 'Civilization Death Threat' Multiple Countries Respond Urgently as UN Vote Blocked"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T03",
-      "file": "2026-04-08T03.md",
-      "date": "2026-04-08T03:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e'\u6587\u660e\u6bc1\u706d'\u5a01\u80c1\u5f15\u7206\u56fd\u9645\u8c34\u8d23 \u4f0a\u6717\u5bfc\u5f39\u7b2c7\u6b21\u88ad\u51fb\u4ee5\u8272\u5217",
-        "en": "Trump's 'Civilization Destruction' Threat Sparks International Condemnation, Iran Fires 7th Missile Barrage at Israel"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T02",
-      "file": "2026-04-08T02.md",
-      "date": "2026-04-08T02:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u5a01\u80c1\u6467\u6bc1\u4f0a\u6717\u80fd\u6e90\u8bbe\u65bd \u4f0a\u6717\u62d2\u7edd\u505c\u706b\u8c08\u5224\u9677\u5165\u50f5\u5c40",
-        "en": "Trump threatens Iran energy destruction as Tehran rejects ceasefire talks deadlock"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-08T00",
-      "file": "2026-04-08T00.md",
-      "date": "2026-04-08T00:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e'\u6587\u660e\u6b7b\u4ea1\u8b66\u544a'\u5347\u6e29\uff0c\u7f8e\u4ee5\u518d\u5ea6\u6253\u51fb\u4f0a\u6717\u57fa\u7840\u8bbe\u65bd",
-        "en": "Trump 'Civilization Death Warning' Escalates, US-Israel Strike Iranian Infrastructure Again"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T23",
-      "file": "2026-04-07T23.md",
-      "date": "2026-04-07T23:00:00+08:00",
-      "title": {
-        "zh": "Deadline\u524d\u591c\uff1a\u4ee5\u8272\u5217\u786e\u8ba4\u6253\u51fb8\u5ea7\u6865\u6881\uff0c\u7279\u6717\u666e\u906d\u4e24\u515a\u62a8\u51fb\uff0c\u4f0a\u6717\u5173\u95ed\u5bf9\u7f8e\u5916\u4ea4\u6e20\u9053\uff0c\u82f1\u56fd\u62d2\u7edd\u7f8e\u519b\u4f7f\u7528\u57fa\u5730",
-        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges, Trump Criticized by Both Parties, Iran Closes Diplomatic Channels with US, UK Refuses US Base Access"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T22",
-      "file": "2026-04-07T22.md",
-      "date": "2026-04-07T22:00:00+08:00",
-      "title": {
-        "zh": "\u54c8\u5c14\u514b\u5c9b\u906d\u591a\u6b21\u6253\u51fb\uff0c\u7279\u6717\u666e\u53d1\u51fa'\u6587\u660e\u6d88\u4ea1'\u5a01\u80c1\uff0c\u4f0a\u6717\u8a93\u8a00\u8de8\u533a\u57df\u62a5\u590d",
-        "en": "Kharg Island Hit Multiple Times, Trump Issues 'Civilization Will Die' Threat, Iran Vows Cross-Regional Retaliation"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T21",
-      "file": "2026-04-07T21.md",
-      "date": "2026-04-07T21:00:00+08:00",
-      "title": {
-        "zh": "Deadline\u5012\u8ba1\u65f6\uff1a\u7a7a\u88ad\u4f0a\u6717\u6865\u6881\u706b\u8f66\u7ad9\uff0c\u7279\u6717\u666e\u79f0'\u6574\u4e2a\u6587\u660e\u4eca\u665a\u5c06\u6d88\u4ea1'\uff0c\u7f8e\u519b\u518d\u6b21\u6253\u51fb\u54c8\u5c14\u514b\u5c9b",
-        "en": "Countdown to Deadline: Airstrikes Hit Iranian Bridges and Train Station, Trump Warns 'Whole Civilization Will Die Tonight', US Strikes Kharg Island Again"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T19",
-      "file": "2026-04-07T19.md",
-      "date": "2026-04-07T19:00:00+08:00",
-      "title": {
-        "zh": "\u7279\u6717\u666e\u8b66\u544a\u671f\u9650\u5230\u4e34\uff1a\u4ee5\u8272\u5217\u8b66\u544a\u4f0a\u6717\u4eba\u505c\u7528\u706b\u8f66\uff0c\u6c99\u7279\u5173\u95ed\u4e0e\u5df4\u6797\u901a\u9053",
-        "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
-      },
-      "tags": [
-        "military",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "2026-04-07T18",
-      "file": "2026-04-07T18.md",
-      "date": "2026-04-07T18:00:00+08:00",
-      "title": {
-        "zh": "Deadline\u5230\u671f\u524d\u5915\uff1a\u4f0a\u6717\u62d2\u7edd\u4e34\u65f6\u505c\u706b\uff0c\u7279\u6717\u666e\u5a01\u80c14\u5c0f\u65f6\u6467\u6bc1\u57fa\u7840\u8bbe\u65bd",
-        "en": "Eve of Deadline: Iran Rejects Ceasefire, Trump Threatens to Destroy Infrastructure in 4 Hours"
       },
       "tags": [
         "military",
