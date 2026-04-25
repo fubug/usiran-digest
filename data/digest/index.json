@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-26T01:00:00+08:00",
+  "updated": "2026-04-26T07:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-26T07",
+      "file": "2026-04-26T07.md",
+      "date": "2026-04-26T07:00:00+08:00",
+      "title": {
+        "zh": "伊朗拒绝直接谈判，美国特使继续行程，和谈前景不明",
+        "en": "Iran Rejects Direct Talks, US Envoys Continue Journey, Peace Prospects Uncertain"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-26T01",
       "file": "2026-04-26T01.md",
