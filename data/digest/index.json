@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-25T23:00:00+08:00",
+  "updated": "2026-04-26T01:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-26T01",
+      "file": "2026-04-26T01.md",
+      "date": "2026-04-26T01:00:00+08:00",
+      "title": {
+        "zh": "特朗普取消特使伊朗和谈，黎巴嫩伤亡更新",
+        "en": "Trump Cancels Iran Peace Envoy Trip, Lebanon Casualty Update"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-25T23",
       "file": "2026-04-25T23.md",
@@ -10,7 +23,7 @@
         "en": "US Envoys Head to Pakistan Today for Iran Peace Talks, Strategic Talks Enter New Phase"
       },
       "tags": [
-        "diplomacy",
+        "diplomatic",
         "military"
       ]
     },
@@ -112,7 +125,7 @@
     {
       "id": "2026-04-25T05",
       "file": "2026-04-25T05.md",
-      "date": "2026-04-25T05:00+08:00",
+      "date": "2026-04-25T05:00:08:00",
       "title": {
         "zh": "美伊局势动态 - 2026-04-25T05",
         "en": "US-Iran Developments - 2026-04-25T05"
@@ -122,7 +135,7 @@
     {
       "id": "2026-04-25T07",
       "file": "2026-04-25T07.md",
-      "date": "2026-04-25T07:00+08:00",
+      "date": "2026-04-25T07:00:08:00",
       "title": {
         "zh": "美伊局势动态 - 2026-04-25T07",
         "en": "US-Iran Developments - 2026-04-25T07"
