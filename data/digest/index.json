@@ -1,12 +1,25 @@
 {
-  "updated": "2026-04-25T00:00:00+08:00",
+  "updated": "2026-04-25T12:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-25T12",
+      "file": "2026-04-25T12.md",
+      "date": "2026-04-25T12:00:00+08:00",
+      "title": {
+        "zh": "\u7f8e\u4f0a\u548c\u8c08\u6301\u7eed\u63a8\u8fdb\uff0c\u4f0a\u6717\u5916\u957f\u62b5\u5df4\u8c08\u5224",
+        "en": "US-Iran Peace Talks Intensify as Iranian Foreign Minister Arrives in Pakistan"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-24T18",
       "file": "2026-04-24T18.md",
       "date": "2026-04-24T18:00:00+08:00",
       "title": {
-        "zh": "美伊和谈再获进展，黎以停火延期三周",
+        "zh": "\u7f8e\u4f0a\u548c\u8c08\u518d\u83b7\u8fdb\u5c55\uff0c\u9ece\u4ee5\u505c\u706b\u5ef6\u671f\u4e09\u5468",
         "en": "US-Iran Peace Talks Make Progress, Israel-Lebanon Ceasefire Extended by 3 Weeks"
       },
       "tags": [
