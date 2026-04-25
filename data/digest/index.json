@@ -1,6 +1,32 @@
 {
-  "updated": "2026-04-25T21:00:00+08:00",
+  "updated": "2026-04-25T22:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-25T22",
+      "file": "2026-04-25T22.md",
+      "date": "2026-04-25T22:00:00+08:00",
+      "title": {
+        "zh": "美军在霍尔木兹海峡扫雷 伊朗战争经济影响持续",
+        "en": "US Hunts for Mines in Strait of Hormuz, Iran War Economic Impact Lingers"
+      },
+      "tags": [
+        "military",
+        "economy"
+      ]
+    },
+    {
+      "id": "2026-04-25T21",
+      "file": "2026-04-25T21.md",
+      "date": "2026-04-25T21:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈持续推进：伊朗明确拒绝直接会谈",
+        "en": "US-Iran Diplomatic Continuation: Iran Rejects Direct Talks"
+      },
+      "tags": [
+        "diplomacy",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-04-25T21",
       "file": "2026-04-25T21.md",
@@ -68,8 +94,8 @@
       "file": "2026-04-25T02.md",
       "date": "2026-04-25T02:00+08:00",
       "title": {
-        "zh": "美伊局势动态 - 2026-04-25T02",
-        "en": "US-Iran Developments - 2026-04-25T02"
+        "zh": "美国派遣特使赴巴会谈，以黎停火遭破坏",
+        "en": "US Envoy to Pakistan for Iran Talks, Ceasefire Sabotage in Lebanon"
       },
       "tags": []
     },
