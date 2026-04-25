@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-25T22:00:00+08:00",
+  "updated": "2026-04-25T23:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-25T23",
+      "file": "2026-04-25T23.md",
+      "date": "2026-04-25T23:00:00+08:00",
+      "title": {
+        "zh": "美国特使今日赴巴进行伊朗和谈，战略会谈进入新阶段",
+        "en": "US Envoys Head to Pakistan Today for Iran Peace Talks, Strategic Talks Enter New Phase"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-25T22",
       "file": "2026-04-25T22.md",
@@ -12,19 +25,6 @@
       "tags": [
         "military",
         "economy"
-      ]
-    },
-    {
-      "id": "2026-04-25T21",
-      "file": "2026-04-25T21.md",
-      "date": "2026-04-25T21:00:00+08:00",
-      "title": {
-        "zh": "美伊和谈持续推进：伊朗明确拒绝直接会谈",
-        "en": "US-Iran Diplomatic Continuation: Iran Rejects Direct Talks"
-      },
-      "tags": [
-        "diplomacy",
-        "middle-east"
       ]
     },
     {
