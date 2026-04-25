@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-25T05:00:00+08:00",
+  "updated": "2026-04-25T07:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-25T07",
+      "file": "2026-04-25T07.md",
+      "date": "2026-04-25T07:00:00+08:00",
+      "title": {
+        "zh": "美巴新一轮和谈启动，伊外长抵达伊斯兰堡",
+        "en": "New US-Pakistan Peace Talks Begin, Iranian Foreign Minister Arrives in Islamabad"
+      },
+      "tags": [
+        "diplomacy",
+        "military"
+      ]
+    },
     {
       "id": "2026-04-25T05",
       "file": "2026-04-25T05.md",
