@@ -1,0 +1,2 @@
+Audit ID,Timestamp,Target File,File Size,Basic Checks,Source Validation,Data Accuracy,Time Format,Time Logic,Language Quality,Overall Score,Compliance Level,Recommendation
+2026-04-26T23,2026-04-27 00:10,2026-04-26T23.md,2935,⚠️ Partial,🔅 Critical Fail,⚠️ Major Issue,❌ Invalid,❌ Inconsistent,✅ Good,4/10,Non-Comprehensive,Requires Major Revision
