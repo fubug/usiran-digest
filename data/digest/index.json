@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-26T18:00:00Z",
+  "updated": "2026-04-26T22:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-26T22",
+      "file": "2026-04-26T22.md",
+      "date": "2026-04-26T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：和谈进程持续僵化",
+        "en": "Iran War Developments: Peace Talks Remain Stalled"
+      },
+      "tags": [
+        "military"
+      ]
+    },
     {
       "id": "2026-04-26T18",
       "file": "2026-04-26T18.md",
