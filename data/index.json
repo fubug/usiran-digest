@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "id": "2026-04-26T20",
+      "date": "2026-04-26T20:00:00+08:00",
+      "title": {
+        "zh": "伊朗和谈进程遭遇重大挫折，特朗普取消特使巴基斯坦行程",
+        "en": "Iran Peace Talks Hit Major Setback, Trump Cancels Pakistan Envoys Trip"
+      },
+      "tags": [
+        "diplomacy",
+        "military",
+        "politics"
+      ],
+      "file": "data/digest/2026-04-26T20.md"
+    },
+    {
       "id": "2026-04-24T12",
       "date": "2026-04-24T12:00:00+08:00",
       "title": {

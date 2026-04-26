@@ -9,7 +9,10 @@
         "zh": "特朗普突然取消特使巴基斯坦行程，和谈进程遭遇重大挫折",
         "en": "Trump Suddenly Cancels Envoys' Pakistan Trip, Peace Process Faces Major Setback"
       },
-      "tags": ["diplomacy", "politics"]
+      "tags": [
+        "diplomacy",
+        "politics"
+      ]
     },
     {
       "id": "2026-04-26T07",
@@ -110,6 +113,25 @@
         "en": "Technical Update: Iran-US Situation Monitoring Resumed"
       },
       "tags": []
+    }
+  ],
+  "digests": [
+    {
+      "file": "2026-04-26T20.md",
+      "timestamp": "2026-04-26T20:00:00+08:00",
+      "title": "Iran War Digest - 2026-04-26T20:00+08:00 (Beijing Time)",
+      "content_type": "Iran War Digest",
+      "source": "CBS News, AP News",
+      "status": "published",
+      "keywords": [
+        "Iran war",
+        "peace talks",
+        "Pakistan",
+        "Trump administration",
+        "Strait of Hormuz"
+      ],
+      "word_count": 170,
+      "updated_at": "2026-04-26T20:00:00+08:00"
     }
   ]
 }
