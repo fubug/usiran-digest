@@ -1,6 +1,21 @@
 {
-  "updated": "2026-04-27T21:00:00+08:00",
+  "updated": "2026-04-27T06:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-27T06",
+      "file": "2026-04-27T06.md",
+      "date": "2026-04-27T06:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈持续停滞，军事对峙升级，黎以冲突持续",
+        "en": "US-Iran Talks Remain Stalled, Military Standoff Escalates, Lebanon-Israel Conflict Continues"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "escalation",
+        "israel-hezbollah"
+      ]
+    },
     {
       "id": "2026-04-27T21",
       "file": "2026-04-27T21.md",
