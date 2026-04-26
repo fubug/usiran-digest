@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "id": "2026-04-27T04",
+      "date": "2026-04-27T04:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈彻底破裂，军事对峙升级，中东局势持续紧张",
+        "en": "US-Iran Talks Completely Collapse, Military Standoff Escalates, Middle East Tensions Persist"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "escalation"
+      ],
+      "file": "data/digest/2026-04-27T04.md"
+    },
+    {
       "id": "2026-04-26T20",
       "date": "2026-04-26T20:00:00+08:00",
       "title": {
@@ -353,6 +367,6 @@
       "file": "2026-04-06T09.md"
     }
   ],
-  "generated_at": "2026-04-08T21:00:00+08:00",
-  "total_files": 27
+  "generated_at": "2026-04-27T04:00:00+08:00",
+  "total_files": 28
 }
