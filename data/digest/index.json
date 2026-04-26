@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-26T17:00:00+08:00",
+  "updated": "2026-04-26T18:00:00Z",
   "files": [
+    {
+      "id": "2026-04-26T18",
+      "file": "2026-04-26T18.md",
+      "date": "2026-04-26T18:00:00Z",
+      "title": {
+        "zh": "美伊局势现状报告：和谈破裂后各方反应",
+        "en": "US-Iran Situation Update: Reactions After Talks Collapse"
+      },
+      "tags": [
+        "diplomacy",
+        "politics"
+      ]
+    },
     {
       "id": "2026-04-26T17",
       "file": "2026-04-26T17.md",
