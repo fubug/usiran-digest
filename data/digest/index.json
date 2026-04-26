@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-26T15:00:00+08:00",
+  "updated": "2026-04-26T16:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-26T16",
+      "file": "2026-04-26T16.md",
+      "date": "2026-04-26T16:00:00+08:00",
+      "title": {
+        "zh": "和谈进程彻底中断：特朗普取消特使巴基斯坦行程，伊朗强硬表态",
+        "en": "Peace Talks Completely Collapse: Trump Cancels Envoys' Pakistan Trip, Iran Takes Hardline Stance"
+      },
+      "tags": [
+        "diplomacy",
+        "politics"
+      ]
+    },
     {
       "id": "2026-04-26T15",
       "file": "2026-04-26T15.md",
