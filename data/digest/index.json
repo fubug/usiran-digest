@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-26T08:00:00+08:00",
+  "updated": "2026-04-26T15:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-26T15",
+      "file": "2026-04-26T15.md",
+      "date": "2026-04-26T15:00:00+08:00",
+      "title": {
+        "zh": "和谈进程严重受挫：特朗普取消巴基斯坦和谈，伊朗外长离巴返国",
+        "en": "Talks Severely Setback: Trump Cancels Pakistan Peace Mission, Iranian FM Leaves Pakistan"
+      },
+      "tags": [
+        "diplomacy",
+        "politics"
+      ]
+    },
     {
       "id": "2026-04-26T08",
       "file": "2026-04-26T08.md",
