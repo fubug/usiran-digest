@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-27T03:00:00+08:00",
+  "updated": "2026-04-27T21:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-27T21",
+      "file": "2026-04-27T21.md",
+      "date": "2026-04-27T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续监控和局势评估",
+        "en": "Iran War Developments: Continuous Monitoring and Situation Assessment"
+      },
+      "tags": [
+        "military",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-04-27T03",
       "file": "2026-04-27T03.md",
