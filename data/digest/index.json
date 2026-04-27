@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-27T09:00:00+08:00",
+  "updated": "2026-04-27T10:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-27T10",
+      "file": "2026-04-27T10.md",
+      "date": "2026-04-27T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：中东地区军事紧张局势升级",
+        "en": "Iran War Developments: Middle East Military Tensions Escalate"
+      },
+      "tags": [
+        "military",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-04-27T09",
       "file": "2026-04-27T09.md",
