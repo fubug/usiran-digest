@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-27T21:02:00+08:00",
+  "updated": "2026-04-28T01:02:00+08:00",
   "files": [
+    {
+      "id": "2026-04-28T01",
+      "file": "2026-04-28T01.md",
+      "date": "2026-04-28T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：夜间军事监控与局势稳定维持",
+        "en": "Iran War Developments: Nighttime Military Monitoring, Situation Stable"
+      },
+      "tags": [
+        "military",
+        "monitoring",
+        "stability"
+      ]
+    },
     {
       "id": "2026-04-27T10",
       "file": "2026-04-27T10.md",
