@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T10:00:00+08:00",
+  "updated": "2026-04-27T21:02:00+08:00",
   "files": [
     {
       "id": "2026-04-27T10",
@@ -263,6 +263,20 @@
       ],
       "word_count": 170,
       "updated_at": "2026-04-26T20:00:00+08:00"
+    }
+  ],
+  "audits": [
+    {
+      "file": "audit-report-2026-04-27T21.md",
+      "timestamp": "2026-04-27T21:02:00+08:00",
+      "title": "Quality Compliance Audit Report",
+      "content_type": "Quality Audit",
+      "target_file": "2026-04-27T21.md",
+      "quality_score": "2/10",
+      "status": "severe_violations",
+      "recommendation": "must_recreate",
+      "auditor": "usiran-digest-check",
+      "updated_at": "2026-04-27T21:02:00+08:00"
     }
   ]
 }
