@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "id": "2026-04-27T13",
+      "date": "2026-04-27T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：午后军事活动持续，外交僵局未解",
+        "en": "Iran War Developments: Afternoon Military Activity Continues, Diplomatic Deadlock Persists"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east"
+      ],
+      "file": "data/digest/2026-04-27T13.md"
+    },
+    {
       "id": "2026-04-27T04",
       "date": "2026-04-27T04:00:00+08:00",
       "title": {
@@ -367,6 +381,6 @@
       "file": "2026-04-06T09.md"
     }
   ],
-  "generated_at": "2026-04-27T04:00:00+08:00",
-  "total_files": 28
+  "generated_at": "2026-04-27T14:00:00+08:00",
+  "total_files": 29
 }
