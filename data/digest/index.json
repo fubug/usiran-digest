@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-28T07:04:00+08:00",
+  "updated": "2026-04-28T09:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-28T09",
+      "file": "2026-04-28T09.md",
+      "date": "2026-04-28T09:00:00+08:00",
+      "title": {
+        "zh": "美伊局势新动向：国际社会呼吁紧急会议",
+        "en": "New Developments in US-Iran Crisis: International Community Urges Emergency Meeting"
+      },
+      "tags": [
+        "diplomacy",
+        "middle-east",
+        "international-relations"
+      ]
+    },
     {
       "id": "2026-04-28T07",
       "file": "2026-04-28T07.md",
