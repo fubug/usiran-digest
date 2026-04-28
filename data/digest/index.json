@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-28T20:02:00+08:00",
+  "updated": "2026-04-29T06:05:14+08:00",
   "files": [
+    {
+      "id": "2026-04-28T22",
+      "file": "digest-2026-04-28T22.md",
+      "date": "2026-04-28T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事维持现状与区域稳定观察",
+        "en": "Iran War Developments: Military Status Quo and Regional Stability Observation"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-04-28T20",
       "file": "2026-04-28T20.md",
