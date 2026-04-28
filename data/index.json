@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "id": "2026-04-28T15",
+      "date": "2026-04-28T15:00:00+08:00",
+      "title": {
+        "zh": "维也纳和谈深入，油价继续回落，外交解决可能性提升",
+        "en": "Vienna Talks Deepen, Oil Prices Continue to Fall, Diplomatic Solution Possibility Increases"
+      },
+      "tags": [
+        "diplomacy",
+        "military",
+        "energy-security"
+      ],
+      "file": "data/digest/2026-04-28T15.md"
+    },
+    {
       "id": "2026-04-27T13",
       "date": "2026-04-27T13:00:00+08:00",
       "title": {
@@ -381,6 +395,6 @@
       "file": "2026-04-06T09.md"
     }
   ],
-  "generated_at": "2026-04-27T14:00:00+08:00",
-  "total_files": 29
+  "generated_at": "2026-04-28T15:00:00+08:00",
+  "total_files": 30
 }

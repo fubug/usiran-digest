@@ -1,14 +1,18 @@
 {
-<<<<<<< HEAD
-  "updated": "2026-04-28T14:08:08+08:00",
+  "updated": "2026-04-28T14:04:00+08:00",
   "files": [
     {
       "id": "2026-04-28T14",
-      "file": "2026-04-28T06.md",
-      "date": "2026-04-28T14:08:08+08:00",
-=======
-  "updated": "2026-04-28T15:10:00+08:00",
-  "files": [
+      "file": "2026-04-28T14.md",
+      "date": "2026-04-28T14:04:00+08:00",
+      "title": {
+        "zh": "美伊紧张局势持续：外交僵持与军事对峙加剧",
+        "en": "US-Iran Tensions Escalate: Diplomatic Deadlock and Military Standoff Intensify"
+      },
+      "tags": [
+        "military"
+      ]
+    },
     {
       "id": "2026-04-28T07",
       "file": "2026-04-28T07.md",
@@ -30,7 +34,6 @@
       "id": "2026-04-28T14",
       "file": "2026-04-28T06.md",
       "date": "2026-04-28T14:06:19+08:00",
->>>>>>> 0a1b8f6 (update: 2026-04-28T07 digest - hourly monitoring with enhanced data quality and compliance audit)
       "title": {
         "zh": "美伊战争僵持升级：伊朗要求安全保证，韩国医疗供应链受冲击",
         "en": "US-Iran Stalemate Escalates: Iran Demands Security Guarantees, South Korea Medical Supply Chain Impacted"
