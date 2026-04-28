@@ -323,6 +323,18 @@
   ],
   "audits": [
     {
+      "file": "digest-quality-audit-2026-04-28T09.md",
+      "timestamp": "2026-04-28T09:07:00+08:00",
+      "title": "Quality Compliance Audit Report",
+      "content_type": "Quality Audit",
+      "target_file": "2026-04-28T09.md",
+      "quality_score": "7/10",
+      "status": "minor_violations",
+      "recommendation": "pass_with_improvements",
+      "auditor": "usiran-digest-check",
+      "updated_at": "2026-04-28T09:07:00+08:00"
+    },
+    {
       "file": "audit-report-2026-04-27T21.md",
       "timestamp": "2026-04-27T21:02:00+08:00",
       "title": "Quality Compliance Audit Report",
