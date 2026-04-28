@@ -1,10 +1,36 @@
 {
+<<<<<<< HEAD
   "updated": "2026-04-28T14:08:08+08:00",
   "files": [
     {
       "id": "2026-04-28T14",
       "file": "2026-04-28T06.md",
       "date": "2026-04-28T14:08:08+08:00",
+=======
+  "updated": "2026-04-28T15:10:00+08:00",
+  "files": [
+    {
+      "id": "2026-04-28T07",
+      "file": "2026-04-28T07.md",
+      "date": "2026-04-28T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：美伊海军对峙升级，国际油价维持高位",
+        "en": "Iran War Developments: US-Iran Naval Standoff Escalates, Oil Prices Remain High"
+      },
+      "tags": [
+        "iran-war",
+        "military",
+        "diplomacy",
+        "middle-east",
+        "energy-security",
+        "crisis-response"
+      ]
+    },
+    {
+      "id": "2026-04-28T14",
+      "file": "2026-04-28T06.md",
+      "date": "2026-04-28T14:06:19+08:00",
+>>>>>>> 0a1b8f6 (update: 2026-04-28T07 digest - hourly monitoring with enhanced data quality and compliance audit)
       "title": {
         "zh": "美伊战争僵持升级：伊朗要求安全保证，韩国医疗供应链受冲击",
         "en": "US-Iran Stalemate Escalates: Iran Demands Security Guarantees, South Korea Medical Supply Chain Impacted"
