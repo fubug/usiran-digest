@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-28T14:04:00+08:00",
+  "updated": "2026-04-28T20:02:00+08:00",
   "files": [
+    {
+      "id": "2026-04-28T20",
+      "file": "2026-04-28T20.md",
+      "date": "2026-04-28T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：外交积极信号显现，紧张局势略有缓和",
+        "en": "Iran War Developments: Diplomatic Signals Emerge, Tensions Slightly Eased"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-04-28T14",
       "file": "2026-04-28T14.md",
