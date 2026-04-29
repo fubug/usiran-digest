@@ -18,6 +18,36 @@ except ImportError:
 
 class DigestAuditor:
     def __init__(self, digest_file_path):
+        # If no file path provided, use the most recent digest file
+        if not digest_file_path:
+            current_time = datetime.now(timezone.utc)
+            target_hour = (current_time.hour - 1) % 24
+            target_date = current_time.strftime('%Y-%m-%d')
+            
+            # Try multiple possible file names
+            possible_files = [
+                f"/root/.openclaw/workspace/usiran-digest/data/digest/{target_date}T{target_hour:02d}.md",
+                f"/root/.openclaw/workspace/usiran-digest/data/digest/digest-{target_date}T{target_hour:02d}.md",
+                f"/root/.openclaw/workspace/data/digest/digest-{target_date}T{target_hour:02d}.md",
+                f"/root/.openclaw/workspace/digest-{target_date}T{target_hour:02d}.md"
+            ]
+            
+            for file_path in possible_files:
+                if os.path.exists(file_path):
+                    digest_file_path = file_path
+                    break
+            
+            if not digest_file_path or not os.path.exists(digest_file_path):
+                # Find the most recent digest file
+                digest_dir = "/root/.openclaw/workspace/usiran-digest/data/digest/"
+                if os.path.exists(digest_dir):
+                    files = os.listdir(digest_dir)
+                    digest_files = [f for f in files if f.endswith('.md') and '2026-04-29T' in f]
+                    if digest_files:
+                        # Sort by name to get the most recent
+                        digest_files.sort()
+                        digest_file_path = os.path.join(digest_dir, digest_files[-1])
+        
         self.digest_file_path = digest_file_path
         self.audit_results = {
             "basic_info": {},
