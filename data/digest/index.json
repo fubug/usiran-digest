@@ -1,6 +1,36 @@
 {
-  "updated": "2026-04-29T06:05:14+08:00",
+  "updated": "2026-04-29T14:08:00+08:00",
   "files": [
+    {
+      "id": "2026-04-29T14",
+      "file": "digest-2026-04-29T14.md",
+      "date": "2026-04-29T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续对峙与国际外交表态增加",
+        "en": "Iran War Developments: Continued Standoff and Increased International Diplomatic Statements"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "international"
+      ]
+    },
+    {
+      "id": "2026-04-29T13",
+      "file": "digest-2026-04-29T13.md",
+      "date": "2026-04-29T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：稳定对峙与国际社会持续关注",
+        "en": "Iran War Developments: Stable Standoff and Continued International Attention"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "international"
+      ]
+    },
     {
       "id": "2026-04-28T22",
       "file": "digest-2026-04-28T22.md",
