@@ -1,6 +1,21 @@
 {
-  "updated": "2026-04-29T15:02:00+08:00",
+  "updated": "2026-04-29T16:00:00+08:00",
   "files": [
+    {
+      "id": "2026-04-29T16",
+      "file": "2026-04-29T16.md",
+      "date": "2026-04-29T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：伊朗要求结束封锁，阿联酋退出OPEC引发连锁反应",
+        "en": "Iran War Developments: Iran Demands End to Blockade, UAE OPEC Exit Triggers Chain Reaction"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "energy"
+      ]
+    },
     {
       "id": "2026-04-29T14",
       "file": "digest-2026-04-29T14.md",
