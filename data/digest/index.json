@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "updated": "2026-04-29T21:02:00+08:00",
   "files": [
     {
@@ -8,6 +9,76 @@
       "title": {
         "zh": "美伊战争动态：持续军事对峙与外交僵持",
         "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+=======
+  "updated": "2026-04-29T16:00:00+08:00",
+  "files": [
+    {
+      "id": "2026-04-29T16",
+      "file": "2026-04-29T16.md",
+      "date": "2026-04-29T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：伊朗要求结束封锁，阿联酋退出OPEC引发连锁反应",
+        "en": "Iran War Developments: Iran Demands End to Blockade, UAE OPEC Exit Triggers Chain Reaction"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "energy"
+      ]
+    },
+    {
+      "id": "2026-04-29T14",
+      "file": "digest-2026-04-29T14.md",
+      "date": "2026-04-29T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：特朗普权衡伊朗最新提议，霍尔木兹海峡局势悬而未决",
+        "en": "Iran War Developments: Trump Mulls Latest Iranian Offer, Strait of Hormuz in Limbo"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "energy"
+      ]
+    },
+    {
+      "id": "2026-04-29T13",
+      "file": "digest-2026-04-29T13.md",
+      "date": "2026-04-29T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：稳定对峙与国际社会持续关注",
+        "en": "Iran War Developments: Stable Standoff and Continued International Attention"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "international"
+      ]
+    },
+    {
+      "id": "2026-04-28T22",
+      "file": "digest-2026-04-28T22.md",
+      "date": "2026-04-28T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事维持现状与区域稳定观察",
+        "en": "Iran War Developments: Military Status Quo and Regional Stability Observation"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "2026-04-28T20",
+      "file": "2026-04-28T20.md",
+      "date": "2026-04-28T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：外交积极信号显现，紧张局势略有缓和",
+        "en": "Iran War Developments: Diplomatic Signals Emerge, Tensions Slightly Eased"
+>>>>>>> 05429bc1ab0a7bdcae6e8d45e32da970c8de9774
       },
       "tags": [
         "military",
