@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-01T02:04:36+08:00",
+  "updated": "2026-04-30T21:04:00+08:00",
   "files": [
+    {
+      "id": "2026-05-01T02",
+      "file": "2026-05-01T02.md",
+      "date": "2026-05-01T02:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：第62天战事持续，国际航运受阻加剧",
+        "en": "Iran War Developments: Day 62 Continues, International Shipping Disruption Worsens"
+      },
+      "tags": [
+        "military",
+        "shipping",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-05-01T02",
       "file": "2026-05-01T02.md",
