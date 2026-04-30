@@ -1,6 +1,22 @@
 {
-  "updated": "2026-04-30T21:04:00+08:00",
+  "updated": "2026-05-01T06:02:00+08:00",
   "files": [
+    {
+      "id": "2026-04-30T22",
+      "file": "2026-04-30T22.md",
+      "date": "2026-04-30T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：海上军事演习升级，多国联合巡逻启动",
+        "en": "Iran War Developments: Naval Military Exercises Escalate, Joint Patrols Initiated"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "naval-operations",
+        "energy-security"
+      ]
+    },
     {
       "id": "2026-04-30T20",
       "file": "2026-04-30T20.md",
