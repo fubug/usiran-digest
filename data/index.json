@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "id": "2026-05-01T07",
+      "date": "2026-05-01T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：早间时段军事监控与经济影响分析",
+        "en": "Iran War Developments: Early Morning Military Monitoring and Economic Impact Analysis"
+      },
+      "tags": [
+        "military",
+        "economy",
+        "middle-east"
+      ],
+      "file": "data/digest/2026-05-01T07.md"
+    },
+    {
       "id": "2026-04-28T15",
       "date": "2026-04-28T15:00:00+08:00",
       "title": {
@@ -409,6 +423,6 @@
       "file": "data/digest/digest-2026-04-29T17.md"
     }
   ],
-  "generated_at": "2026-04-28T15:00:00+08:00",
-  "total_files": 30
+  "generated_at": "2026-05-01T07:00:00+08:00",
+  "total_files": 31
 }
