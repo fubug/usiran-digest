@@ -1,6 +1,58 @@
 {
-  "updated": "2026-05-01T02:02:00Z",
+  "updated": "2026-05-01T22:09:46+08:00",
   "files": [
+    {
+      "id": "2026-05-01T22",
+      "file": "2026-05-01T22.md",
+      "date": "2026-05-01T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态",
+        "en": "Iran War Developments"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-05-01T21",
+      "file": "2026-05-01T21.md",
+      "date": "2026-05-01T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态",
+        "en": "Iran War Developments"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-05-01T18",
+      "file": "2026-05-01T18.md",
+      "date": "2026-05-01T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：当前时段监控与军事态势分析",
+        "en": "Iran War Developments: Current Period Monitoring and Military Situation Analysis"
+      },
+      "tags": [
+        "military",
+        "middle-east",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "2026-05-01T17",
+      "file": "digest-2026-05-01T17.md",
+      "date": "2026-05-01T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      },
+      "tags": [
+        "military",
+        "middle-east",
+        "diplomacy"
+      ]
+    },
     {
       "id": "2026-05-01T01",
       "file": "2026-05-01T01.md",
@@ -245,20 +297,6 @@
       ],
       "word_count": 1180,
       "updated_at": "2026-04-30T20:00:00+08:00"
-    }
-  ],
-  "audits": [
-    {
-      "file": "digest-quality-audit-2026-04-30T05.md",
-      "timestamp": "2026-04-30T05:03:00+08:00",
-      "title": "Quality Compliance Audit Report",
-      "content_type": "Quality Audit",
-      "target_file": "2026-04-29T21-updated.md",
-      "quality_score": "8/10",
-      "status": "minor_violations",
-      "recommendation": "pass_with_improvements",
-      "auditor": "usiran-digest-check",
-      "updated_at": "2026-04-30T05:03:00+08:00"
     }
   ],
   "total_files": 10,
