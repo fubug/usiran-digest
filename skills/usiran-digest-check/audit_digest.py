@@ -64,12 +64,15 @@ class DigestAuditor:
         # 获取前一个整点时段的文件
         target_hour = (current_time.hour - 1) % 24
         target_date = current_time.strftime('%Y-%m-%d')
+        print(f"当前时间: {current_time}, 目标日期: {target_date}, 目标小时: {target_hour}")
         
         # 尝试多个可能的路径
         possible_paths = [
+            f"/root/.openclaw/workspace/usiran-digest/data/digest/{target_date}T{target_hour:02d}.md",
             f"/root/.openclaw/workspace/usiran-digest/data/digest/digest-{target_date}T{target_hour:02d}.md",
             f"/root/.openclaw/workspace/data/digest/digest-{target_date}T{target_hour:02d}.md",
-            f"/root/.openclaw/workspace/digest-{target_date}T{target_hour:02d}.md"
+            f"/root/.openclaw/workspace/digest-{target_date}T{target_hour:02d}.md",
+            f"/root/.openclaw/workspace/usiran-digest/data/digest/digest-cron-summary-{target_date}T{target_hour:02d}.md"
         ]
         
         for path in possible_paths:
