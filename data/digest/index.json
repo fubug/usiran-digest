@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-01T18:00:00+08:00",
+  "updated": "2026-05-01T22:08:27+08:00",
   "files": [
+    {
+      "id": "2026-05-01T21",
+      "file": "2026-05-01T21.md",
+      "date": "2026-05-01T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态",
+        "en": "Iran War Developments"
+      },
+      "tags": [
+        "military"
+      ]
+    },
     {
       "id": "2026-05-01T18",
       "file": "2026-05-01T18.md",
@@ -273,20 +285,6 @@
       ],
       "word_count": 1180,
       "updated_at": "2026-04-30T20:00:00+08:00"
-    }
-  ],
-  "audits": [
-    {
-      "file": "digest-quality-audit-2026-04-30T05.md",
-      "timestamp": "2026-04-30T05:03:00+08:00",
-      "title": "Quality Compliance Audit Report",
-      "content_type": "Quality Audit",
-      "target_file": "2026-04-29T21-updated.md",
-      "quality_score": "8/10",
-      "status": "minor_violations",
-      "recommendation": "pass_with_improvements",
-      "auditor": "usiran-digest-check",
-      "updated_at": "2026-04-30T05:03:00+08:00"
     }
   ],
   "total_files": 10,
