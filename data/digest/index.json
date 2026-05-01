@@ -1,6 +1,21 @@
 {
-  "updated": "2026-05-01T06:02:00+08:00",
+  "updated": "2026-05-01T02:02:00Z",
   "files": [
+    {
+      "id": "2026-05-01T01",
+      "file": "2026-05-01T01.md",
+      "date": "2026-05-01T01:00:00Z",
+      "title": {
+        "zh": "美伊战争动态：凌晨时段军事监控与外交观察",
+        "en": "Iran War Developments: Early Morning Military Monitoring and Diplomatic Observation"
+      },
+      "tags": [
+        "military",
+        "middle-east",
+        "diplomacy",
+        "energy-security"
+      ]
+    },
     {
       "id": "2026-04-30T22",
       "file": "2026-04-30T22.md",
@@ -148,7 +163,38 @@
       ]
     }
   ],
+  "audits": [
+    {
+      "file": "digest-quality-audit-2026-04-30T05.md",
+      "timestamp": "2026-04-30T05:03:00+08:00",
+      "title": "Quality Compliance Audit Report",
+      "content_type": "Quality Audit",
+      "target_file": "2026-04-29T21-updated.md",
+      "quality_score": "8/10",
+      "status": "minor_violations",
+      "recommendation": "pass_with_improvements",
+      "auditor": "usiran-digest-check",
+      "updated_at": "2026-04-30T05:03:00+08:00"
+    }
+  ],
   "digests": [
+    {
+      "file": "2026-05-01T01.md",
+      "timestamp": "2026-05-01T01:00:00Z",
+      "title": "美伊战争动态：凌晨时段军事监控与外交观察",
+      "content_type": "Iran War Digest",
+      "source": "Continuous Monitoring Network, Energy Market Analysis, International Diplomatic Channels",
+      "status": "published",
+      "keywords": [
+        "美伊战争",
+        "军事监控",
+        "外交观察",
+        "能源安全",
+        "地中海演习"
+      ],
+      "word_count": 980,
+      "updated_at": "2026-05-01T02:02:00Z"
+    },
     {
       "file": "digest-2026-04-30T18.md",
       "timestamp": "2026-04-30T18:00:00+08:00",
@@ -215,6 +261,6 @@
       "updated_at": "2026-04-30T05:03:00+08:00"
     }
   ],
-  "total_files": 9,
-  "generated_at": "2026-04-30T21:04:36+08:00"
+  "total_files": 10,
+  "generated_at": "2026-05-01T02:02:00Z"
 }
