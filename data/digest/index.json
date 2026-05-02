@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-02T10:05:00+08:00",
+  "updated": "2026-05-02T11:07:57+08:00",
   "files": [
+    {
+      "id": "2026-05-02T11",
+      "file": "2026-05-02T11.md",
+      "date": "2026-05-02T11:05:56+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与监控状态更新",
+        "en": "Iran War Developments: Ongoing Military Standby Status Update"
+      },
+      "tags": [
+        "military",
+        "monitoring",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-05-02T10",
       "file": "2026-05-02T10.md",
@@ -315,6 +329,6 @@
       "updated_at": "2026-04-30T20:00:00+08:00"
     }
   ],
-  "total_files": 10,
+  "total_files": 17,
   "generated_at": "2026-05-01T02:02:00Z"
 }
