@@ -196,7 +196,7 @@ def save_digest(content, target_date, target_hour):
         print(f"保存失败: {e}")
         return None
 
-def commit_to_github(filepath):
+def commit_to_github(filepath, target_date, target_hour):
     """提交到GitHub"""
     try:
         # 切换到项目目录
@@ -279,7 +279,7 @@ def execute_hourly_digest_check():
             
             if saved_file:
                 # 提交到GitHub
-                if commit_to_github(saved_file):
+                if commit_to_github(saved_file, target_date, target_hour):
                     print(f"✅ Digest {target_date}T{target_hour:02d} 生成完成并推送")
                     return True
                 else:
