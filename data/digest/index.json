@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-01T22:09:46+08:00",
+  "updated": "2026-05-02T10:05:00+08:00",
   "files": [
+    {
+      "id": "2026-05-02T10",
+      "file": "2026-05-02T10.md",
+      "date": "2026-05-02T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Ongoing Military Standoff and Diplomatic Deadlock"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "escalation",
+        "energy-markets"
+      ]
+    },
     {
       "id": "2026-05-01T22",
       "file": "2026-05-01T22.md",
