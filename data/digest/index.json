@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-02T15:03:20+08:00",
+  "updated": "2026-05-02T17:04:00+08:00",
   "files": [
+    {
+      "id": "2026-05-02T17",
+      "file": "2026-05-02T17.md",
+      "date": "2026-05-02T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续监控与局势评估",
+        "en": "Iran War Developments: Continuous Monitoring and Situation Assessment"
+      },
+      "tags": [
+        "monitoring",
+        "assessment",
+        "middle-east"
+      ]
+    },
     {
       "id": "2026-05-02T15",
       "file": "2026-05-02T15.md",
@@ -353,6 +367,6 @@
       "updated_at": "2026-04-30T20:00:00+08:00"
     }
   ],
-  "total_files": 17,
+  "total_files": 18,
   "generated_at": "2026-05-01T02:02:00Z"
 }
