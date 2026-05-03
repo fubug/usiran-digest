@@ -1,6 +1,21 @@
 {
-  "updated": "2026-05-03T11:05:30+08:00",
+  "updated": "2026-05-03T12:03:15+08:00",
   "files": [
+    {
+      "id": "2026-05-03T04",
+      "file": "2026-05-03T04.md",
+      "date": "2026-05-03T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：第66天军事对峙持续，外交僵局延续",
+        "en": "Iran War Developments: Day 66 Military Standoff Continues, Diplomatic Deadlock Persists"
+      },
+      "tags": [
+        "military",
+        "diplomacy",
+        "middle-east",
+        "standoff"
+      ]
+    },
     {
       "id": "2026-05-03T10",
       "file": "2026-05-03T10.md",
