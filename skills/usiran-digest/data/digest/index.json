@@ -16,6 +16,20 @@
       ]
     },
     {
+      "id": "2026-05-07T1700-audit",
+      "file": "data/digest/audit_report_20260507T1700.md",
+      "date": "2026-05-07T17:00:00Z",
+      "title": {
+        "zh": "美伊战争质量审计报告 - 2026年05月07日 17:00",
+        "en": "US-Iran Digest Quality Audit - 2026-05-07 17:00"
+      },
+      "tags": [
+        "质量审计",
+        "美伊战争",
+        "合规检查"
+      ]
+    }
+    {
       "id": "2026-05-07T1400",
       "file": "data/digest/digest-20260507T14.md",
       "date": "2026-05-07T14:00:00Z",
