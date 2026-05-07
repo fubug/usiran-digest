@@ -1,253 +1,193 @@
 {
-  "updated": "2026-05-06T20:04:00Z",
+  "updated": "2026-05-07T12:00:00+08:00",
   "files": [
     {
-      "id": "2026-05-06T2000",
-      "file": "digest-20260506T2000.md",
-      "date": "2026-05-06T20:00:00Z",
+      "id": "2026-05-07T12",
+      "file": "2026-05-07T12.md",
+      "date": "2026-05-07T12:00:00+08:00",
       "title": {
-        "zh": "美伊战争时事简报 - 2026年05月06日 20:00",
-        "en": "US-Iran War Briefing - 2026-05-06 20:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态：区域军事部署调整与国际外交努力持续",
+        "en": "Iran War Developments: Military Deployments Adjustments and Diplomatic Efforts Continue"
+      }
+    },
+    {
+      "id": "2026-05-07T03",
+      "file": "2026-05-07T03.md",
+      "date": "2026-05-07T03:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-05-07T01",
+      "file": "2026-05-07T01.md",
+      "date": "2026-05-07T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-05-06T21",
+      "file": "2026-05-06T21.md",
+      "date": "2026-05-06T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：夜间军事行动与外交持续僵持",
+        "en": "Iran War Developments: Nighttime Military Actions and Continued Diplomatic Standoff"
+      }
+    },
+    {
+      "id": "2026-05-05T22",
+      "file": "2026-05-05T22.md",
+      "date": "2026-05-05T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
     },
     {
       "id": "2026-05-05T1000",
       "file": "digest-20260505T1000.md",
       "date": "2026-05-05T10:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 10:00",
-        "en": "Iran War Digest 2026-05-05 10:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T1000",
+        "en": "Iran War Digest 2026-05-05T1000"
+      }
     },
     {
       "id": "2026-05-05T0900",
       "file": "digest-20260505T0900.md",
       "date": "2026-05-05T09:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 09:00",
-        "en": "Iran War Digest 2026-05-05 09:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0900",
+        "en": "Iran War Digest 2026-05-05T0900"
+      }
     },
     {
       "id": "2026-05-05T0800",
       "file": "digest-20260505T0800.md",
       "date": "2026-05-05T08:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 08:00",
-        "en": "Iran War Digest 2026-05-05 08:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0800",
+        "en": "Iran War Digest 2026-05-05T0800"
+      }
     },
     {
       "id": "2026-05-05T0700",
       "file": "digest-20260505T0700.md",
       "date": "2026-05-05T07:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 07:00",
-        "en": "Iran War Digest 2026-05-05 07:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0700",
+        "en": "Iran War Digest 2026-05-05T0700"
+      }
     },
     {
       "id": "2026-05-05T0600",
       "file": "digest-20260505T0600.md",
       "date": "2026-05-05T06:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 06:00",
-        "en": "Iran War Digest 2026-05-05 06:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0600",
+        "en": "Iran War Digest 2026-05-05T0600"
+      }
     },
     {
       "id": "2026-05-05T0500",
       "file": "digest-20260505T0500.md",
       "date": "2026-05-05T05:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 05:00",
-        "en": "Iran War Digest 2026-05-05 05:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0500",
+        "en": "Iran War Digest 2026-05-05T0500"
+      }
     },
     {
       "id": "2026-05-05T0400",
       "file": "digest-20260505T0400.md",
       "date": "2026-05-05T04:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 04:00",
-        "en": "Iran War Digest 2026-05-05 04:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0400",
+        "en": "Iran War Digest 2026-05-05T0400"
+      }
     },
     {
       "id": "2026-05-05T0300",
       "file": "digest-20260505T0300.md",
       "date": "2026-05-05T03:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 03:00",
-        "en": "Iran War Digest 2026-05-05 03:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0300",
+        "en": "Iran War Digest 2026-05-05T0300"
+      }
     },
     {
       "id": "2026-05-05T0200",
       "file": "digest-20260505T0200.md",
       "date": "2026-05-05T02:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 02:00",
-        "en": "Iran War Digest 2026-05-05 02:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0200",
+        "en": "Iran War Digest 2026-05-05T0200"
+      }
     },
     {
       "id": "2026-05-05T0100",
       "file": "digest-20260505T0100.md",
       "date": "2026-05-05T01:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 01:00",
-        "en": "Iran War Digest 2026-05-05 01:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0100",
+        "en": "Iran War Digest 2026-05-05T0100"
+      }
     },
     {
       "id": "2026-05-05T0000",
       "file": "digest-20260505T0000.md",
       "date": "2026-05-05T00:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-05 00:00",
-        "en": "Iran War Digest 2026-05-05 00:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-05T0000",
+        "en": "Iran War Digest 2026-05-05T0000"
+      }
     },
     {
       "id": "2026-05-04T2300",
       "file": "digest-20260504T2300.md",
       "date": "2026-05-04T23:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 23:00",
-        "en": "Iran War Digest 2026-05-04 23:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T2300",
+        "en": "Iran War Digest 2026-05-04T2300"
+      }
     },
     {
       "id": "2026-05-04T2200",
       "file": "digest-20260504T2200.md",
       "date": "2026-05-04T22:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 22:00",
-        "en": "Iran War Digest 2026-05-04 22:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T2200",
+        "en": "Iran War Digest 2026-05-04T2200"
+      }
     },
     {
       "id": "2026-05-04T2100",
       "file": "digest-20260504T2100.md",
       "date": "2026-05-04T21:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 21:00",
-        "en": "Iran War Digest 2026-05-04 21:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
-    },
-    {
-      "id": "2026-05-04T2000",
-      "file": "digest-20260504T2000.md",
-      "date": "2026-05-04T20:00:00+08:00",
-      "title": {
-        "zh": "美伊战争动态 2026-05-04 20:00",
-        "en": "Iran War Digest 2026-05-04 20:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T2100",
+        "en": "Iran War Digest 2026-05-04T2100"
+      }
     },
     {
       "id": "2026-05-04T20",
       "file": "2026-05-04T20.md",
       "date": "2026-05-04T20:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 20:00",
-        "en": "Iran War Digest 2026-05-04 20:00"
+        "zh": "美伊战争动态：夜间时段局势稳定与监控",
+        "en": "Iran War Developments: Evening Hours Stable Situation and Monitoring"
+      }
+    },
+    {
+      "id": "2026-05-04T2000",
+      "file": "digest-20260504T2000.md",
+      "date": "2026-05-04T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-05-04T2000",
+        "en": "Iran War Digest 2026-05-04T2000"
       }
     },
     {
@@ -255,98 +195,62 @@
       "file": "digest-20260504T1900.md",
       "date": "2026-05-04T19:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 19:00",
-        "en": "Iran War Digest 2026-05-04 19:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1900",
+        "en": "Iran War Digest 2026-05-04T1900"
+      }
     },
     {
       "id": "2026-05-04T1800",
       "file": "digest-20260504T1800.md",
       "date": "2026-05-04T18:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 18:00",
-        "en": "Iran War Digest 2026-05-04 18:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1800",
+        "en": "Iran War Digest 2026-05-04T1800"
+      }
     },
     {
       "id": "2026-05-04T1700",
       "file": "digest-20260504T1700.md",
       "date": "2026-05-04T17:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 17:00",
-        "en": "Iran War Digest 2026-05-04 17:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1700",
+        "en": "Iran War Digest 2026-05-04T1700"
+      }
     },
     {
       "id": "2026-05-04T1600",
       "file": "digest-20260504T1600.md",
       "date": "2026-05-04T16:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 16:00",
-        "en": "Iran War Digest 2026-05-04 16:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1600",
+        "en": "Iran War Digest 2026-05-04T1600"
+      }
     },
     {
       "id": "2026-05-04T1500",
       "file": "digest-20260504T1500.md",
       "date": "2026-05-04T15:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 15:00",
-        "en": "Iran War Digest 2026-05-04 15:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
-    },
-    {
-      "id": "2026-05-04T1400",
-      "file": "digest-20260504T1400.md",
-      "date": "2026-05-04T14:00:00+08:00",
-      "title": {
-        "zh": "美伊战争动态 2026-05-04 14:00",
-        "en": "Iran War Digest 2026-05-04 14:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1500",
+        "en": "Iran War Digest 2026-05-04T1500"
+      }
     },
     {
       "id": "2026-05-04T14",
       "file": "2026-05-04T14.md",
       "date": "2026-05-04T14:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 14:00",
-        "en": "Iran War Digest 2026-05-04 14:00"
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-05-04T1400",
+      "file": "digest-20260504T1400.md",
+      "date": "2026-05-04T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-05-04T1400",
+        "en": "Iran War Digest 2026-05-04T1400"
       }
     },
     {
@@ -354,368 +258,224 @@
       "file": "digest-20260504T1300.md",
       "date": "2026-05-04T13:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 13:00",
-        "en": "Iran War Digest 2026-05-04 13:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1300",
+        "en": "Iran War Digest 2026-05-04T1300"
+      }
     },
     {
       "id": "2026-05-04T1200",
       "file": "digest-20260504T1200.md",
       "date": "2026-05-04T12:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 12:00",
-        "en": "Iran War Digest 2026-05-04 12:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1200",
+        "en": "Iran War Digest 2026-05-04T1200"
+      }
     },
     {
       "id": "2026-05-04T1100",
       "file": "digest-20260504T1100.md",
       "date": "2026-05-04T11:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 11:00",
-        "en": "Iran War Digest 2026-05-04 11:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1100",
+        "en": "Iran War Digest 2026-05-04T1100"
+      }
     },
     {
       "id": "2026-05-04T1000",
       "file": "digest-20260504T1000.md",
       "date": "2026-05-04T10:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 10:00",
-        "en": "Iran War Digest 2026-05-04 10:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T1000",
+        "en": "Iran War Digest 2026-05-04T1000"
+      }
     },
     {
       "id": "2026-05-04T0900",
       "file": "digest-20260504T0900.md",
       "date": "2026-05-04T09:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 09:00",
-        "en": "Iran War Digest 2026-05-04 09:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0900",
+        "en": "Iran War Digest 2026-05-04T0900"
+      }
     },
     {
       "id": "2026-05-04T0800",
       "file": "digest-20260504T0800.md",
       "date": "2026-05-04T08:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 08:00",
-        "en": "Iran War Digest 2026-05-04 08:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0800",
+        "en": "Iran War Digest 2026-05-04T0800"
+      }
     },
     {
       "id": "2026-05-04T0700",
       "file": "digest-20260504T0700.md",
       "date": "2026-05-04T07:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 07:00",
-        "en": "Iran War Digest 2026-05-04 07:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0700",
+        "en": "Iran War Digest 2026-05-04T0700"
+      }
     },
     {
       "id": "2026-05-04T0600",
       "file": "digest-20260504T0600.md",
       "date": "2026-05-04T06:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 06:00",
-        "en": "Iran War Digest 2026-05-04 06:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0600",
+        "en": "Iran War Digest 2026-05-04T0600"
+      }
     },
     {
       "id": "2026-05-04T0500",
       "file": "digest-20260504T0500.md",
       "date": "2026-05-04T05:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 05:00",
-        "en": "Iran War Digest 2026-05-04 05:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0500",
+        "en": "Iran War Digest 2026-05-04T0500"
+      }
     },
     {
       "id": "2026-05-04T0400",
       "file": "digest-20260504T0400.md",
       "date": "2026-05-04T04:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 04:00",
-        "en": "Iran War Digest 2026-05-04 04:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0400",
+        "en": "Iran War Digest 2026-05-04T0400"
+      }
     },
     {
       "id": "2026-05-04T0300",
       "file": "digest-20260504T0300.md",
       "date": "2026-05-04T03:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 03:00",
-        "en": "Iran War Digest 2026-05-04 03:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0300",
+        "en": "Iran War Digest 2026-05-04T0300"
+      }
     },
     {
       "id": "2026-05-04T0200",
       "file": "digest-20260504T0200.md",
       "date": "2026-05-04T02:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 02:00",
-        "en": "Iran War Digest 2026-05-04 02:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0200",
+        "en": "Iran War Digest 2026-05-04T0200"
+      }
     },
     {
       "id": "2026-05-04T0100",
       "file": "digest-20260504T0100.md",
       "date": "2026-05-04T01:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 01:00",
-        "en": "Iran War Digest 2026-05-04 01:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0100",
+        "en": "Iran War Digest 2026-05-04T0100"
+      }
     },
     {
       "id": "2026-05-04T0000",
       "file": "digest-20260504T0000.md",
       "date": "2026-05-04T00:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-04 00:00",
-        "en": "Iran War Digest 2026-05-04 00:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-04T0000",
+        "en": "Iran War Digest 2026-05-04T0000"
+      }
     },
     {
       "id": "2026-05-03T2300",
       "file": "digest-20260503T2300.md",
       "date": "2026-05-03T23:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 23:00",
-        "en": "Iran War Digest 2026-05-03 23:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T2300",
+        "en": "Iran War Digest 2026-05-03T2300"
+      }
     },
     {
       "id": "2026-05-03T2200",
       "file": "digest-20260503T2200.md",
       "date": "2026-05-03T22:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 22:00",
-        "en": "Iran War Digest 2026-05-03 22:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T2200",
+        "en": "Iran War Digest 2026-05-03T2200"
+      }
     },
     {
       "id": "2026-05-03T2100",
       "file": "digest-20260503T2100.md",
       "date": "2026-05-03T21:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 21:00",
-        "en": "Iran War Digest 2026-05-03 21:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T2100",
+        "en": "Iran War Digest 2026-05-03T2100"
+      }
     },
     {
       "id": "2026-05-03T2000",
       "file": "digest-20260503T2000.md",
       "date": "2026-05-03T20:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 20:00",
-        "en": "Iran War Digest 2026-05-03 20:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T2000",
+        "en": "Iran War Digest 2026-05-03T2000"
+      }
     },
     {
       "id": "2026-05-03T1900",
       "file": "digest-20260503T1900.md",
       "date": "2026-05-03T19:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 19:00",
-        "en": "Iran War Digest 2026-05-03 19:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T1900",
+        "en": "Iran War Digest 2026-05-03T1900"
+      }
     },
     {
       "id": "2026-05-03T1800",
       "file": "digest-20260503T1800.md",
       "date": "2026-05-03T18:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 18:00",
-        "en": "Iran War Digest 2026-05-03 18:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T1800",
+        "en": "Iran War Digest 2026-05-03T1800"
+      }
     },
     {
       "id": "2026-05-03T1700",
       "file": "digest-20260503T1700.md",
       "date": "2026-05-03T17:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 17:00",
-        "en": "Iran War Digest 2026-05-03 17:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T1700",
+        "en": "Iran War Digest 2026-05-03T1700"
+      }
     },
     {
       "id": "2026-05-03T1600",
       "file": "digest-20260503T1600.md",
       "date": "2026-05-03T16:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 16:00",
-        "en": "Iran War Digest 2026-05-03 16:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T1600",
+        "en": "Iran War Digest 2026-05-03T1600"
+      }
     },
     {
       "id": "2026-05-03T1500",
       "file": "digest-20260503T1500.md",
       "date": "2026-05-03T15:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 15:00",
-        "en": "Iran War Digest 2026-05-03 15:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
-    },
-    {
-      "id": "2026-05-03T1400",
-      "file": "digest-20260503T1400.md",
-      "date": "2026-05-03T14:00:00+08:00",
-      "title": {
-        "zh": "美伊战争动态 2026-05-03 14:00",
-        "en": "Iran War Digest 2026-05-03 14:00"
-      },
-      "tags": [
-        "美伊战争",
-        "中东局势",
-        "时事简报",
-        "战争发展"
-      ]
+        "zh": "美伊战争动态 2026-05-03T1500",
+        "en": "Iran War Digest 2026-05-03T1500"
+      }
     },
     {
       "id": "2026-05-03T14",
       "file": "2026-05-03T14.md",
       "date": "2026-05-03T14:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 14:00",
-        "en": "Iran War Digest 2026-05-03 14:00"
+        "zh": "美伊战争动态：第69天技术与外交双轨推进",
+        "en": "Iran War Developments: Day 69 Dual-Track Approach of Technology and Diplomacy"
+      }
+    },
+    {
+      "id": "2026-05-03T1400",
+      "file": "digest-20260503T1400.md",
+      "date": "2026-05-03T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-05-03T1400",
+        "en": "Iran War Digest 2026-05-03T1400"
       }
     },
     {
@@ -723,8 +483,8 @@
       "file": "2026-05-03T13.md",
       "date": "2026-05-03T13:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 13:00",
-        "en": "Iran War Digest 2026-05-03 13:00"
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
       }
     },
     {
@@ -732,8 +492,8 @@
       "file": "2026-05-03T11.md",
       "date": "2026-05-03T11:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 11:00",
-        "en": "Iran War Digest 2026-05-03 11:00"
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
       }
     },
     {
@@ -741,8 +501,8 @@
       "file": "2026-05-03T10.md",
       "date": "2026-05-03T10:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 10:00",
-        "en": "Iran War Digest 2026-05-03 10:00"
+        "zh": "美伊战争动态：第67天持续战略对峙与技术竞争",
+        "en": "Iran War Developments: Day 67 Continued Strategic Standoff and Technology Competition"
       }
     },
     {
@@ -750,8 +510,8 @@
       "file": "2026-05-03T09.md",
       "date": "2026-05-03T09:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 09:00",
-        "en": "Iran War Digest 2026-05-03 09:00"
+        "zh": "美伊战争动态：持续军事对峙与监控状态更新",
+        "en": "Iran War Developments: Ongoing Military Standby Status Update"
       }
     },
     {
@@ -759,8 +519,8 @@
       "file": "2026-05-03T08.md",
       "date": "2026-05-03T08:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 08:00",
-        "en": "Iran War Digest 2026-05-03 08:00"
+        "zh": "美伊战争动态：持续军事对峙与监控状态更新",
+        "en": "Iran War Developments: Ongoing Military Standby Status Update"
       }
     },
     {
@@ -768,8 +528,8 @@
       "file": "2026-05-03T05.md",
       "date": "2026-05-03T05:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 05:00",
-        "en": "Iran War Digest 2026-05-03 05:00"
+        "zh": "美伊战争动态：第67天战略稳定与外交调停努力",
+        "en": "Iran War Developments: Day 67 Strategic Stability and Diplomatic Mediation Efforts"
       }
     },
     {
@@ -777,8 +537,8 @@
       "file": "2026-05-03T04.md",
       "date": "2026-05-03T04:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 04:00",
-        "en": "Iran War Digest 2026-05-03 04:00"
+        "zh": "美伊战争动态：第66天军事对峙持续，外交僵局延续",
+        "en": "Iran War Developments: Day 66 Military Standoff Continues, Diplomatic Deadlock Persists"
       }
     },
     {
@@ -786,8 +546,8 @@
       "file": "2026-05-03T02.md",
       "date": "2026-05-03T02:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 02:00",
-        "en": "Iran War Digest 2026-05-03 02:00"
+        "zh": "美伊战争动态：第67天技术升级与国际调解努力",
+        "en": "Iran War Developments: Day 67 Technology Upgrade and International Mediation Efforts"
       }
     },
     {
@@ -795,8 +555,8 @@
       "file": "2026-05-03T00.md",
       "date": "2026-05-03T00:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-03 00:00",
-        "en": "Iran War Digest 2026-05-03 00:00"
+        "zh": "美伊战争动态：第66天军事对峙持续，外交僵局延续",
+        "en": "Iran War Developments: Day 66 Military Standoff Continues, Diplomatic Deadlock Persists"
       }
     },
     {
@@ -804,8 +564,8 @@
       "file": "2026-05-02T23.md",
       "date": "2026-05-02T23:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 23:00",
-        "en": "Iran War Digest 2026-05-02 23:00"
+        "zh": "美伊战争动态：持续军事对峙与监控",
+        "en": "Iran War Developments: Ongoing Military Standby"
       }
     },
     {
@@ -813,8 +573,8 @@
       "file": "2026-05-02T22.md",
       "date": "2026-05-02T22:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 22:00",
-        "en": "Iran War Digest 2026-05-02 22:00"
+        "zh": "美伊战争动态：持续军事对峙与监控状态更新",
+        "en": "Iran War Developments: Ongoing Military Standby Status Update"
       }
     },
     {
@@ -822,8 +582,8 @@
       "file": "2026-05-02T19.md",
       "date": "2026-05-02T19:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 19:00",
-        "en": "Iran War Digest 2026-05-02 19:00"
+        "zh": "美伊战争动态：第66天外交僵局持续，地区安全态势维持紧张",
+        "en": "Iran War Developments: Day 66 Diplomatic Deadlock Continues, Regional Security Situation Remains Tense"
       }
     },
     {
@@ -831,8 +591,8 @@
       "file": "2026-05-02T17.md",
       "date": "2026-05-02T17:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 17:00",
-        "en": "Iran War Digest 2026-05-02 17:00"
+        "zh": "美伊战争动态：持续监控与局势评估",
+        "en": "Iran War Developments: Continuous Monitoring and Situation Assessment"
       }
     },
     {
@@ -840,8 +600,8 @@
       "file": "2026-05-02T15.md",
       "date": "2026-05-02T15:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 15:00",
-        "en": "Iran War Digest 2026-05-02 15:00"
+        "zh": "美伊战争动态：持续军事对峙与监控",
+        "en": "Iran War Developments: Ongoing Military Standby"
       }
     },
     {
@@ -849,8 +609,1349 @@
       "file": "2026-05-02T14.md",
       "date": "2026-05-02T14:00:00+08:00",
       "title": {
-        "zh": "美伊战争动态 2026-05-02 14:00",
-        "en": "Iran War Digest 2026-05-02 14:00"
+        "zh": "美伊战争动态：第64天监控升级，地区安全态势维持紧张",
+        "en": "Iran War Developments: Day 64 Monitoring Upgrade, Regional Security Situation Remains Tense"
+      }
+    },
+    {
+      "id": "2026-05-02T13",
+      "file": "2026-05-02T13.md",
+      "date": "2026-05-02T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续监控状态与区域安全评估",
+        "en": "Iran War Developments: Continuous Monitoring and Regional Security Assessment"
+      }
+    },
+    {
+      "id": "2026-05-02T11",
+      "file": "2026-05-02T11.md",
+      "date": "2026-05-02T11:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与监控状态更新",
+        "en": "Iran War Developments: Ongoing Military Standby Status Update"
+      }
+    },
+    {
+      "id": "2026-05-02T10",
+      "file": "2026-05-02T10.md",
+      "date": "2026-05-02T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Ongoing Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-05-02T07",
+      "file": "2026-05-02T07.md",
+      "date": "2026-05-02T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-05-02T06",
+      "file": "2026-05-02T06.md",
+      "date": "2026-05-02T06:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：06时段局势监控",
+        "en": "Iran War Developments: 06:00 Monitoring"
+      }
+    },
+    {
+      "id": "2026-05-01T22",
+      "file": "2026-05-01T22.md",
+      "date": "2026-05-01T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：22时段局势监控",
+        "en": "Iran War Developments: 22:00 Monitoring"
+      }
+    },
+    {
+      "id": "2026-05-01T21",
+      "file": "2026-05-01T21.md",
+      "date": "2026-05-01T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：22时段局势监控",
+        "en": "Iran War Developments: 22:00 Monitoring"
+      }
+    },
+    {
+      "id": "2026-05-01T19",
+      "file": "2026-05-01T19.md",
+      "date": "2026-05-01T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：夜间时段军事部署与外交努力",
+        "en": "Iran War Developments: Nighttime Military Deployments and Diplomatic Efforts"
+      }
+    },
+    {
+      "id": "2026-05-01T18",
+      "file": "2026-05-01T18.md",
+      "date": "2026-05-01T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：当前时段监控与军事态势分析",
+        "en": "Iran War Developments: Current Period Monitoring and Military Situation Analysis"
+      }
+    },
+    {
+      "id": "2026-05-01T15",
+      "file": "2026-05-01T15.md",
+      "date": "2026-05-01T15:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：傍晚时段军事升级与外交斡旋",
+        "en": "Iran War Developments: Evening Military Escalation and Diplomatic Mediation"
+      }
+    },
+    {
+      "id": "2026-05-01T14",
+      "file": "2026-05-01T14.md",
+      "date": "2026-05-01T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事紧张维持，外交努力有限",
+        "en": "Iran War Developments: Military Tension Maintained, Limited Diplomatic Efforts"
+      }
+    },
+    {
+      "id": "2026-05-01T13",
+      "file": "2026-05-01T13.md",
+      "date": "2026-05-01T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-05-01T12",
+      "file": "2026-05-01T12.md",
+      "date": "2026-05-01T12:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：日间时段军事部署与地缘政治发展",
+        "en": "Iran War Developments: Daytime Military Deployments and Geopolitical Developments"
+      }
+    },
+    {
+      "id": "2026-05-01T11",
+      "file": "2026-05-01T11.md",
+      "date": "2026-05-01T11:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：午间时段军事活动与国际响应",
+        "en": "Iran War Developments: Midday Military Activities and International Response"
+      }
+    },
+    {
+      "id": "2026-05-01T08",
+      "file": "2026-05-01T08.md",
+      "date": "2026-05-01T08:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：早间时段军事部署监控与外交响应分析",
+        "en": "Iran War Developments: Early Morning Military Deployment Monitoring and Diplomatic Response Analysis"
+      }
+    },
+    {
+      "id": "2026-05-01T07",
+      "file": "2026-05-01T07.md",
+      "date": "2026-05-01T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：早间时段军事监控与经济影响分析",
+        "en": "Iran War Developments: Early Morning Military Monitoring and Economic Impact Analysis"
+      }
+    },
+    {
+      "id": "2026-05-01T02",
+      "file": "2026-05-01T02.md",
+      "date": "2026-05-01T02:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：凌晨时段军事监控与外交观察",
+        "en": "Iran War Developments: Early Morning Military Monitoring and Diplomatic Observation"
+      }
+    },
+    {
+      "id": "2026-05-01T01",
+      "file": "2026-05-01T01.md",
+      "date": "2026-05-01T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：凌晨时段军事监控与外交观察",
+        "en": "Iran War Developments: Early Morning Military Monitoring and Diplomatic Observation"
+      }
+    },
+    {
+      "id": "2026-04-30T23",
+      "file": "2026-04-30T23.md",
+      "date": "2026-04-30T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-04-30T22",
+      "file": "2026-04-30T22.md",
+      "date": "2026-04-30T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与区域紧张局势",
+        "en": "Iran War Developments: Military Standoff and Regional Tensions"
+      }
+    },
+    {
+      "id": "2026-04-30T21",
+      "file": "2026-04-30T21.md",
+      "date": "2026-04-30T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：霍尔木兹僵持持续，特朗普呼吁伊朗'放弃",
+        "en": "Iran War Developments: Hormuz Standoff Continues as Trump Urges Iran to 'Give Up"
+      }
+    },
+    {
+      "id": "2026-04-30T20",
+      "file": "2026-04-30T20.md",
+      "date": "2026-04-30T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：第62天战事持续，国际航运受阻加剧",
+        "en": "Iran War Developments: Day 62 Continues, International Shipping Disruption Worsens"
+      }
+    },
+    {
+      "id": "2026-04-30T19",
+      "file": "2026-04-30T19.md",
+      "date": "2026-04-30T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事部署调整与国际制裁影响",
+        "en": "Iran War Developments: Military Deployment Adjustments and International Sanctions Impact"
+      }
+    },
+    {
+      "id": "2026-04-30T17",
+      "file": "2026-04-30T17.md",
+      "date": "2026-04-30T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事对峙升级，外交斡旋停滞",
+        "en": "Iran War Developments: Military Escalation Continues, Diplomatic Stagnation Deepens"
+      }
+    },
+    {
+      "id": "2026-04-30T15",
+      "file": "2026-04-30T15.md",
+      "date": "2026-04-30T15:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：军事对峙持续升级，国际斡旋面临挑战",
+        "en": "Iran War Developments: Military Escalation Continues as International Mediation Faces Challenges"
+      }
+    },
+    {
+      "id": "2026-04-30T10",
+      "file": "2026-04-30T10.md",
+      "date": "2026-04-30T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与国际斡旋尝试",
+        "en": "Iran War Developments: Military Standoff Continues with International Mediation Efforts"
+      }
+    },
+    {
+      "id": "2026-04-29T23",
+      "file": "2026-04-29T23.md",
+      "date": "2026-04-29T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：局势稳定，无重大军事行动",
+        "en": "Iran War Developments: Stable Situation, No Major Military Actions"
+      }
+    },
+    {
+      "id": "2026-04-29T22",
+      "file": "2026-04-29T22.md",
+      "date": "2026-04-29T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-29T21",
+      "file": "2026-04-29T21.md",
+      "date": "2026-04-29T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-29T20",
+      "file": "2026-04-29T20.md",
+      "date": "2026-04-29T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-29T16",
+      "file": "2026-04-29T16.md",
+      "date": "2026-04-29T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：伊朗要求结束封锁，阿联酋退出OPEC引发连锁反应",
+        "en": "Iran War Developments: Iran Demands End to Blockade, UAE OPEC Exit Triggers Chain Reaction"
+      }
+    },
+    {
+      "id": "2026-04-28T22",
+      "file": "2026-04-28T22.md",
+      "date": "2026-04-28T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-28T21",
+      "file": "2026-04-28T21.md",
+      "date": "2026-04-28T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-28T19",
+      "file": "2026-04-28T19.md",
+      "date": "2026-04-28T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-28T09",
+      "file": "2026-04-28T09.md",
+      "date": "2026-04-28T09:00:00+08:00",
+      "title": {
+        "zh": "美伊局势新动向：国际社会呼吁紧急会议",
+        "en": "New Developments in US-Iran Crisis: International Community Urges Emergency Meeting"
+      }
+    },
+    {
+      "id": "2026-04-28T07",
+      "file": "2026-04-28T07.md",
+      "date": "2026-04-28T07:00:00+08:00",
+      "title": {
+        "zh": "美伊外交持续僵持：和平谈判进入关键阶段",
+        "en": "US-Iran Diplomatic Standoff Continues: Peace Talks Enter Critical Phase"
+      }
+    },
+    {
+      "id": "2026-04-28T06",
+      "file": "2026-04-28T06.md",
+      "date": "2026-04-28T06:00:00+08:00",
+      "title": {
+        "zh": "美伊战争僵持升级：伊朗要求安全保证，韩国医疗供应链受冲击",
+        "en": "US-Iran Stalemate Escalates: Iran Demands Security Guarantees, South Korea Medical Supply Chain Impacted"
+      }
+    },
+    {
+      "id": "2026-04-28T04",
+      "file": "2026-04-28T04.md",
+      "date": "2026-04-28T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-28T04",
+        "en": "Iran Offers Peace Plan: Opening Hormuz Strait Seeking Regional Reconciliation"
+      }
+    },
+    {
+      "id": "2026-04-28T01",
+      "file": "2026-04-28T01.md",
+      "date": "2026-04-28T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：夜间军事监控与局势稳定维持",
+        "en": "Iran War Developments: Nighttime Military Monitoring, Situation Stable"
+      }
+    },
+    {
+      "id": "2026-04-27T23",
+      "file": "2026-04-27T23.md",
+      "date": "2026-04-27T23:00:00+08:00",
+      "title": {
+        "zh": "美伊紧张局势升级：军事演习与外交斡旋并行",
+        "en": "US-Iran Tensions Escalate: Military Drills and Diplomatic Efforts Continue"
+      }
+    },
+    {
+      "id": "2026-04-27T22",
+      "file": "2026-04-27T22.md",
+      "date": "2026-04-27T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：夜间军事巡逻持续，外交磋商进展有限",
+        "en": "Iran War Developments: Night Military Patrols Continue, Diplomatic Consultations Limited Progress"
+      }
+    },
+    {
+      "id": "2026-04-27T21",
+      "file": "2026-04-27T21.md",
+      "date": "2026-04-27T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T20",
+      "file": "2026-04-27T20.md",
+      "date": "2026-04-27T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T19",
+      "file": "2026-04-27T19.md",
+      "date": "2026-04-27T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T18",
+      "file": "2026-04-27T18.md",
+      "date": "2026-04-27T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T17",
+      "file": "2026-04-27T17.md",
+      "date": "2026-04-27T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T16",
+      "file": "2026-04-27T16.md",
+      "date": "2026-04-27T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T14",
+      "file": "2026-04-27T14.md",
+      "date": "2026-04-27T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：午后外交努力持续，军事对峙保持稳定",
+        "en": "Iran War Developments: Afternoon Diplomatic Efforts Continue, Military Standoff Remains Stable"
+      }
+    },
+    {
+      "id": "2026-04-27T13",
+      "file": "2026-04-27T13.md",
+      "date": "2026-04-27T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：午后军事活动持续，外交僵局未解",
+        "en": "Iran War Developments: Afternoon Military Activity Continues, Diplomatic Deadlock Persists"
+      }
+    },
+    {
+      "id": "2026-04-27T12",
+      "file": "2026-04-27T12.md",
+      "date": "2026-04-27T12:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T11",
+      "file": "2026-04-27T11.md",
+      "date": "2026-04-27T11:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T10",
+      "file": "2026-04-27T10.md",
+      "date": "2026-04-27T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：中东地区军事紧张局势升级",
+        "en": "Iran War Developments: Middle East Military Tensions Escalate"
+      }
+    },
+    {
+      "id": "2026-04-27T09",
+      "file": "2026-04-27T09.md",
+      "date": "2026-04-27T09:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T08",
+      "file": "2026-04-27T08.md",
+      "date": "2026-04-27T08:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T07",
+      "file": "2026-04-27T07.md",
+      "date": "2026-04-27T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T06",
+      "file": "2026-04-27T06.md",
+      "date": "2026-04-27T06:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈持续停滞，军事对峙升级，黎以冲突持续",
+        "en": "US-Iran Talks Remain Stalled, Military Standoff Escalates, Lebanon-Israel Conflict Continues"
+      }
+    },
+    {
+      "id": "2026-04-27T04",
+      "file": "2026-04-27T04.md",
+      "date": "2026-04-27T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：持续军事对峙与外交僵持",
+        "en": "Iran War Developments: Military Standoff and Diplomatic Deadlock"
+      }
+    },
+    {
+      "id": "2026-04-27T03",
+      "file": "2026-04-27T03.md",
+      "date": "2026-04-27T03:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：监控恢复正常，局势持续紧张",
+        "en": "Iran War Developments: Monitoring Resumes, Tensions Remain High"
+      }
+    },
+    {
+      "id": "2026-04-26T23",
+      "file": "2026-04-26T23.md",
+      "date": "2026-04-26T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：和谈破裂后军事部署调整",
+        "en": "Iran War Developments: Military Deployment Adjustments After Talks Collapse"
+      }
+    },
+    {
+      "id": "2026-04-26T22",
+      "file": "2026-04-26T22.md",
+      "date": "2026-04-26T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：和谈进程持续僵化",
+        "en": "Iran War Developments: Peace Talks Remain Stalled"
+      }
+    },
+    {
+      "id": "2026-04-26T20",
+      "file": "2026-04-26T20.md",
+      "date": "2026-04-26T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T20",
+        "en": "Iran War Digest 2026-04-26T20"
+      }
+    },
+    {
+      "id": "2026-04-26T18",
+      "file": "2026-04-26T18.md",
+      "date": "2026-04-26T18:00:00+08:00",
+      "title": {
+        "zh": "美伊局势现状报告：和谈破裂后各方反应",
+        "en": "US-Iran Situation Update: Reactions After Talks Collapse"
+      }
+    },
+    {
+      "id": "2026-04-26T17",
+      "file": "2026-04-26T17.md",
+      "date": "2026-04-26T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T17",
+        "en": "Iran War Digest 2026-04-26T17"
+      }
+    },
+    {
+      "id": "2026-04-26T16",
+      "file": "2026-04-26T16.md",
+      "date": "2026-04-26T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T16",
+        "en": "Peace Talks Completely Collapse: Trump Cancels Envoys' Pakistan Trip, Iran Takes Hardline Stance"
+      }
+    },
+    {
+      "id": "2026-04-26T15",
+      "file": "2026-04-26T15.md",
+      "date": "2026-04-26T15:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T15",
+        "en": "Talks Severely Setback: Trump Cancels Pakistan Peace Mission, Iranian FM Leaves Pakistan"
+      }
+    },
+    {
+      "id": "2026-04-26T08",
+      "file": "2026-04-26T08.md",
+      "date": "2026-04-26T08:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T08",
+        "en": "Iran War Digest 2026-04-26T08"
+      }
+    },
+    {
+      "id": "2026-04-26T07",
+      "file": "2026-04-26T07.md",
+      "date": "2026-04-26T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T07",
+        "en": "Iran Rejects Direct Talks, US Envoys Continue Journey, Peace Prospects Uncertain"
+      }
+    },
+    {
+      "id": "2026-04-26T01",
+      "file": "2026-04-26T01.md",
+      "date": "2026-04-26T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-26T01",
+        "en": "Trump Cancels Iran Peace Envoy Trip, Lebanon Casualty Update"
+      }
+    },
+    {
+      "id": "2026-04-25T23",
+      "file": "2026-04-25T23.md",
+      "date": "2026-04-25T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T23",
+        "en": "US Envoys Head to Pakistan Today for Iran Peace Talks, Strategic Talks Enter New Phase"
+      }
+    },
+    {
+      "id": "2026-04-25T22",
+      "file": "2026-04-25T22.md",
+      "date": "2026-04-25T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T22",
+        "en": "US Hunts for Mines in Strait of Hormuz, Iran War Economic Impact Lingers"
+      }
+    },
+    {
+      "id": "2026-04-25T21",
+      "file": "2026-04-25T21.md",
+      "date": "2026-04-25T21:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈持续推进：伊朗明确拒绝直接会谈",
+        "en": "US-Iran Diplomatic Continuation: Iran Rejects Direct Talks"
+      }
+    },
+    {
+      "id": "2026-04-25T14",
+      "file": "2026-04-25T14.md",
+      "date": "2026-04-25T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T14",
+        "en": "Iran FM Arrives in Pakistan for Peace Talks, US Deploys Negotiation Team"
+      }
+    },
+    {
+      "id": "2026-04-25T13",
+      "file": "2026-04-25T13.md",
+      "date": "2026-04-25T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T13",
+        "en": "Trump Refuses Timeline for Ending War as US Deploys Third Aircraft Carrier to Middle East"
+      }
+    },
+    {
+      "id": "2026-04-25T12",
+      "file": "2026-04-25T12.md",
+      "date": "2026-04-25T12:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈持续推进，伊朗外长抵巴谈判",
+        "en": "US-Iran Peace Talks Intensify as Iranian Foreign Minister Arrives in Pakistan"
+      }
+    },
+    {
+      "id": "2026-04-25T07",
+      "file": "2026-04-25T07.md",
+      "date": "2026-04-25T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T07",
+        "en": "New US-Pakistan Peace Talks Begin, Iranian Foreign Minister Arrives in Islamabad"
+      }
+    },
+    {
+      "id": "2026-04-25T05",
+      "file": "2026-04-25T05.md",
+      "date": "2026-04-25T05:00:00+08:00",
+      "title": {
+        "zh": "技术性更新：美伊局势监控恢复",
+        "en": "Technical Update: Iran-US Situation Monitoring Resumed"
+      }
+    },
+    {
+      "id": "2026-04-25T04",
+      "file": "2026-04-25T04.md",
+      "date": "2026-04-25T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T04",
+        "en": "US Escalates Sanctions on Iran, Diplomatic Talks Reach Stalemate"
+      }
+    },
+    {
+      "id": "2026-04-25T02",
+      "file": "2026-04-25T02.md",
+      "date": "2026-04-25T02:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T02",
+        "en": "US Envoy to Pakistan for Iran Talks, Ceasefire Sabotage in Lebanon"
+      }
+    },
+    {
+      "id": "2026-04-25T01",
+      "file": "2026-04-25T01.md",
+      "date": "2026-04-25T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-25T01",
+        "en": "Iran FM Heads to Pakistan for Talks, Hegseth Urges Iran to Make 'Wise Deal"
+      }
+    },
+    {
+      "id": "2026-04-24T18",
+      "file": "2026-04-24T18.md",
+      "date": "2026-04-24T18:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈再获进展，黎以停火延期三周",
+        "en": "US-Iran Peace Talks Make Progress, Israel-Lebanon Ceasefire Extended by 3 Weeks"
+      }
+    },
+    {
+      "id": "2026-04-24T14",
+      "file": "2026-04-24T14.md",
+      "date": "2026-04-24T14:00:00+08:00",
+      "title": {
+        "zh": "油价突破106美元！美伊在霍尔木兹海峡全面对峙",
+        "en": "Oil Prices Surpass $106 as US-Iran Standoff Escalates in Strait of Hormuz"
+      }
+    },
+    {
+      "id": "2026-04-24T13",
+      "file": "2026-04-24T13.md",
+      "date": "2026-04-24T13:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-24T13",
+        "en": "Trump Announces Lebanon Ceasefire Extension, Iran Rejects Islamabad Talks"
+      }
+    },
+    {
+      "id": "2026-04-24T12",
+      "file": "2026-04-24T12.md",
+      "date": "2026-04-24T12:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-24T12",
+        "en": "Trump Claims Complete Hormuz Strait Blockade, Iran Releases Counter-Strike Target List"
+      }
+    },
+    {
+      "id": "2026-04-24T06",
+      "file": "2026-04-24T06.md",
+      "date": "2026-04-24T06:00:00+08:00",
+      "title": {
+        "zh": "美伊僵局持续：霍尔木兹海峡紧张局势升级，多国寻求外交解决",
+        "en": "US-Iran Stalemate Continues: Hormuz Strait Tensions Escalate as Countries Seek Diplomatic Solutions"
+      }
+    },
+    {
+      "id": "2026-04-24T03",
+      "file": "2026-04-24T03.md",
+      "date": "2026-04-24T03:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-24T03",
+        "en": "Israel Defense Minister Threatens to 'Return Iran to Stone Age', Lebanon Accuses Israel of War Crimes"
+      }
+    },
+    {
+      "id": "2026-04-24T01",
+      "file": "2026-04-24T01.md",
+      "date": "2026-04-24T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-24T01",
+        "en": "Trump Orders Shoot-to-Kill for Iranian Vessels, Iran Releases Seizure Video"
+      }
+    },
+    {
+      "id": "2026-04-24T00",
+      "file": "2026-04-24T00.md",
+      "date": "2026-04-24T00:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-24T00",
+        "en": "Israel Arrests Spying Soldiers, Iran Collects Hormuz Transit Fees"
+      }
+    },
+    {
+      "id": "2026-04-23T22",
+      "file": "2026-04-23T22.md",
+      "date": "2026-04-23T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-23T22",
+        "en": "Trump Orders to Shoot Iranian Boats, Hormuz Strait Tensions Escalate"
+      }
+    },
+    {
+      "id": "2026-04-23T20",
+      "file": "2026-04-23T20.md",
+      "date": "2026-04-23T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-23T20",
+        "en": "Iran Collects Strait of Hormuz Tolls, US Navy Chief Resigns Abruptly"
+      }
+    },
+    {
+      "id": "2026-04-23T19",
+      "file": "2026-04-23T19.md",
+      "date": "2026-04-23T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-23T19",
+        "en": "Iran War Digest 2026-04-23T19"
+      }
+    },
+    {
+      "id": "2026-04-23T18",
+      "file": "2026-04-23T18.md",
+      "date": "2026-04-23T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-23T18",
+        "en": "Iran War Digest 2026-04-23T18"
+      }
+    },
+    {
+      "id": "2026-04-23T14",
+      "file": "2026-04-23T14.md",
+      "date": "2026-04-23T14:00:00+08:00",
+      "title": {
+        "zh": "以军空袭黎巴嫩致5人死亡 包括记者 美伊外交僵局持续",
+        "en": "Israeli Air Strikes Kill 5 in Lebanon Including Journalist, US-Iran Diplomatic Stalemate Continues"
+      }
+    },
+    {
+      "id": "2026-04-13T20",
+      "file": "2026-04-13T20.md",
+      "date": "2026-04-13T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-13T20",
+        "en": "Trump Launches Iranian Port Blockade, Oil Prices Exceed $100"
+      }
+    },
+    {
+      "id": "2026-04-13T07",
+      "file": "2026-04-13T07.md",
+      "date": "2026-04-13T07:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈破裂 美国宣布封锁伊朗港口 特朗普威胁打击伊朗能源设施",
+        "en": "US-Iran Talks Collapse, U.S. Announces Iran Port Blockade, Trump Threatens Energy Infrastructure Strikes"
+      }
+    },
+    {
+      "id": "2026-04-12T18",
+      "file": "2026-04-12T18.md",
+      "date": "2026-04-12T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-12T18",
+        "en": "U.S. Announces Hormuz Strait Blockade, Iran Rejects American Red Lines"
+      }
+    },
+    {
+      "id": "2026-04-12T16",
+      "file": "2026-04-12T16.md",
+      "date": "2026-04-12T16:00:00+08:00",
+      "title": {
+        "zh": "美伊和谈破裂 美国宣布封锁霍尔木兹海峡",
+        "en": "U.S.-Iran Talks Fail, Trump Announces Strait of Hormuz Blockade"
+      }
+    },
+    {
+      "id": "2026-04-12T10",
+      "file": "2026-04-12T10.md",
+      "date": "2026-04-12T10:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-12T10",
+        "en": "Pope Condemns Iran War Again, US Destroyers Cross Strait of Hormuz, US Deports Iranian Propagandist Family"
+      }
+    },
+    {
+      "id": "2026-04-12T09",
+      "file": "2026-04-12T09.md",
+      "date": "2026-04-12T09:00:00+08:00",
+      "title": {
+        "zh": "特朗普称和平协议'无所谓'，教皇谴责战争继续，美伊谈判陷入僵局",
+        "en": "Trump Says Peace Deal 'Makes No Difference', Pope Condemns War, US-Iran Talks Stalemate"
+      }
+    },
+    {
+      "id": "2026-04-12T07",
+      "file": "2026-04-12T07.md",
+      "date": "2026-04-12T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-12T07",
+        "en": "Iran War Digest 2026-04-12T07"
+      }
+    },
+    {
+      "id": "2026-04-12T06",
+      "file": "2026-04-12T06.md",
+      "date": "2026-04-12T06:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-12T06",
+        "en": "Iran War Digest 2026-04-12T06"
+      }
+    },
+    {
+      "id": "2026-04-12T05",
+      "file": "2026-04-12T05.md",
+      "date": "2026-04-12T05:00:00+08:00",
+      "title": {
+        "zh": "美伊和平谈判超时进行，美海军开始清理霍尔木兹海峡水雷",
+        "en": "US-Iran Talks Extend Beyond 9 Hours as Navy Begins Hormuz Mine Clearance"
+      }
+    },
+    {
+      "id": "2026-04-11T22",
+      "file": "2026-04-11T22.md",
+      "date": "2026-04-11T22:00:00+08:00",
+      "title": {
+        "zh": "美伊谈判持续进行：中国角色升级，霍尔木兹扫雷行动",
+        "en": "US-Iran Talks Continue: China's Role Escalates, Hormuz Mine Clearance Operations"
+      }
+    },
+    {
+      "id": "2026-04-11T20",
+      "file": "2026-04-11T20.md",
+      "date": "2026-04-11T20:00:00+08:00",
+      "title": {
+        "zh": "美伊和平谈判进展，特朗普宣布霍尔木兹海峡将重新开放",
+        "en": "US-Iran Peace Talks Progress, Trump Announces Strait of Hormuz Will Reopen"
+      }
+    },
+    {
+      "id": "2026-04-11T17",
+      "file": "2026-04-11T17.md",
+      "date": "2026-04-11T17:00:00+08:00",
+      "title": {
+        "zh": "Vance抵达伊斯兰堡：美伊和平谈判启动",
+        "en": "Vance Arrives in Islamabad: US-Iran Peace Talks Begin"
+      }
+    },
+    {
+      "id": "2026-04-11T16",
+      "file": "2026-04-11T16.md",
+      "date": "2026-04-11T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T16",
+        "en": "Iran War Digest 2026-04-11T16"
+      }
+    },
+    {
+      "id": "2026-04-11T14",
+      "file": "2026-04-11T14.md",
+      "date": "2026-04-11T14:00:00+08:00",
+      "title": {
+        "zh": "万斯赴巴谈判：以色列轰炸黎巴嫩，美伊和平进程启动",
+        "en": "Vance Heads to Pakistan: Israel Bombards Lebanon, US-Iran Peace Process Begins"
+      }
+    },
+    {
+      "id": "2026-04-11T10",
+      "file": "2026-04-11T10.md",
+      "date": "2026-04-11T10:00:00+08:00",
+      "title": {
+        "zh": "黎以华盛顿会谈确定，美伊巴基斯坦和谈启动",
+        "en": "Lebanon-Israel Talks Set for Washington, US-Iran Peace Talks Begin in Pakistan"
+      }
+    },
+    {
+      "id": "2026-04-11T08",
+      "file": "2026-04-11T08.md",
+      "date": "2026-04-11T08:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T08",
+        "en": "Iran Delegation Arrives in Pakistan, Strait of Hormuz Crisis Persists"
+      }
+    },
+    {
+      "id": "2026-04-11T06",
+      "file": "2026-04-11T06.md",
+      "date": "2026-04-11T06:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T06",
+        "en": "Lebanon-Israel Washington Talks Begin, Pope Condemns Iran War"
+      }
+    },
+    {
+      "id": "2026-04-11T05",
+      "file": "2026-04-11T05.md",
+      "date": "2026-04-11T05:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T05",
+        "en": "Iran War Digest 2026-04-11T05"
+      }
+    },
+    {
+      "id": "2026-04-11T04",
+      "file": "2026-04-11T04.md",
+      "date": "2026-04-11T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T04",
+        "en": "Iran War Digest 2026-04-11T04"
+      }
+    },
+    {
+      "id": "2026-04-11T02",
+      "file": "2026-04-11T02.md",
+      "date": "2026-04-11T02:00:00+08:00",
+      "title": {
+        "zh": "美伊伊斯兰堡谈判启动：以色列持续轰炸黎巴嫩，伊朗提出谈判前提，霍尔木兹海峡运输低迷",
+        "en": "US-Iran Islamabad Talks Begin: Israel Continues Lebanon Bombing, Iran Sets Preconditions, Hormuz Traffic低迷"
+      }
+    },
+    {
+      "id": "2026-04-11T01",
+      "file": "2026-04-11T01.md",
+      "date": "2026-04-11T01:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-11T01",
+        "en": "Islamabad Talks Loom: Vance Departs for Pakistan, Iran Sets Ceasefire Conditions, Hormuz Traffic Remains Low"
+      }
+    },
+    {
+      "id": "2026-04-10T22",
+      "file": "2026-04-10T22.md",
+      "date": "2026-04-10T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态：黎巴嫩空袭造成重大平民伤亡，万斯赴巴谈判",
+        "en": "Iran War Developments: Lebanon Strikes Cause Civilian Casualties, Vance to Pakistan"
+      }
+    },
+    {
+      "id": "2026-04-10T17",
+      "file": "2026-04-10T17.md",
+      "date": "2026-04-10T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-10T17",
+        "en": "Eve of Islamabad Talks: Intensive Diplomatic Mediation, Iranian Banks to Resume Operations"
+      }
+    },
+    {
+      "id": "2026-04-10T16",
+      "file": "2026-04-10T16.md",
+      "date": "2026-04-10T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-10T16",
+        "en": "Kuwait Accuses Iran of Ceasefire Violation, Ukraine Downs Iranian Drones"
+      }
+    },
+    {
+      "id": "2026-04-10T01",
+      "file": "2026-04-10T01.md",
+      "date": "2026-04-10T01:00:00+08:00",
+      "title": {
+        "zh": "多国谴责黎巴嫩袭击，美伊停火争议持续",
+        "en": "Multiple Countries Condemn Lebanon Attacks, US-Iran Ceasefire Dispute Continues"
+      }
+    },
+    {
+      "id": "2026-04-09T23",
+      "file": "2026-04-09T23.md",
+      "date": "2026-04-09T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T23",
+        "en": "IMF Warns Iran War Will Slow Global Economic Growth as Outlook Darkens"
+      }
+    },
+    {
+      "id": "2026-04-09T22",
+      "file": "2026-04-09T22.md",
+      "date": "2026-04-09T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T22",
+        "en": "Germany Warns NATO Under Pressure, Lebanon Files U.N. Complaint, 203 Dead"
+      }
+    },
+    {
+      "id": "2026-04-09T21",
+      "file": "2026-04-09T21.md",
+      "date": "2026-04-09T21:00:00+08:00",
+      "title": {
+        "zh": "美伊停火协议遭以色列挑战 伊朗宣布霍尔木兹海峡替代航线",
+        "en": "US-Iran Ceasefire Challenged by Israel Strikes; Iran Announces Hormuz Alternative Routes"
+      }
+    },
+    {
+      "id": "2026-04-09T20",
+      "file": "2026-04-09T20.md",
+      "date": "2026-04-09T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T20",
+        "en": "Israel Continues Lebanon Strikes Condemned by Iran, Journalist Death Sparks Controversy"
+      }
+    },
+    {
+      "id": "2026-04-09T19",
+      "file": "2026-04-09T19.md",
+      "date": "2026-04-09T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T19",
+        "en": "Iran War Digest 2026-04-09T19"
+      }
+    },
+    {
+      "id": "2026-04-09T18",
+      "file": "2026-04-09T18.md",
+      "date": "2026-04-09T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T18",
+        "en": "Iran War Digest 2026-04-09T18"
+      }
+    },
+    {
+      "id": "2026-04-09T17",
+      "file": "2026-04-09T17.md",
+      "date": "2026-04-09T17:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T17",
+        "en": "Iran War Digest 2026-04-09T17"
+      }
+    },
+    {
+      "id": "2026-04-09T16",
+      "file": "2026-04-09T16.md",
+      "date": "2026-04-09T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T16",
+        "en": "Iran War Digest 2026-04-09T16"
+      }
+    },
+    {
+      "id": "2026-04-09T12",
+      "file": "2026-04-09T12.md",
+      "date": "2026-04-09T12:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T12",
+        "en": "Ceasefire Faces New Challenges: Trump Reinforces Middle East, UN Warns on Lebanon Risk"
+      }
+    },
+    {
+      "id": "2026-04-09T06",
+      "file": "2026-04-09T06.md",
+      "date": "2026-04-09T06:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T06",
+        "en": "Iran Accuses US of Violating Framework, Israel Expands Lebanon Strikes"
+      }
+    },
+    {
+      "id": "2026-04-09T02",
+      "file": "2026-04-09T02.md",
+      "date": "2026-04-09T02:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T02",
+        "en": "Iran Closes Strait of Hormuz After Lebanon Strikes"
+      }
+    },
+    {
+      "id": "2026-04-09T00",
+      "file": "2026-04-09T00.md",
+      "date": "2026-04-09T00:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-09T00",
+        "en": "Trump Says US to Work with Iran on Uranium Digging, Israel Continues Beirut Bombing"
+      }
+    },
+    {
+      "id": "2026-04-08T23",
+      "file": "2026-04-08T23.md",
+      "date": "2026-04-08T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T23",
+        "en": "Iran War Digest 2026-04-08T23"
+      }
+    },
+    {
+      "id": "2026-04-08T21",
+      "file": "2026-04-08T21.md",
+      "date": "2026-04-08T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T21",
+        "en": "Ceasefire Follow-up: Iranian President Takes Hardline Stance, Hormuz Transit Issues Persist"
+      }
+    },
+    {
+      "id": "2026-04-08T20",
+      "file": "2026-04-08T20.md",
+      "date": "2026-04-08T20:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T20",
+        "en": "Iran Plans Hormuz Strait Transit Fees, New Phase After Ceasefire"
+      }
+    },
+    {
+      "id": "2026-04-08T19",
+      "file": "2026-04-08T19.md",
+      "date": "2026-04-08T19:00:00+08:00",
+      "title": {
+        "zh": "停火后石油暴跌，美伊冲突持续升级",
+        "en": "Oil Prices Plunge After Ceasefire, US-Iran Tensions Persist"
+      }
+    },
+    {
+      "id": "2026-04-08T18",
+      "file": "2026-04-08T18.md",
+      "date": "2026-04-08T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T18",
+        "en": "Iran Claims Victory as Post-Ceasefire Talks Planned in Islamabad"
+      }
+    },
+    {
+      "id": "2026-04-08T16",
+      "file": "2026-04-08T16.md",
+      "date": "2026-04-08T16:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T16",
+        "en": "Iran War Digest 2026-04-08T16"
+      }
+    },
+    {
+      "id": "2026-04-08T14",
+      "file": "2026-04-08T14.md",
+      "date": "2026-04-08T14:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T14",
+        "en": "Iran War Digest 2026-04-08T14"
+      }
+    },
+    {
+      "id": "2026-04-08T11",
+      "file": "2026-04-08T11.md",
+      "date": "2026-04-08T11:00:00+08:00",
+      "title": {
+        "zh": "美伊达成两周停火协议，以色列表示不包含对真主党战斗",
+        "en": "US and Iran Agree to Two-Week Ceasefire, Israel Excludes Hezbollah Fighting"
+      }
+    },
+    {
+      "id": "2026-04-08T09",
+      "file": "2026-04-08T09.md",
+      "date": "2026-04-08T09:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T09",
+        "en": "Sixth Ceasefire Extension Talks Begin, Iranian Western Region Conflict Escalates"
+      }
+    },
+    {
+      "id": "2026-04-08T07",
+      "file": "2026-04-08T07.md",
+      "date": "2026-04-08T07:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T07",
+        "en": "Iran War Digest 2026-04-08T07"
+      }
+    },
+    {
+      "id": "2026-04-08T05",
+      "file": "2026-04-08T05.md",
+      "date": "2026-04-08T05:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T05",
+        "en": "Trump Threatens Civilization Destruction, Iran Escalates Countermeasures"
+      }
+    },
+    {
+      "id": "2026-04-08T04",
+      "file": "2026-04-08T04.md",
+      "date": "2026-04-08T04:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T04",
+        "en": "Iran War Digest 2026-04-08T04"
+      }
+    },
+    {
+      "id": "2026-04-08T03",
+      "file": "2026-04-08T03.md",
+      "date": "2026-04-08T03:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T03",
+        "en": "Trump's 'Civilization Destruction' Threat Sparks International Condemnation, Iran Fires 7th Missile Barrage at Israel"
+      }
+    },
+    {
+      "id": "2026-04-08T02",
+      "file": "2026-04-08T02.md",
+      "date": "2026-04-08T02:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T02",
+        "en": "Trump threatens Iran energy destruction as Tehran rejects ceasefire talks deadlock"
+      }
+    },
+    {
+      "id": "2026-04-08T00",
+      "file": "2026-04-08T00.md",
+      "date": "2026-04-08T00:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-08T00",
+        "en": "Trump 'Civilization Death Warning' Escalates, US-Israel Strike Iranian Infrastructure Again"
+      }
+    },
+    {
+      "id": "2026-04-07T23",
+      "file": "2026-04-07T23.md",
+      "date": "2026-04-07T23:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-07T23",
+        "en": "Eve of Deadline: Israel Confirms Strikes on 8 Bridges, Trump Criticized by Both Parties, Iran Closes Diplomatic Channels with US, UK Refuses US Base Access"
+      }
+    },
+    {
+      "id": "2026-04-07T22",
+      "file": "2026-04-07T22.md",
+      "date": "2026-04-07T22:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-07T22",
+        "en": "Kharg Island Hit Multiple Times, Trump Issues 'Civilization Will Die' Threat, Iran Vows Cross-Regional Retaliation"
+      }
+    },
+    {
+      "id": "2026-04-07T21",
+      "file": "2026-04-07T21.md",
+      "date": "2026-04-07T21:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-07T21",
+        "en": "Countdown to Deadline: Airstrikes Hit Iranian Bridges and Train Station, Trump Warns 'Whole Civilization Will Die Tonight', US Strikes Kharg Island Again"
+      }
+    },
+    {
+      "id": "2026-04-07T19",
+      "file": "2026-04-07T19.md",
+      "date": "2026-04-07T19:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-07T19",
+        "en": "Trump's Deadline Looms: Israel Warns Iranians to Avoid Trains, Saudi Closes Link to Bahrain"
+      }
+    },
+    {
+      "id": "2026-04-07T18",
+      "file": "2026-04-07T18.md",
+      "date": "2026-04-07T18:00:00+08:00",
+      "title": {
+        "zh": "美伊战争动态 2026-04-07T18",
+        "en": "Eve of Deadline: Iran Rejects Ceasefire, Trump Threatens to Destroy Infrastructure in 4 Hours"
       }
     }
   ]
