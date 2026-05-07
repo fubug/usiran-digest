@@ -28,6 +28,20 @@
         "美伊战争",
         "合规检查"
       ]
+    },
+    {
+      "id": "2026-05-07T1700-comprehensive-audit",
+      "file": "data/digest/digest-quality-audit-2026-05-07T1700-comprehensive.md",
+      "date": "2026-05-07T17:00:00Z",
+      "title": {
+        "zh": "美伊战争综合质量审计 - 2026年05月07日 17:00",
+        "en": "US-Iran Comprehensive Quality Audit - 2026-05-07 17:00"
+      },
+      "tags": [
+        "综合审计",
+        "美伊战争",
+        "质量评估"
+      ]
     }
     {
       "id": "2026-05-07T1400",
