@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-07T11:05:44+08:00",
+  "updated": "2026-05-08T07:03:41+08:00",
   "files": [
+    {
+      "id": "2026-05-08T07",
+      "file": "2026-05-08T07.md",
+      "date": "2026-05-08T07:03:41+08:00",
+      "title": {
+        "zh": "美伊战争动态",
+        "en": "Iran War Developments"
+      },
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "2026-05-08T07",
+      "file": "2026-05-08T07.md",
+      "date": "2026-05-08T07:04:11+08:00",
+      "title": {
+        "zh": "美伊战争动态",
+        "en": "Iran War Developments"
+      },
+      "tags": [
+        "military"
+      ]
+    },
     {
       "id": "2026-05-07T11",
       "file": "data/digest/2026-05-07T11.md",
